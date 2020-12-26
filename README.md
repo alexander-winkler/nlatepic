@@ -19,6 +19,8 @@ Currently, the data is stored in a simple `csv` file (`works.csv`) that can be v
 
 The database is deeply indebted to the mentioned sources. The data collected here is provided under a CC0 licence, so feel free to use and develop it as you like.
 
+![CC0](https://commons.wikimedia.org/wiki/File:CC0_button.svg)
+
 You can refer to this collection as follows:
 
 *Winkler, Alexander: "Database of Neo-Latin epic poems", 2020-, http://doi.org/10.5281/zenodo.4393854*
