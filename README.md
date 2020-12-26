@@ -8,6 +8,8 @@ I have also created a public [zotero group on Neo-Latin epic poetry](https://www
 
 The very defition of 'epic poetry' is far from clear and undisputed. Most epic poems are longish narrative texts in hexameters. However, shorter narrative poems can also qualify as 'epic' poems (they can be referred to as 'epyllia'). There are even narrative texts in the elegiac metre that some might consider 'epic', e.g. Bargaeus' 'De Radagasi caede elegia'. 
 
+Currently, the data is stored in a simple `csv` file (`works.csv`) that can be viewed on github or downloaded and viewed in libreoffice Calc or Excel.
+
 # Todo
 
   * IJsewijn/Sacré 1998 and other overviews and add data
