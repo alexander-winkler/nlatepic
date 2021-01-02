@@ -10,11 +10,13 @@ The very defition of 'epic poetry' is far from clear and undisputed. Most epic p
 
 Currently, the data is stored in a simple `csv` file (`works.csv`) that can be viewed on github or downloaded and viewed in libreoffice Calc or Excel. I am still trying to find out which categories are useful in order to efficiently describe the texts in the corpus. I try to add authority file ids to the authors and bibliographic ids to the prints in order to make them more easily retrievable.
 
-The bibliographic references use the Zotero citation keys from the collectin mentioned above.
+The bibliographic references use the Zotero citation keys from the collection mentioned above.
+
+If you want to contribute, [create an issue on github](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or send me an email ({first name}_{name}{at}posteo{dot}de).
 
 # Todo
 
-  * IJsewijn/Sacré 1998 and other overviews and add data
+* Look through IJsewijn/Sacré 1998 and other overviews and add data.
 * Create frontend (maybe similar to [Catalogue of Critical Editions](https://dig-ed-cat.acdh.oeaw.ac.at/browsing/editions/), open source on [github](https://github.com/acdh-oeaw/dig_ed_cat)). Maybe the [json-editor](https://github.com/json-editor/json-editor) can be adapted.
 
 # Licence
@@ -23,6 +25,6 @@ The database is deeply indebted to the mentioned sources. The data collected her
 
 <a title="Creative Commons, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:CC0_button.svg"><img width="64" alt="CC0 button" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/CC0_button.svg/64px-CC0_button.svg.png"></a>
 
-If you want to refer to this database, you can use the following citations suggestion:
+If you want to refer to this database, you can cite it as follows:
 
 *Winkler, Alexander: "Database of Neo-Latin Epic Poems", 2020-, http://doi.org/10.5281/zenodo.4393854*
