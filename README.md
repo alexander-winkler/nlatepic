@@ -6,17 +6,90 @@ There has been considerable progress in the field of Neo-Latin epic poetry in re
 
 I have also created a public [zotero group on Neo-Latin epic poetry](https://www.zotero.org/groups/2680665/neolatin_epic). Feel free to contribute!
 
-The very defition of 'epic poetry' is far from clear and undisputed. Most epic poems are longish narrative texts in hexameters. However, shorter narrative poems can also qualify as 'epic' poems (they can also be referred to as 'epyllia', an equally problematic term). There are even narrative texts in the elegiac metre that some might consider 'epic', e.g. Bargaeus' 'De Radagasi caede elegia'. 
+The very defition of 'epic poetry' is far from clear and undisputed. Most epic poems are longish narrative texts in hexameters. However, shorter narrative poems can also qualify as 'epic' poems (they can also be referred to as 'epyllia', an equally problematic term, cf. korenjakShortMythologicalEpic2012). There are even narrative texts in the elegiac metre that some might consider 'epic', e.g. Bargaeus' 'De Radagasi caede elegia' (differently @moulNeoLatinPoetry15002016).
+
+Ludwig Braun's (2007: 1) definition:
+
+> Unter einem Epos verstehe ich eine
+> erzählende Dichtung in lateinischen Hexametern, die einen Umfang
+> von mehr als einem Buch hat oder doch nach der ursprünglichen
+> Absicht des Verfassers offenbar einmal haben sollte.
+
+
 
 Currently, the data is stored in a simple `csv` file (`works.csv`) that can be viewed on github or downloaded and viewed in libreoffice Calc or Excel. I am still trying to find out which categories are useful in order to efficiently describe the texts in the corpus. I try to add authority file ids to the authors and bibliographic ids to the prints in order to make them more easily retrievable.
 
 The bibliographic references use the Zotero citation keys from the collection mentioned above.
 
-If you want to contribute, [create an issue on github](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or send me an email ({first name}_{name}{at}posteo{dot}de).
+If you want to contribute, [create an issue on github](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or send me an email ({first name}\_{name}{at}posteo{dot}de).
+
+# Possible JSON-Schema for database
+
+The csv format cannot cope properly with hierarchical data, which is unfortunate for our usecase. JSON would be decidedly better: it is readable, lightweight an supports complex hierarchies.
+
+The database could eventually consist of a list of JSON objects which respect the following schema:
+
+```json
+
+{
+  "author" : [
+    { "name" : string,
+      "authority file" : 
+        { "wikidata" : string,
+          "viaf" : string,
+          ...
+        }
+    },
+    ...
+    ],
+  "title" : string,
+  "number of books" : int,
+  "number of verses" : int,
+  "metre" : "hex"|"eleg",
+  "subject" : string,
+  "ordo" : "naturalis"|"artificialis",
+  "Götterapparat" : "pagan"|"Christian"|"mixed"|"None",
+  "date" : [
+    { "year" : int|range,
+      "description" string
+    },
+    ...
+    ],
+  "category" : [
+    list of strings
+    ],
+  "transmission statement" : "framgent"|"lost"
+  "source" : string,
+  "editions" : [
+    {
+      "vd16" : string,
+      "vd17" : string,
+      ...,
+      "digital version" : [
+        { 
+          "urn" : string,
+          "purl" : string,
+          "format" : "scan"|"text"
+        },
+        ...
+        ]
+    },
+    ...
+    ]
+}
+
+```
+
+
+ 
 
 # Todo
 
 * Look through IJsewijn/Sacré 1998 and other overviews and add data.
+# Todo
+
+* Look through IJsewijn/Sacré 1998 and other overviews and add data.
+* Look through Jensen, Minna Skafte. 1995. A History of Nordic Neo-Latin Literature. University Press of Southern Denmark.
 * Create frontend (maybe similar to [Catalogue of Critical Editions](https://dig-ed-cat.acdh.oeaw.ac.at/browsing/editions/), open source on [github](https://github.com/acdh-oeaw/dig_ed_cat)). Maybe the [json-editor](https://github.com/json-editor/json-editor) can be adapted.
 
 # Licence
