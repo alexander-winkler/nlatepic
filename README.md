@@ -23,69 +23,10 @@ The bibliographic references use the Zotero citation keys from the collection me
 
 If you want to contribute, [create an issue on github](https://docs.github.com/en/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) or send me an email ({first name}\_{name}{at}posteo{dot}de).
 
-# Possible JSON-Schema for database
-
-The csv format cannot cope properly with hierarchical data, which is unfortunate for our usecase. JSON would be decidedly better: it is readable, lightweight an supports complex hierarchies.
-
-The database could eventually consist of a list of JSON objects which respect the following schema:
-
-```json
-
-{
-  "author" : [
-    { "name" : string,
-      "authority file" : 
-        { "wikidata" : string,
-          "viaf" : string,
-          ...
-        }
-    },
-    ...
-    ],
-  "title" : string,
-  "number of books" : int,
-  "number of verses" : int,
-  "metre" : "hex"|"eleg",
-  "subject" : string,
-  "ordo" : "naturalis"|"artificialis",
-  "Götterapparat" : "pagan"|"Christian"|"mixed"|"None",
-  "date" : [
-    { "year" : int|range,
-      "description" string
-    },
-    ...
-    ],
-  "category" : [
-    list of strings
-    ],
-  "transmission statement" : "framgent"|"lost"
-  "source" : string,
-  "editions" : [
-    {
-      "vd16" : string,
-      "vd17" : string,
-      ...,
-      "digital version" : [
-        { 
-          "urn" : string,
-          "purl" : string,
-          "format" : "scan"|"text"
-        },
-        ...
-        ]
-    },
-    ...
-    ]
-}
-
-```
-
 
  
 
-# Todo
 
-* Look through IJsewijn/Sacré 1998 and other overviews and add data.
 # Todo
 
 * Look through IJsewijn/Sacré 1998 and other overviews and add data.
