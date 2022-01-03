@@ -1,0 +1,15 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema",
+    "type" : "object",
+    "properties": {
+        "author" : {
+            "name" : "string",
+            "object" : {
+                "authority file" : "string",
+                "number" : "string"
+            }
+        },
+        "title" : "string",
+        "date" : "number"     
+    }
+}
