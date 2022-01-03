@@ -960,7 +960,11 @@
     },
     {
         "author": {
-            "name": "Giacomo dalla Piet\u00e0"
+            "name": "Giacomo dalla Piet\u00e0",
+            "ID" : [{
+                "VIAF" : "http://viaf.org/viaf/26161149574534940140"
+
+            }]
         },
         "title": "Ioannispaulias",
         "content": {
@@ -1088,11 +1092,16 @@
     },
     {
         "author": {
-            "name": "Martinus Doletus"
+            "name": "Martinus Doletus",
+            "ID" : [{
+                "VIAF" : "http://viaf.org/viaf/213145542776696642382"
+            }]
         },
         "title": "Parta ab Ludovico Victoria",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_verses" : "414",
+            "num_books" : "1"
         },
         "dates": [
             {
@@ -1106,17 +1115,34 @@
     },
     {
         "author": {
-            "name": "Sylviolus"
+            "name": "Antoine Forestier",
+            "ID" : [{
+                "VIAF" : "http://viaf.org/viaf/262928021"
+            }]
         },
         "title": "Ludovici in Venetos Victoria",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "1",
+            "num_verses" : "1036",
+            "subject" : [
+                {
+                    "url" : "Q1754732",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Battle of Agnadello"
+                    }
+                }
+            ]
         },
         "dates": [
             {
                 "value": "1509",
                 "qualification ": ""
             }
+        ],
+        "urls" : [
+            "https://gallica.bnf.fr/ark:/12148/bpt6k705970"
         ],
         "bibrefs": [
             "Braun 2007: 70"
@@ -1127,7 +1153,7 @@
             "name": "Monsmoretanus",
             "ID": [
                 {
-                    "VIAF": "122038877"
+                    "VIAF": "http://viaf.org/viaf/122038877"
                 }
             ]
         },
@@ -1152,7 +1178,7 @@
             "name": "Monsmoretanus",
             "ID": [
                 {
-                    "VIAF": "122038877"
+                    "VIAF": "http://viaf.org/viaf/122038877"
                 }
             ]
         },
@@ -1175,7 +1201,7 @@
             "name": "Monsmoretanus",
             "ID": [
                 {
-                    "VIAF": "122038877"
+                    "VIAF": "http://viaf.org/viaf/122038877"
                 }
             ]
         },
@@ -1323,6 +1349,9 @@
         ],
         "bibrefs": [
             "Braun 2007: 119"
+        ],
+        "urls" : [
+            "https://books.google.de/books?id=TeU7WutKghoC"
         ]
     },
     {
@@ -2162,7 +2191,12 @@
     },
     {
         "author": {
-            "name": "Monsmoretanus"
+            "name": "Monsmoretanus",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/122038877"
+                }
+            ]
         },
         "title": "Herveis",
         "content": {
@@ -3358,24 +3392,6 @@
         "dates": [
             {
                 "value": "1580",
-                "qualification ": ""
-            }
-        ],
-        "bibrefs": [
-            "braunPedisequaCamenaeZur2020: 12*"
-        ]
-    },
-    {
-        "author": {
-            "name": "Franciscus Maurus"
-        },
-        "title": "Franciscias",
-        "content": {
-            "metre": "hex"
-        },
-        "dates": [
-            {
-                "value": "1571",
                 "qualification ": ""
             }
         ],
