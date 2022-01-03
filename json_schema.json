@@ -66,6 +66,16 @@
                     "format" : "uri"
             }},
             "bibrefs" : {"type" : "array"}
+            },
+            "manifestations" : {
+                "type" : "array",
+                "items" : {
+                    "type" : "object",
+                    "properties": {
+                        "description" : "string",
+                        "ID" : "string"
+                    }
+                }
             }
         }
     }

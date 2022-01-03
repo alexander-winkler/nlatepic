@@ -1316,7 +1316,16 @@
         },
         "title": "Passio Iesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -1356,12 +1365,16 @@
     },
     {
         "author": {
-            "name": "Pilladius"
+            "name": "Laurentius Pilladius",
+            "ID" : [{
+                "VIAF" : "http://viaf.org/viaf/36906997"
+            }]
         },
         "title": "Rusticias",
         "content": {
             "metre": "hex",
-            "ordo": "naturalis"
+            "ordo": "naturalis",
+            "num_books" : "6"
         },
         "dates": [
             {
@@ -1371,6 +1384,12 @@
         ],
         "bibrefs": [
             "Braun 2007: 131"
+        ],
+        "manifestations": [
+            {
+                "description": "SBN",
+                "ID": "IT\\ICCU\\UM1E\\022649"
+            }
         ]
     },
     {
@@ -3447,7 +3466,17 @@
             ]
         },
         "title": "Moseis",
-        "content": {},
+        "content": {
+            "subject" : [
+                { 
+                    "url" : "Q9077",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Moses"
+                    }
+                }
+            ]
+        },
         "bibrefs": [
             "Titi\u2019s ommentary on Syiras"
         ]
@@ -3458,7 +3487,16 @@
         },
         "title": "De dominica passione",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -5451,7 +5489,16 @@
         },
         "title": "Historia Passionis Domini Nostri Jesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -5507,7 +5554,16 @@
         },
         "title": "Christiados sive de passione Domini et Salvatoris nostri Jesu Christi libri XVII",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -9555,7 +9611,16 @@
         },
         "title": "De Dominica passione",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -9941,7 +10006,16 @@
         },
         "title": "De Domini nostri Jesu Christi passione",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -9964,7 +10038,16 @@
         },
         "title": "De Dominicae passionis die",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10036,7 +10119,16 @@
         },
         "title": "Historia passionis et mortis Domini",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10167,7 +10259,16 @@
         },
         "title": "Historia passionis Iesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10185,13 +10286,25 @@
         },
         "title": "Staurosis",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
                 "value": "1570",
                 "qualification ": ""
             }
+        ],
+        "urls" : [
+            "https://books.google.de/books?id=F8JCtwAACAAJ"
         ],
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
@@ -10419,7 +10532,16 @@
         },
         "title": "Historia passionis domini",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10437,7 +10559,16 @@
         },
         "title": "Passio et mors Domini",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10455,7 +10586,16 @@
         },
         "title": "Historia passionis et mortis Jesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10491,7 +10631,16 @@
         },
         "title": "De passione, morte et resurrectione Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10586,7 +10735,16 @@
         },
         "title": "Carmen de passione suis distincta horis, de resurrectione et ascensione Jesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10735,7 +10893,16 @@
         },
         "title": "Historia passionis Jesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10753,7 +10920,16 @@
         },
         "title": "Historia passionis Jesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10920,7 +11096,16 @@
         },
         "title": "De amara Christi passione",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -10975,7 +11160,16 @@
         },
         "title": "De passione Domini",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11209,7 +11403,16 @@
         },
         "title": "De passione et morte Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11286,7 +11489,16 @@
         },
         "title": "De passione et morte Iesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11304,7 +11516,16 @@
         },
         "title": "Historia passionis",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11423,7 +11644,16 @@
         },
         "title": "De Christi passione et morte",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11459,7 +11689,16 @@
         },
         "title": "De passione Jesu Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11495,7 +11734,16 @@
         },
         "title": "Historia passionis et mortis Domini",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11672,7 +11920,16 @@
         },
         "title": "Historia passionis Dominicae",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11726,7 +11983,16 @@
         },
         "title": "De passione Domini",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11863,7 +12129,16 @@
         },
         "title": "Jesu Christi passio",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q623306",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Passion"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -13917,7 +14192,19 @@
             "name": "Ulrich Bollinger"
         },
         "title": "Moseis sive carmen heroicum de rebus gestis Mosis",
-        "content": {},
+        "content": {
+            "num_books" : "4",
+            "metre" : "hex",
+            "subject" : [
+                { 
+                    "url" : "Q9077",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Moses"
+                    }
+                }
+            ]
+        },
         "dates": [
             {
                 "value": "1597",
@@ -13926,6 +14213,19 @@
         ],
         "bibrefs": [
             "Rep_Heidelberg"
+        ],
+        "manifestations": [
+            {
+                "description": "VD16",
+                "ID": "VD16 ZV 2234"
+            },
+            {
+                "description" : "URN",
+                "ID" : "urn:nbn:de:gbv:3:1-165763"
+            }
+        ],
+        "urls" : [
+            "http://dx.doi.org/10.25673/opendata2-5395"
         ]
     },
     {
