@@ -115,11 +115,15 @@ def parserow(row:list):
                 }
             )
 
-    for url in itemgetter(25,26)(row):
-        if not url == "":
-            if not "urls" in tmpDict.keys():
-                tmpDict["urls"] = []
-            tmpDict['urls'].append(url)
+    if not row[25] == "":
+        if not "urls" in tmpDict.keys():
+            tmpDict["urls"] = []
+        tmpDict['urls'].append(f"https://nbn-resolving.de/{row[25]}")
+
+    if not row[26] == "":
+        if not "urls" in tmpDict.keys():
+            tmpDict["urls"] = []
+        tmpDict['urls'].append(row[26])
 
     for url in itemgetter(27,29,31,33,36)(row):
         if not url == "":

@@ -39,13 +39,28 @@ let counter = document.querySelector("#counter");
                                     console.log(`${entry[KEY]}`) ;
                                     authCellText += ` <a href="${entry[KEY]}"><img src="img/DNB.png"></img></a>`
                                 }
+
+                                if (KEY === "VIAF") {
+                                    console.log(`${entry[KEY]}`) ;
+                                    authCellText += ` <a href="${entry[KEY]}"><img src="img/Viaf_icon.png"></img></a>`
+                                }
+
+                                if (KEY === "BNF") {
+                                    console.log(`${entry[KEY]}`) ;
+                                    authCellText += ` <a href="https://catalogue.bnf.fr/${entry[KEY]}"><img src="img/Logo_BNF_Web.png"></img></a>`
+                                }
                             })})
                         }
 
                         if (typeof obj.content.subject != "undefined") {
                             let subjCellText = "";
                             obj.content.subject.forEach(entry => {
-                                subjCellText += `<a href="https://www.wikidata.org/wiki/${entry.url}">${entry.label.value} <img src="img/WKP.png"></img></a>`
+                                if (typeof entry.label === "undefined") {
+                                    var label = " << to be added >>";
+                                } else {
+                                    var label = entry.label.value;
+                                }
+                                subjCellText += `<a href="https://www.wikidata.org/wiki/${entry.url}">${label} <img src="img/WKP.png"></img></a>`
                             })
                             subjCell.innerHTML = subjCellText;
                         }
