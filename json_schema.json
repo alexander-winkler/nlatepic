@@ -72,8 +72,8 @@
                 "items" : {
                     "type" : "object",
                     "properties": {
-                        "description" : "string",
-                        "ID" : "string"
+                        "description" : {"type": "string" },
+                        "ID" : {"type" : "string"}
                     }
                 }
             }
