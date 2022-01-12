@@ -23,8 +23,12 @@
                 }
               ]
         },
-        "urls": [
-            "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10207574-7 "
+        "manifestations" : [
+            {
+                "description" : "BSB ID",
+                "ID": "848559",
+                "url" : "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10207574-7"
+            }
         ],
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 23"
@@ -15775,7 +15779,6 @@
     {
         "author" : {
             "name" : "Priamus Capotius",
-            "title" : "Fridericeis",
             "ID" : [
                 {
                     "GND" : "https://d-nb.info/gnd/119636891",
@@ -15783,6 +15786,7 @@
                 }
             ]
         },
+        "title" : "Fridericeis",
         "content" : {
             "metre" : "hex",
             "num_books" : "1",
@@ -15803,6 +15807,9 @@
                 }
             ]
         },
+        "bibrefs" :[
+            ""
+        ],
         "manifestations": [
             {
                 "description": "GW",

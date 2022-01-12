@@ -6,7 +6,7 @@ fetch('works.json')
 .then(data => {
 counter.innerHTML = data.length;
 
-for (var i = 0; len = data.length; i++) {
+for (var i = 0; i < data.length; i++) {
     
     let obj = data[i];
 
@@ -20,7 +20,6 @@ for (var i = 0; len = data.length; i++) {
     digiCell = document.createElement("td");
 
     if (typeof obj.author.name != "undefined") {
-        console.log(obj.author.name)
         authCellText = obj.author.name
     } else {
         authCellText = "Anoynmus/Unknown";
@@ -31,22 +30,18 @@ for (var i = 0; len = data.length; i++) {
         Object.keys(entry).forEach(KEY => {
             
             if (KEY === "wikidata") {
-                console.log(`https://www.wikidata.org/wiki/${entry[KEY]}`) ;
                 authCellText += ` <a href="https://www.wikidata.org/wiki/${entry[KEY]}"><img src="img/WKP.png"></img></a>`
             }
 
             if (KEY === "GND") {
-                console.log(`${entry[KEY]}`) ;
                 authCellText += ` <a href="${entry[KEY]}"><img src="img/DNB.png"></img></a>`
             }
 
             if (KEY === "VIAF") {
-                console.log(`${entry[KEY]}`) ;
                 authCellText += ` <a href="${entry[KEY]}"><img src="img/Viaf_icon.png"></img></a>`
             }
 
             if (KEY === "BNF") {
-                console.log(`${entry[KEY]}`) ;
                 authCellText += ` <a href="https://catalogue.bnf.fr/${entry[KEY]}"><img src="img/Logo_BNF_Web.png"></img></a>`
             }
         })})
@@ -82,12 +77,19 @@ for (var i = 0; len = data.length; i++) {
         noveCell.innerHTML = "-";
     }
 
+    let digiCellText = "";
     if (typeof obj.urls != "undefined") {
-        let digiCellText = "";
         obj.urls.forEach(url => {
             digiCellText += `<a href="${url}"><img src="img/Book.png"></img></a>`;
-        digiCell.innerHTML = digiCellText;
         })};
+    if (typeof obj.manifestations != "undefined") {
+        for (var j = 0; j < obj.manifestations.length; j++) {
+            if (typeof obj.manifestations[j].url != "undefined") {
+                digiCellText += `<a href="${obj.manifestations[j].url}"><img src="img/Book.png"></img></a>`;
+            }
+        }
+    };
+    digiCell.innerHTML = digiCellText;
     
 
     table.appendChild(row);
