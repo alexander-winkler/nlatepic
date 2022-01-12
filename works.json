@@ -2578,9 +2578,11 @@
     {
         "author": {
             "name": "Clutin",
-            "ID" : {
+            "ID" : [
+                {
                 "wikidata" : "Q110535434"
             }
+        ]
         },
         "title": "Pugna navalis",
         "content": {
@@ -15943,5 +15945,30 @@
                 "url" : "https://www.digitale-sammlungen.de/en/view/bsb00041719"
             }
         ]
-    }
+    },
+    {
+        "author": {
+          "name": "Herd, John",
+          "ID": [
+            {
+              "wikidata": "Q18546578",
+              "VIAF": "http://viaf.org/viaf/91196122"
+            }
+          ]
+        },
+        "title": "Historia quatuor regum Angliae. Heroico carmine conclusa",
+        "content": {
+          "num_books": "4",
+          "num_verses": "",
+          "metre": "hex",
+          "subject": []
+        },
+        "manifestations": [
+          {
+            "description": "",
+            "ID": "",
+            "url": "https://wellcomecollection.org/works/k5rjc2sc"
+          }
+        ]
+      }
 ]
