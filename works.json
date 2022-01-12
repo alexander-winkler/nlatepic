@@ -15517,9 +15517,19 @@
             ]
         },
         "title": "Bellum Ottomanicorum",
-        "content": {},
+        "content": {
+            "num_verses" : "320",
+            "num_books" : "1"
+        },
         "bibrefs": [
             "braunPedisequaCamenaeMinoris2021"
+        ],
+        "manifestations" : [
+            {
+                "description" : "EDIT16",
+                "ID" : "CNCE 003989",
+                "date" : "1572"
+            }
         ]
     },
     {
