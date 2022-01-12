@@ -15,19 +15,19 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q202578",
-                  "label": {
-                    "label": "en",
-                    "value": "First Jewish-Roman War"
-                  }
+                    "url": "Q202578",
+                    "label": {
+                        "label": "en",
+                        "value": "First Jewish-Roman War"
+                    }
                 }
-              ]
+            ]
         },
-        "manifestations" : [
+        "manifestations": [
             {
-                "description" : "BSB ID",
+                "description": "BSB ID",
                 "ID": "848559",
-                "url" : "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10207574-7"
+                "url": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10207574-7"
             }
         ],
         "bibrefs": [
@@ -50,13 +50,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q624745",
-                  "label": {
-                    "label": "en",
-                    "value": "Marcus Curtius"
-                  }
+                    "url": "Q624745",
+                    "label": {
+                        "label": "en",
+                        "value": "Marcus Curtius"
+                    }
                 }
-              ]
+            ]
         },
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 29"
@@ -78,13 +78,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q676555",
-                  "label": {
-                    "label": "en",
-                    "value": "Francis of Assisi"
-                  }
+                    "url": "Q676555",
+                    "label": {
+                        "label": "en",
+                        "value": "Francis of Assisi"
+                    }
                 }
-              ]
+            ]
         },
         "manifestations": [
             {
@@ -120,13 +120,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q40662",
-                  "label": {
-                    "label": "en",
-                    "value": "John the Baptist"
-                  }
+                    "url": "Q40662",
+                    "label": {
+                        "label": "en",
+                        "value": "John the Baptist"
+                    }
                 }
-              ]
+            ]
         },
         "manifestations": [
             {
@@ -282,19 +282,19 @@
             "num_books": "6",
             "num_verses": "2830",
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q43689",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Ambrose"
+                    "url": "Q43689",
+                    "label": {
+                        "language": "en",
+                        "value": "Ambrose"
                     }
                 },
                 {
-                    "url" : "Q655977",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Arian controversy"
+                    "url": "Q655977",
+                    "label": {
+                        "language": "en",
+                        "value": "Arian controversy"
                     }
                 }
             ]
@@ -319,13 +319,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q676555",
-                  "label": {
-                    "label": "en",
-                    "value": "Francis of Assisi"
-                  }
+                    "url": "Q676555",
+                    "label": {
+                        "label": "en",
+                        "value": "Francis of Assisi"
+                    }
                 }
-              ]
+            ]
         },
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 194"
@@ -347,13 +347,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q844886",
-                  "label": {
-                    "label": "en",
-                    "value": "Siege of Jerusalem"
-                  }
+                    "url": "Q844886",
+                    "label": {
+                        "label": "en",
+                        "value": "Siege of Jerusalem"
+                    }
                 }
-              ]
+            ]
         },
         "manifestations": [
             {
@@ -461,7 +461,7 @@
             "ID": [
                 {
                     "wikidata": "Q635581",
-                    "VIAF" : "http://viaf.org/viaf/39521157"
+                    "VIAF": "http://viaf.org/viaf/39521157"
                 }
             ]
         },
@@ -519,13 +519,27 @@
     },
     {
         "author": {
-            "name": "Ottaviano Savelli"
+            "name": "Ottaviano Savelli",
+            "ID": [
+                {
+                    "CERL": "cnp01398204"
+                }
+            ]
         },
         "title": "Vir Nemoris",
         "content": {
             "num_books": "2",
             "num_verses": "1736",
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q2973321",
+                    "label": {
+                        "language": "en",
+                        "value": "Circinellu"
+                    }
+                }
+            ]
         },
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 502"
@@ -878,7 +892,7 @@
         "manifestations": [
             {
                 "description": "modern edition",
-                "ID": "F\u00f3gel 1932"
+                "ID": "Fógel 1932"
             },
             {
                 "description": "machine readable edition",
@@ -955,7 +969,7 @@
         "manifestations": [
             {
                 "description": "modern edition",
-                "ID": "Glei/K\u00f6hler 1998"
+                "ID": "Glei/Köhler 1998"
             }
         ],
         "bibrefs": [
@@ -964,11 +978,12 @@
     },
     {
         "author": {
-            "name": "Giacomo dalla Piet\u00e0",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/26161149574534940140"
-
-            }]
+            "name": "Giacomo dalla Pietà",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/26161149574534940140"
+                }
+            ]
         },
         "title": "Ioannispaulias",
         "content": {
@@ -1097,15 +1112,17 @@
     {
         "author": {
             "name": "Martinus Doletus",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/213145542776696642382"
-            }]
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/213145542776696642382"
+                }
+            ]
         },
         "title": "Parta ab Ludovico Victoria",
         "content": {
             "metre": "hex",
-            "num_verses" : "414",
-            "num_books" : "1"
+            "num_verses": "414",
+            "num_books": "1"
         },
         "dates": [
             {
@@ -1120,21 +1137,23 @@
     {
         "author": {
             "name": "Antoine Forestier",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/262928021"
-            }]
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/262928021"
+                }
+            ]
         },
         "title": "Ludovici in Venetos Victoria",
         "content": {
             "metre": "hex",
-            "num_books" : "1",
-            "num_verses" : "1036",
-            "subject" : [
+            "num_books": "1",
+            "num_verses": "1036",
+            "subject": [
                 {
-                    "url" : "Q1754732",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Battle of Agnadello"
+                    "url": "Q1754732",
+                    "label": {
+                        "label": "en",
+                        "value": "Battle of Agnadello"
                     }
                 }
             ]
@@ -1145,7 +1164,7 @@
                 "qualification ": ""
             }
         ],
-        "urls" : [
+        "urls": [
             "https://gallica.bnf.fr/ark:/12148/bpt6k705970"
         ],
         "bibrefs": [
@@ -1226,10 +1245,12 @@
     {
         "author": {
             "name": "Petrus Rossetus",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/122362619",
-                "GND" : "http://d-nb.info/gnd/104290986"
-            }]
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/122362619",
+                    "GND": "http://d-nb.info/gnd/104290986"
+                }
+            ]
         },
         "title": "Laurentias",
         "content": {
@@ -1248,10 +1269,12 @@
     {
         "author": {
             "name": "Petrus Rossetus",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/122362619",
-                "GND" : "http://d-nb.info/gnd/104290986"
-            }]
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/122362619",
+                    "GND": "http://d-nb.info/gnd/104290986"
+                }
+            ]
         },
         "title": "Paulus",
         "content": {
@@ -1271,10 +1294,12 @@
     {
         "author": {
             "name": "Petrus Rossetus",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/122362619",
-                "GND" : "http://d-nb.info/gnd/104290986"
-            }]
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/122362619",
+                    "GND": "http://d-nb.info/gnd/104290986"
+                }
+            ]
         },
         "title": "Christus",
         "content": {
@@ -1293,16 +1318,20 @@
     {
         "author": {
             "name": "Pontanus",
-            "ID" : [
-                {"VIAF" : "http://viaf.org/viaf/292827989"},
-                {"wikidata" : "Q2271006"}
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/292827989"
+                },
+                {
+                    "wikidata": "Q2271006"
+                }
             ]
         },
         "title": "Invictissimus Rex Franciscus",
         "content": {
             "metre": "hex",
-            "num_verses" : "520",
-            "num_books" : "1"
+            "num_verses": "520",
+            "num_books": "1"
         },
         "dates": [
             {
@@ -1321,12 +1350,12 @@
         "title": "Passio Iesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -1363,22 +1392,24 @@
         "bibrefs": [
             "Braun 2007: 119"
         ],
-        "urls" : [
+        "urls": [
             "https://books.google.de/books?id=TeU7WutKghoC"
         ]
     },
     {
         "author": {
             "name": "Laurentius Pilladius",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/36906997"
-            }]
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/36906997"
+                }
+            ]
         },
         "title": "Rusticias",
         "content": {
             "metre": "hex",
             "ordo": "naturalis",
-            "num_books" : "6"
+            "num_books": "6"
         },
         "dates": [
             {
@@ -1666,7 +1697,12 @@
     },
     {
         "author": {
-            "name": "Evurtius Jollyvetus"
+            "name": "Evurtius Jollyvetus",
+            "ID": [
+                {
+                    "CERL": "cnp02324937"
+                }
+            ]
         },
         "title": "Fulmen in Aquilam",
         "content": {
@@ -1809,7 +1845,7 @@
     },
     {
         "author": {
-            "name": "Jean de Bussi\u00e8res",
+            "name": "Jean de Bussières",
             "ID": [
                 {
                     "wikidata": "Q3175320"
@@ -1832,7 +1868,7 @@
     },
     {
         "author": {
-            "name": "Jean de Bussi\u00e8res",
+            "name": "Jean de Bussières",
             "ID": [
                 {
                     "wikidata": "Q3175320"
@@ -1864,7 +1900,7 @@
     },
     {
         "author": {
-            "name": "Jean de Bussi\u00e8res",
+            "name": "Jean de Bussières",
             "ID": [
                 {
                     "wikidata": "Q3175320"
@@ -1950,7 +1986,7 @@
     },
     {
         "author": {
-            "name": "L\u2019Abb\u00e9",
+            "name": "L’Abbé",
             "ID": [
                 {
                     "wikidata": "Q84561669"
@@ -1963,18 +1999,18 @@
         "title": "Eustachius",
         "content": {
             "metre": "hex",
-            "num_books" : "6",
-            "num_verses" : "4340",
-            "subject" : [
+            "num_books": "6",
+            "num_verses": "4340",
+            "subject": [
                 {
-                    "url" : "Q218921",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Saint Eustace"
+                    "url": "Q218921",
+                    "label": {
+                        "language": "en",
+                        "value": "Saint Eustace"
                     }
                 }
             ]
-                },
+        },
         "dates": [
             {
                 "value": "1672",
@@ -1987,7 +2023,7 @@
     },
     {
         "author": {
-            "name": "Ren\u00e9 Rapin",
+            "name": "René Rapin",
             "ID": [
                 {
                     "wikidata": "Q511359"
@@ -1997,8 +2033,8 @@
         "title": "Christus Patiens",
         "content": {
             "metre": "hex",
-            "num_books" : "1",
-            "num_verses" : "828"
+            "num_books": "1",
+            "num_verses": "828"
         },
         "dates": [
             {
@@ -2009,13 +2045,13 @@
         "bibrefs": [
             "Braun 2007: 587"
         ],
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://books.google.de/books?id=HOVbAAAAQAAJ",
-                "description" : "Google ID",
-                "ID" : "HOVbAAAAQAAJ",
-                "date" : "1713",
-                "place" : "London"
+                "url": "https://books.google.de/books?id=HOVbAAAAQAAJ",
+                "description": "Google ID",
+                "ID": "HOVbAAAAQAAJ",
+                "date": "1713",
+                "place": "London"
             }
         ]
     },
@@ -2166,7 +2202,7 @@
         "author": {
             "name": "de Varanis"
         },
-        "title": "Decertatio \ufb01dei et heresis",
+        "title": "Decertatio ﬁdei et heresis",
         "content": {
             "metre": "hex"
         },
@@ -2367,7 +2403,7 @@
     },
     {
         "author": {
-            "name": "Ch\u00e2teillon"
+            "name": "Châteillon"
         },
         "title": "Iona propheta",
         "content": {
@@ -2413,7 +2449,7 @@
         "author": {
             "name": "Choppin"
         },
-        "title": "\u0399\u0395\u03a1\u039f\u039c\u0391\u03a7\u0399\u0391",
+        "title": "ΙΕΡΟΜΑΧΙΑ",
         "content": {
             "metre": "hex"
         },
@@ -2430,9 +2466,9 @@
     {
         "author": {
             "name": "Charles Godran",
-            "ID" : [
+            "ID": [
                 {
-                    "BNF" : "ark:/12148/cb30517820z"
+                    "BNF": "ark:/12148/cb30517820z"
                 }
             ]
         },
@@ -2453,9 +2489,9 @@
     {
         "author": {
             "name": "Charles Godran",
-            "ID" : [
+            "ID": [
                 {
-                    "BNF" : "ark:/12148/cb30517820z"
+                    "BNF": "ark:/12148/cb30517820z"
                 }
             ]
         },
@@ -2485,15 +2521,15 @@
     {
         "author": {
             "name": "Charles Godran",
-            "ID" : [
+            "ID": [
                 {
-                    "BNF" : "ark:/12148/cb30517820z"
+                    "BNF": "ark:/12148/cb30517820z"
                 }
             ]
         },
-        "title" : "Sacrificium Abrami",
-        "content" :{
-            "metre" : "hex"
+        "title": "Sacrificium Abrami",
+        "content": {
+            "metre": "hex"
         },
         "dates": [
             {
@@ -2508,17 +2544,17 @@
     {
         "author": {
             "name": "Masurius",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q3261709"
+                    "wikidata": "Q3261709"
                 }
             ]
         },
         "title": "Babylon",
         "content": {
             "metre": "hex",
-            "num_books" : "1",
-            "num_verses" : "792"
+            "num_books": "1",
+            "num_verses": "792"
         },
         "dates": [
             {
@@ -2529,13 +2565,13 @@
         "bibrefs": [
             "Braun 2007: 700"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "date" : "1574",
-                "place" : "Bale",
-                "url" : "http://data.onb.ac.at/rep/10A73633",
-                "description" : "VD 16",
-                "ID" : "VD16 D 607"
+                "date": "1574",
+                "place": "Bale",
+                "url": "http://data.onb.ac.at/rep/10A73633",
+                "description": "VD 16",
+                "ID": "VD16 D 607"
             }
         ]
     },
@@ -2578,17 +2614,17 @@
     {
         "author": {
             "name": "Clutin",
-            "ID" : [
+            "ID": [
                 {
-                "wikidata" : "Q110535434"
-            }
-        ]
+                    "wikidata": "Q110535434"
+                }
+            ]
         },
         "title": "Pugna navalis",
         "content": {
             "metre": "hex",
-            "num_books" : "1",
-            "num_verses" : "378"
+            "num_books": "1",
+            "num_verses": "378"
         },
         "dates": [
             {
@@ -2599,12 +2635,12 @@
         "bibrefs": [
             "Braun 2007: 703"
         ],
-        "manifestations" :[
+        "manifestations": [
             {
-                "ID" : "823315",
-                "description" : "USTC"
+                "ID": "823315",
+                "description": "USTC"
             }
-                ]
+        ]
     },
     {
         "author": {
@@ -2752,7 +2788,7 @@
     },
     {
         "author": {
-            "name": "de Clavi\u00e8re"
+            "name": "de Clavière"
         },
         "title": "Ceres",
         "content": {
@@ -2771,25 +2807,26 @@
     {
         "author": {
             "name": "de Machault",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/74201857"},
-                {    
-                    "wikidata" : "Q70505765"
+                    "VIAF": "http://viaf.org/viaf/74201857"
+                },
+                {
+                    "wikidata": "Q70505765"
                 }
             ]
         },
         "title": "Lodoici expeditio in Italiam",
         "content": {
             "metre": "hex",
-            "num_books" : "4",
-            "num_verses" : "1440",
-            "subject" : [
+            "num_books": "4",
+            "num_verses": "1440",
+            "subject": [
                 {
-                    "url" : "Q1527665",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "War of the Mantuan Succession"
+                    "url": "Q1527665",
+                    "label": {
+                        "label": "en",
+                        "value": "War of the Mantuan Succession"
                     }
                 }
             ]
@@ -2807,24 +2844,24 @@
     {
         "author": {
             "name": "Pierre Berthault",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/59169208",
-                    "GND" : "http://d-nb.info/gnd/128765976",
-                    "wikidata" : "Q3383950"
+                    "VIAF": "http://viaf.org/viaf/59169208",
+                    "GND": "http://d-nb.info/gnd/128765976",
+                    "wikidata": "Q3383950"
                 }
             ]
         },
         "title": "Casallum bis liberatum",
         "content": {
             "metre": "hex",
-            "Goetterapparat" : "None",
-            "subject" : [
+            "Goetterapparat": "None",
+            "subject": [
                 {
-                    "url" : "Q1527665",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "War of the Mantuan Succession"
+                    "url": "Q1527665",
+                    "label": {
+                        "label": "en",
+                        "value": "War of the Mantuan Succession"
                     }
                 }
             ]
@@ -2835,7 +2872,7 @@
                 "qualification ": ""
             }
         ],
-        "urls" : [
+        "urls": [
             "http://hdl.handle.net/2268.1/7805"
         ],
         "bibrefs": [
@@ -2844,10 +2881,10 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Vavasseur",
-            "ID" : [
+            "name": "François Vavasseur",
+            "ID": [
                 {
-                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "GND": "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -2871,10 +2908,10 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Vavasseur",
-            "ID" : [
+            "name": "François Vavasseur",
+            "ID": [
                 {
-                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "GND": "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -2895,15 +2932,15 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Vavasseur",
-            "ID" : [
+            "name": "François Vavasseur",
+            "ID": [
                 {
-                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "GND": "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
         },
-        "title": "\u03a5\u03a0\u039f\u03a0\u0391\u039d\u03a4\u0397 sive occursus Mariae Simeonis, et Annae, Hierosolymis, in templo",
+        "title": "ΥΠΟΠΑΝΤΗ sive occursus Mariae Simeonis, et Annae, Hierosolymis, in templo",
         "content": {
             "num_books": "1",
             "metre": "hex"
@@ -2914,10 +2951,10 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Vavasseur",
-            "ID" : [
+            "name": "François Vavasseur",
+            "ID": [
                 {
-                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "GND": "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -3005,21 +3042,22 @@
     {
         "author": {
             "name": "Giovanni Pietro Arrivabene",
-            "ID" : [{
-                "wikidata" : "Q3762550"
-            }]
+            "ID": [
+                {
+                    "wikidata": "Q3762550"
+                }
+            ]
         },
         "title": "Gonzageis",
         "content": {
             "metre": "hex",
-            "num_books" : "4",
-            "subject" : [
+            "num_books": "4",
+            "subject": [
                 {
-                    "url" : "Q969770",
-                    "label" : {
-                        "value" : "Ludovico III Gonzaga, Marquis of Mantua",
-                        "label" : "en"
-
+                    "url": "Q969770",
+                    "label": {
+                        "value": "Ludovico III Gonzaga, Marquis of Mantua",
+                        "label": "en"
                     }
                 }
             ]
@@ -3062,9 +3100,9 @@
     {
         "author": {
             "name": "Caesar Delphinus",
-            "ID" : [
+            "ID": [
                 {
-                "VIAF" : "http://viaf.org/viaf/2808202"
+                    "VIAF": "http://viaf.org/viaf/2808202"
                 }
             ]
         },
@@ -3079,7 +3117,7 @@
                 "qualification ": ""
             }
         ],
-        "urls" : [
+        "urls": [
             "https://nbn-resolving.org/urn:nbn:de:bvb:19-epub-11800-2"
         ],
         "bibrefs": [
@@ -3089,16 +3127,16 @@
     {
         "author": {
             "name": "Natalis Donadeus",
-            "ID" : [
+            "ID": [
                 {
-                    "BNF" : "ark:/12148/cb10432425d"
+                    "BNF": "ark:/12148/cb10432425d"
                 }
             ]
         },
         "title": "De bello Christi",
         "content": {
             "metre": "hex",
-            "num_books" : "12"
+            "num_books": "12"
         },
         "dates": [
             {
@@ -3106,7 +3144,9 @@
                 "qualification ": ""
             }
         ],
-        "urls" : ["https://gallica.bnf.fr/ark:/12148/bpt6k1318825"],
+        "urls": [
+            "https://gallica.bnf.fr/ark:/12148/bpt6k1318825"
+        ],
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 11*"
         ]
@@ -3150,7 +3190,12 @@
     },
     {
         "author": {
-            "name": "Angelus de Curibus Sabinis"
+            "name": "Angelus de Curibus Sabinis",
+            "ID": [
+                {
+                    "CERL": "cnp01239541"
+                }
+            ]
         },
         "title": "De Excidio Civitatis Leodensis",
         "content": {
@@ -3352,7 +3397,12 @@
     },
     {
         "author": {
-            "name": "Tito Livio Frulovisi"
+            "name": "Tito Livio Frulovisi",
+            "ID": [
+                {
+                    "CERL": "cnp02229467"
+                }
+            ]
         },
         "title": "Hunfreis",
         "content": {
@@ -3463,7 +3513,12 @@
     },
     {
         "author": {
-            "name": "Carlo Francesco de Luca"
+            "name": "Carlo Francesco de Luca",
+            "ID": [
+                {
+                    "CERL": "cnp00112125"
+                }
+            ]
         },
         "title": "Iter Lauretanae Domus sive Pax castra movens",
         "content": {
@@ -3499,7 +3554,12 @@
     },
     {
         "author": {
-            "name": "Giovanni Bartolomeo Marinoni"
+            "name": "Giovanni Bartolomeo Marinoni",
+            "ID": [
+                {
+                    "CERL": "cnp01350199"
+                }
+            ]
         },
         "title": "In expugnationem Trajecti",
         "content": {
@@ -3564,33 +3624,38 @@
         },
         "title": "Moseis",
         "content": {
-            "subject" : [
-                { 
-                    "url" : "Q9077",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Moses"
+            "subject": [
+                {
+                    "url": "Q9077",
+                    "label": {
+                        "label": "en",
+                        "value": "Moses"
                     }
                 }
             ]
         },
         "bibrefs": [
-            "Titi\u2019s ommentary on Syiras"
+            "Titi’s ommentary on Syiras"
         ]
     },
     {
         "author": {
-            "name": "Boninus Mediolanensis Mombritius"
+            "name": "Boninus Mediolanensis Mombritius",
+            "ID": [
+                {
+                    "CERL": "cnp01341315"
+                }
+            ]
         },
         "title": "De dominica passione",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -3875,11 +3940,29 @@
     },
     {
         "author": {
-            "name": "Augustinus Terzagus"
+            "name": "Augustinus Terzagus",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/1530145856955422920540",
+                    "GND" : "http://d-nb.info/gnd/1089633890"
+            }
+            ]
         },
         "title": "Maphaeis",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "5",
+            "num_verses" : "2300",
+            "subject" :[
+                {
+                    "url" : "Q131579",
+                    "label" : 
+                    { 
+                        "language" : "en",
+                        "value" : "Urban VIII"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -3887,7 +3970,7 @@
                 "qualification ": ""
             }
         ],
-        "urls" : [
+        "urls": [
             "https://books.google.de/books?id=u9xoAAAAcAAJ"
         ],
         "bibrefs": [
@@ -3896,7 +3979,12 @@
     },
     {
         "author": {
-            "name": "Ioannes Sulpitius Verulanus"
+            "name": "Ioannes Sulpitius Verulanus",
+            "ID": [
+                {
+                    "CERL": "cnp00472256"
+                }
+            ]
         },
         "title": "Iudicium Dei de vivis et mortuis",
         "content": {
@@ -4429,7 +4517,12 @@
     },
     {
         "author": {
-            "name": "Giovanni Battista Cantalicio"
+            "name": "Giovanni Battista Cantalicio",
+            "ID" : [
+                {
+                    "wikidata" : "Q3655640"
+                }
+            ]
         },
         "title": "Gonsalvia",
         "content": {
@@ -4461,12 +4554,12 @@
             "num_books": "6",
             "num_verses": "5400",
             "metre": "hex",
-            "subject" : [
-                { 
-                    "url" : "Q80516",
-                    "label" : {
-                        "value" : "Julius II",
-                        "language" : "en"
+            "subject": [
+                {
+                    "url": "Q80516",
+                    "label": {
+                        "value": "Julius II",
+                        "language": "en"
                     }
                 }
             ]
@@ -4484,7 +4577,12 @@
     },
     {
         "author": {
-            "name": "Pierius Valerianus"
+            "name": "Pierius Valerianus",
+            "ID": [
+                {
+                    "CERL": "cnp01114677"
+                }
+            ]
         },
         "title": "Ioathas Rotatus",
         "content": {
@@ -4544,7 +4642,12 @@
     },
     {
         "author": {
-            "name": "Francesco Rococciolo"
+            "name": "Francesco Rococciolo",
+            "ID": [
+                {
+                    "CERL": "cnp01397264"
+                }
+            ]
         },
         "title": "Mutineis",
         "content": {
@@ -4569,7 +4672,12 @@
     },
     {
         "author": {
-            "name": "Baptista Fiaera Mantuanus"
+            "name": "Baptista Fiaera Mantuanus",
+            "ID": [
+                {
+                    "CERL": "cnp01875452"
+                }
+            ]
         },
         "title": "De Deo homine",
         "content": {
@@ -4607,7 +4715,7 @@
                     "url": "Q1355145",
                     "label": {
                         "language": "en",
-                        "value": "Italian War of 1494\u20131498"
+                        "value": "Italian War of 1494–1498"
                     }
                 }
             ]
@@ -4621,7 +4729,7 @@
         "manifestations": [
             {
                 "description": "modern edition",
-                "ID": "D\u2019Alessandro 2004"
+                "ID": "D’Alessandro 2004"
             }
         ],
         "bibrefs": [
@@ -4630,7 +4738,12 @@
     },
     {
         "author": {
-            "name": "Rocco Boni"
+            "name": "Rocco Boni",
+            "ID": [
+                {
+                    "CERL": "cnp00452104"
+                }
+            ]
         },
         "title": "Austrias",
         "content": {
@@ -4662,7 +4775,16 @@
         "title": "De navigatione Christophori Columbi",
         "content": {
             "num_books": "4",
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q7322",
+                    "label": {
+                        "language": "en",
+                        "value": "Christopher Columbus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -4750,11 +4872,28 @@
     },
     {
         "author": {
-            "name": "Giulio Cesare Stella"
+            "name": "Giulio Cesare Stella",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/66810606", 
+                    "wikidata" : "Q106784883",
+                    "GND" : "http://d-nb.info/gnd/1016678681"
+                }
+            ]
         },
         "title": "Columbeidos libri priores duo",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "2",
+            "subject": [
+                {
+                    "url": "Q7322",
+                    "label": {
+                        "language": "en",
+                        "value": "Christopher Columbus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -4764,11 +4903,22 @@
         ],
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 18*"
+        ],
+        "manifestations" : [
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:hbz:6:1-327499",
+                "date" : "1585"
+            }
         ]
     },
     {
         "author": {
-            "name": "Ioannes Baptista Vicecomes"
+            "name": "Ioannes Baptista Vicecomes",
+            "ID": [
+                {
+                    "CERL": "cnp00949682"
+                }
+            ]
         },
         "title": "De Domino nostro Iesu Christo cruci affixo poema",
         "content": {
@@ -4814,27 +4964,42 @@
     },
     {
         "author": {
-            "name": "Jos\u00e9 Mariano de Iturriaga"
+            "name": "José Mariano de Iturriaga",
+            "ID": [
+                {
+                    "CERL": "cnp02294135"
+                }
+            ]
         },
         "title": "Californias",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_verses" : "800"
         },
         "manifestations": [
             {
                 "description": "modern edition",
                 "ID": "Castro Pallares 1979"
+            },
+            {
+                "description" : "critical edition",
+                "ID" : "iturriagaCaliforniadaEpicaSagrada2019"
             }
         ],
         "bibrefs": [
-            "Schaffenrath 2015: "
+            "Schaffenrath 2015"
         ]
     },
     {
         "author": {
-            "name": "Francisco J\u00e1vrier Alegre"
+            "name": "Francisco Jávrier Alegre",
+            "ID" : [
+                {
+                    "wikidata" : "Q2060582"
+                }
+            ]
         },
-        "title": "Alexandrias",
+        "title": "Alexandriados, sive De expugnatione Tyri ab Alexandro Macedone libri quatuor",
         "content": {
             "metre": "hex"
         },
@@ -4846,11 +5011,23 @@
         ],
         "bibrefs": [
             "Schaffenrath 2015: 60"
+        ],
+        "manifestations" : [
+            {
+                "url" : "https://archive.org/details/bub_gb_WgKSzzMlay8C",
+                "data" : "1773",
+                "place" : "Forli"
+            }
         ]
     },
     {
         "author": {
-            "name": "Johann Baptist Premlechner"
+            "name": "Johann Baptist Premlechner",
+            "ID": [
+                {
+                    "CERL": "cnp02094398"
+                }
+            ]
         },
         "title": "De morte Abelis",
         "content": {
@@ -5105,7 +5282,12 @@
     },
     {
         "author": {
-            "name": "Petrus Johannes Beronicius"
+            "name": "Petrus Johannes Beronicius",
+            "ID": [
+                {
+                    "CERL": "cnp00993236"
+                }
+            ]
         },
         "title": "Georgontarchontomachia",
         "content": {
@@ -5124,7 +5306,12 @@
     },
     {
         "author": {
-            "name": "Simon Lemnius"
+            "name": "Simon Lemnius",
+            "ID": [
+                {
+                    "CERL": "cnp01345177"
+                }
+            ]
         },
         "title": "Monachopornomachia",
         "content": {
@@ -5173,7 +5360,12 @@
     },
     {
         "author": {
-            "name": "Johannes Bocerus"
+            "name": "Johannes Bocerus",
+            "ID": [
+                {
+                    "CERL": "cnp01380048"
+                }
+            ]
         },
         "title": "Carminum de origine et rebus gestis regum Daniae et ducum Holsaatiae libri V",
         "content": {
@@ -5192,7 +5384,12 @@
     },
     {
         "author": {
-            "name": "Johannes Bocerus"
+            "name": "Johannes Bocerus",
+            "ID": [
+                {
+                    "CERL": "cnp01380048"
+                }
+            ]
         },
         "title": "Libri III de origine et rebus gestis Ducum Megapolensium carmine elegiaco",
         "content": {
@@ -5215,6 +5412,9 @@
             "ID": [
                 {
                     "GND": "https://d-nb.info/gnd/118668196"
+                },
+                {
+                    "CERL": "cnp01879597"
                 }
             ]
         },
@@ -5240,7 +5440,12 @@
     },
     {
         "author": {
-            "name": "Pantaleon Candidus"
+            "name": "Pantaleon Candidus",
+            "ID": [
+                {
+                    "CERL": "cnp01879597"
+                }
+            ]
         },
         "title": "Bohemias",
         "content": {
@@ -5258,7 +5463,12 @@
     },
     {
         "author": {
-            "name": "Johannes Campanus Vodnianus"
+            "name": "Johannes Campanus Vodnianus",
+            "ID": [
+                {
+                    "CERL": "cnp01373342"
+                }
+            ]
         },
         "title": "Czechias",
         "content": {
@@ -5276,7 +5486,12 @@
     },
     {
         "author": {
-            "name": "Vincentius Placcius"
+            "name": "Vincentius Placcius",
+            "ID": [
+                {
+                    "CERL": "cnp00404552"
+                }
+            ]
         },
         "title": "Atlantis retecta",
         "content": {
@@ -5311,7 +5526,16 @@
         "title": "Columbus",
         "content": {
             "num_books": "12",
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q7322",
+                    "label": {
+                        "language": "en",
+                        "value": "Christopher Columbus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -5417,7 +5641,7 @@
     },
     {
         "author": {
-            "name": "\u00c1lvar G\u00f3mez de Ciudad Real",
+            "name": "Álvar Gómez de Ciudad Real",
             "ID": [
                 {
                     "wikidata": "Q5642494"
@@ -5597,12 +5821,12 @@
         "title": "Historia Passionis Domini Nostri Jesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -5657,17 +5881,24 @@
     },
     {
         "author": {
-            "name": "Roberto Clarke"
+            "name": "Robert Clarke",
+            "ID" : [
+                {
+                    "VIAF": "http://viaf.org/viaf/42180569",
+                    "wikidata" : "Q18527157"
+                 }
+                ]
         },
         "title": "Christiados sive de passione Domini et Salvatoris nostri Jesu Christi libri XVII",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "num_books" : "17",
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -5680,11 +5911,25 @@
         ],
         "bibrefs": [
             "Hofmann 2001: 168*"
+        ],
+        "manifestations":[
+            {
+                "url" : "https://books.google.de/books?id=aRBQEExSitgC",
+                "date" : "1670",
+                "place" : "Bruge"
+            }
         ]
     },
     {
         "author": {
-            "name": "Jacoubs Masenius"
+            "name": "Jacobus Masenius",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/10061069",
+                    "wikidata" : "7CQ97336",
+                    "GND" : "http://d-nb.info/gnd/118782444"
+                }
+            ]
         },
         "title": "Sarcotis",
         "content": {
@@ -5700,11 +5945,30 @@
         ],
         "bibrefs": [
             "Hofmann 2001: 168*"
+        ],
+        "manifestations" : [
+            {
+                "url" : "http://diglib.hab.de/drucke/li-5931/start.htm",
+                "date" : "1780",
+                "place" : "Bale"
+            },
+            {
+                "url" : "http://mateo.uni-mannheim.de/camena/masen2/te05.html",
+                "date" : "1682-1683",
+                "place" : "Cologne",
+                "description" : "machine-readable text"
+            }
         ]
     },
     {
         "author": {
-            "name": "Giovanni da Corella"
+            "name": "Giovanni da Corella",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/305401754",
+                    "wikidata" : "Q3749180"
+                }
+            ]
         },
         "title": "Theotokon seu de vita et obitu beatae Virgines Mariae",
         "content": {
@@ -5718,7 +5982,8 @@
             }
         ],
         "bibrefs": [
-            "Hofmann 2001: 172*"
+            "Hofmann 2001: 172*",
+            "domenicodigiovanniTheotocon2012"
         ]
     },
     {
@@ -5788,7 +6053,7 @@
                 }
             ]
         },
-        "title": "Praeludium in treis distinctum libros \u2026 Herculis labores & gesta in Christi figuram mystice ac pulcherrime eodem carmine continentes",
+        "title": "Praeludium in treis distinctum libros … Herculis labores & gesta in Christi figuram mystice ac pulcherrime eodem carmine continentes",
         "content": {
             "num_books": "3",
             "num_verses": "1040",
@@ -5806,8 +6071,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "Samson",
         "content": {
             "metre": "hex"
@@ -5864,7 +6144,7 @@
     },
     {
         "author": {
-            "name": "Marcus Maruli\u0107",
+            "name": "Marcus Marulić",
             "ID": [
                 {
                     "wikidata": "Q336571"
@@ -5893,7 +6173,12 @@
     },
     {
         "author": {
-            "name": "Girolamo Fracastoro"
+            "name": "Girolamo Fracastoro",
+            "ID": [
+                {
+                    "CERL": "cnp01876860"
+                }
+            ]
         },
         "title": "Joseph",
         "content": {
@@ -5911,8 +6196,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "Paradisus seu hortus Adami",
         "content": {
             "metre": "hex"
@@ -5929,7 +6229,12 @@
     },
     {
         "author": {
-            "name": "Johannes Sprinck"
+            "name": "Johannes Sprinck",
+            "ID": [
+                {
+                    "CERL": "cnp01112905"
+                }
+            ]
         },
         "title": "De lapsu primorum parentum",
         "content": {
@@ -5965,7 +6270,7 @@
     },
     {
         "author": {
-            "name": "Johannes Kr\u00fcger"
+            "name": "Johannes Krüger"
         },
         "title": "Exemplum amicitiae Davidis et Jonathae",
         "content": {
@@ -5983,7 +6288,12 @@
     },
     {
         "author": {
-            "name": "Andreas Zaelychius"
+            "name": "Andreas Zaelychius",
+            "ID": [
+                {
+                    "CERL": "cnp01071678"
+                }
+            ]
         },
         "title": "Convivium Abrahae in Mamre",
         "content": {
@@ -6083,9 +6393,9 @@
     {
         "author": {
             "name": "Charles Godran",
-            "ID" : [
+            "ID": [
                 {
-                    "BNF" : "ark:/12148/cb30517820z"
+                    "BNF": "ark:/12148/cb30517820z"
                 }
             ]
         },
@@ -6177,7 +6487,12 @@
     },
     {
         "author": {
-            "name": "Johannes Pennisaccus"
+            "name": "Johannes Pennisaccus",
+            "ID": [
+                {
+                    "CERL": "cnp01108286"
+                }
+            ]
         },
         "title": "Historia lapsus et reparationis primorum parentum",
         "content": {
@@ -6195,8 +6510,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "Rubus Mosis",
         "content": {
             "metre": "hex"
@@ -6250,7 +6580,12 @@
     },
     {
         "author": {
-            "name": "Eberhard Dedekind"
+            "name": "Eberhard Dedekind",
+            "ID": [
+                {
+                    "CERL": "cnp00410694"
+                }
+            ]
         },
         "title": "De statu et lapsu primorum parentum",
         "content": {
@@ -6363,7 +6698,7 @@
     },
     {
         "author": {
-            "name": "Jo\u00e2o de Mello e Sousa"
+            "name": "Joâo de Mello e Sousa"
         },
         "title": "De reparatione humana",
         "content": {
@@ -6471,7 +6806,12 @@
     },
     {
         "author": {
-            "name": "Christian Nikolaus Naumann"
+            "name": "Christian Nikolaus Naumann",
+            "ID": [
+                {
+                    "CERL": "cnp00366241"
+                }
+            ]
         },
         "title": "Nimrod",
         "content": {
@@ -6480,24 +6820,6 @@
         "dates": [
             {
                 "value": "1751",
-                "qualification ": ""
-            }
-        ],
-        "bibrefs": [
-            "czaplaBibeleposFruehenNeuzeit2013"
-        ]
-    },
-    {
-        "author": {
-            "name": "Christoph Martin Wieland"
-        },
-        "title": "Der gepryfte Abraham",
-        "content": {
-            "metre": "hex"
-        },
-        "dates": [
-            {
-                "value": "1753",
                 "qualification ": ""
             }
         ],
@@ -6543,7 +6865,7 @@
     },
     {
         "author": {
-            "name": "Andreas M\u00f6ller"
+            "name": "Andreas Möller"
         },
         "title": "Carmen de sancto paschate",
         "content": {
@@ -6579,7 +6901,12 @@
     },
     {
         "author": {
-            "name": "Heinrich Goedeke"
+            "name": "Heinrich Goedeke",
+            "ID": [
+                {
+                    "CERL": "cnp00484365"
+                }
+            ]
         },
         "title": "Israelitarum ex Aegypto egressus",
         "content": {
@@ -6597,7 +6924,12 @@
     },
     {
         "author": {
-            "name": "Urban Thimius"
+            "name": "Urban Thimius",
+            "ID": [
+                {
+                    "CERL": "cnp00622833"
+                }
+            ]
         },
         "title": "Typus dumi ardentis",
         "content": {
@@ -6633,7 +6965,12 @@
     },
     {
         "author": {
-            "name": "Henricus Iunius"
+            "name": "Henricus Iunius",
+            "ID": [
+                {
+                    "CERL": "cnp00419364"
+                }
+            ]
         },
         "title": "Serpens aeneus",
         "content": {
@@ -6651,7 +6988,12 @@
     },
     {
         "author": {
-            "name": "Urbanus Timaeus"
+            "name": "Urbanus Timaeus",
+            "ID": [
+                {
+                    "CERL": "cnp01010428"
+                }
+            ]
         },
         "title": "Typus aenei serpentis",
         "content": {
@@ -6687,8 +7029,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "Simson",
         "content": {
             "metre": "hex"
@@ -6723,7 +7080,12 @@
     },
     {
         "author": {
-            "name": "Henricus Temmius"
+            "name": "Henricus Temmius",
+            "ID": [
+                {
+                    "CERL": "cnp00378562"
+                }
+            ]
         },
         "title": "Gedeomachia",
         "content": {
@@ -6741,7 +7103,12 @@
     },
     {
         "author": {
-            "name": "Johann Aahl"
+            "name": "Johann Aahl",
+            "ID": [
+                {
+                    "CERL": "cnp01875965"
+                }
+            ]
         },
         "title": "De Simsone heroe",
         "content": {
@@ -6777,7 +7144,12 @@
     },
     {
         "author": {
-            "name": "Marcus Marulus"
+            "name": "Marcus Marulus",
+            "ID": [
+                {
+                    "CERL": "cnp01880368"
+                }
+            ]
         },
         "title": "Davidias",
         "content": {
@@ -6831,7 +7203,12 @@
     },
     {
         "author": {
-            "name": "Hieronymus Osius"
+            "name": "Hieronymus Osius",
+            "ID": [
+                {
+                    "CERL": "cnp00961553"
+                }
+            ]
         },
         "title": "Historia regum Israelitarum",
         "content": {
@@ -6849,7 +7226,12 @@
     },
     {
         "author": {
-            "name": "Hieronymus Osius"
+            "name": "Hieronymus Osius",
+            "ID": [
+                {
+                    "CERL": "cnp00961553"
+                }
+            ]
         },
         "title": "Duo libri Samuelis",
         "content": {
@@ -6867,7 +7249,7 @@
     },
     {
         "author": {
-            "name": "Caspar Sch\u00fctz"
+            "name": "Caspar Schütz"
         },
         "title": "Fuga Absolonis",
         "content": {
@@ -6939,7 +7321,12 @@
     },
     {
         "author": {
-            "name": "Otto Diricus"
+            "name": "Otto Diricus",
+            "ID": [
+                {
+                    "CERL": "cnp01119636"
+                }
+            ]
         },
         "title": "Monomachia Davidis et Goliathi",
         "content": {
@@ -6957,7 +7344,12 @@
     },
     {
         "author": {
-            "name": "Hermannus a Burgundia"
+            "name": "Hermannus a Burgundia",
+            "ID": [
+                {
+                    "CERL": "cnp01117753"
+                }
+            ]
         },
         "title": "Davidis adulterium",
         "content": {
@@ -7029,7 +7421,7 @@
     },
     {
         "author": {
-            "name": "Christoph F\u00fcrgang"
+            "name": "Christoph Fürgang"
         },
         "title": "Elias propheta exul",
         "content": {
@@ -7074,12 +7466,12 @@
     {
         "author": {
             "name": "Thomas Ellwood",
-            "ID" : [
+            "ID": [
                 {
-                "VIAF" : "http://viaf.org/viaf/57666398"
+                    "VIAF": "http://viaf.org/viaf/57666398"
                 },
                 {
-                    "wikidata" : "Q2595492"
+                    "wikidata": "Q2595492"
                 }
             ]
         },
@@ -7208,11 +7600,18 @@
         ],
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
+        ],
+        "manifestations": [
+            {
+                "ID": "VD17 23:275977D",
+                "url": "https://nbn-resolving.org/urn:nbn:de:bvb:29-bv011319092-3",
+                "date": "1621"
+            }
         ]
     },
     {
         "author": {
-            "name": "Andreas M\u00f6ller"
+            "name": "Andreas Möller"
         },
         "title": "Caput septimum libri secundi Mahcabaeorum",
         "content": {
@@ -7248,7 +7647,12 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Bonade"
+            "name": "François Bonade",
+            "ID": [
+                {
+                    "CERL": "cnp01320947"
+                }
+            ]
         },
         "title": "Regia Davidis oracula",
         "content": {
@@ -7284,7 +7688,12 @@
     },
     {
         "author": {
-            "name": "Vincentius Zeddinus"
+            "name": "Vincentius Zeddinus",
+            "ID": [
+                {
+                    "CERL": "cnp01116495"
+                }
+            ]
         },
         "title": "Nonagesimus quartus psalmus",
         "content": {
@@ -7346,8 +7755,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "Specimen versionis psalmorum Davidis",
         "content": {
             "metre": "hex"
@@ -7382,7 +7806,12 @@
     },
     {
         "author": {
-            "name": "Benedictus Couppius"
+            "name": "Benedictus Couppius",
+            "ID": [
+                {
+                    "CERL": "cnp01015422"
+                }
+            ]
         },
         "title": "Psalmi Davidis tres",
         "content": {
@@ -7454,8 +7883,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "In Psalmos Davidis paraphrasis",
         "content": {
             "metre": "hex"
@@ -7577,7 +8021,7 @@
         "author": {
             "name": "Petrus Bellaeus"
         },
-        "title": "Psalmus Davidis CXIX. hexametro paraphrastic\u00f4s expressus",
+        "title": "Psalmus Davidis CXIX. hexametro paraphrasticôs expressus",
         "content": {
             "metre": "hex"
         },
@@ -7670,7 +8114,7 @@
     },
     {
         "author": {
-            "name": "Jeremias H\u00f6lzlin"
+            "name": "Jeremias Hölzlin"
         },
         "title": "Psalmorum Paraphrasis",
         "content": {
@@ -7760,7 +8204,7 @@
     },
     {
         "author": {
-            "name": "Jo\u00e2o de Mello e Sousa"
+            "name": "Joâo de Mello e Sousa"
         },
         "title": "In librum Job paraphrasis poetica",
         "content": {
@@ -7779,9 +8223,9 @@
     {
         "author": {
             "name": "Franziskus Vavasseur",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "GND": "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -7799,14 +8243,14 @@
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-            "url" : "https://www.digitale-sammlungen.de/en/view/bsb10609621",
-            "description" : "BSB ID",
-            "ID" : "BSB-ID 1085557",
-            "date" : "1638",
-            "place" : "Paris",
-            "urn" : "urn:nbn:de:bvb:12-bsb10609621-7"
+                "url": "https://www.digitale-sammlungen.de/en/view/bsb10609621",
+                "description": "BSB ID",
+                "ID": "BSB-ID 1085557",
+                "date": "1638",
+                "place": "Paris",
+                "urn": "urn:nbn:de:bvb:12-bsb10609621-7"
             }
         ]
     },
@@ -7830,7 +8274,12 @@
     },
     {
         "author": {
-            "name": "Christoph Friedrich Timaeus"
+            "name": "Christoph Friedrich Timaeus",
+            "ID": [
+                {
+                    "CERL": "cnp00478461"
+                }
+            ]
         },
         "title": "Iobi Paraphrasis poetica",
         "content": {
@@ -7884,7 +8333,12 @@
     },
     {
         "author": {
-            "name": "Aegidius Synegorus"
+            "name": "Aegidius Synegorus",
+            "ID": [
+                {
+                    "CERL": "cnp01113684"
+                }
+            ]
         },
         "title": "Proverbia Salomonis",
         "content": {
@@ -7902,7 +8356,12 @@
     },
     {
         "author": {
-            "name": "Hartmann Schopper"
+            "name": "Hartmann Schopper",
+            "ID": [
+                {
+                    "CERL": "cnp01880731"
+                }
+            ]
         },
         "title": "Liber Proverbiorvm Salomonis",
         "content": {
@@ -7947,6 +8406,9 @@
             "ID": [
                 {
                     "wikidata": "Q2049833"
+                },
+                {
+                    "CERL": "cnp01879597"
                 }
             ]
         },
@@ -7970,6 +8432,9 @@
             "ID": [
                 {
                     "wikidata": "Q2049833"
+                },
+                {
+                    "CERL": "cnp01879597"
                 }
             ]
         },
@@ -8061,7 +8526,12 @@
     },
     {
         "author": {
-            "name": "Joachim Breithaupt"
+            "name": "Joachim Breithaupt",
+            "ID": [
+                {
+                    "CERL": "cnp00351455"
+                }
+            ]
         },
         "title": "Salomonis proverbia",
         "content": {
@@ -8079,7 +8549,7 @@
     },
     {
         "author": {
-            "name": "Caspar Sch\u00fctz"
+            "name": "Caspar Schütz"
         },
         "title": "Ecclesiastes Salomonis",
         "content": {
@@ -8547,7 +9017,12 @@
     },
     {
         "author": {
-            "name": "Vitus Wolffrum"
+            "name": "Vitus Wolffrum",
+            "ID": [
+                {
+                    "CERL": "cnp00998177"
+                }
+            ]
         },
         "title": "Paraphrasis capitis Esaiae LIII.",
         "content": {
@@ -8673,7 +9148,12 @@
     },
     {
         "author": {
-            "name": "Johannes Corverus"
+            "name": "Johannes Corverus",
+            "ID": [
+                {
+                    "CERL": "cnp01118879"
+                }
+            ]
         },
         "title": "Lamentationes Hieremiae",
         "content": {
@@ -8781,7 +9261,12 @@
     },
     {
         "author": {
-            "name": "Patrick Adamson"
+            "name": "Patrick Adamson",
+            "ID": [
+                {
+                    "CERL": "cnp02327060"
+                }
+            ]
         },
         "title": "Threni",
         "content": {
@@ -8882,10 +9367,11 @@
     {
         "author": {
             "name": "Jeremias Woinovius",
-            "ID" : [
-            { "GND" : "https://d-nb.info/gnd/119873419"
-            }
-        ]
+            "ID": [
+                {
+                    "GND": "https://d-nb.info/gnd/119873419"
+                }
+            ]
         },
         "title": "Historia Susannae",
         "content": {
@@ -8908,33 +9394,34 @@
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
         ],
-        "manifestations" :[
+        "manifestations": [
             {
-                "date" : "1567",
-                "ID" : "VD16 W 4157",
-                "url" : "http://resolver.staatsbibliothek-berlin.de/SBB000159E200000000"
+                "date": "1567",
+                "ID": "VD16 W 4157",
+                "url": "http://resolver.staatsbibliothek-berlin.de/SBB000159E200000000"
             }
         ]
     },
     {
         "author": {
             "name": "Jeremias Woinovius",
-            "ID" : [
-            { "GND" : "https://d-nb.info/gnd/119873419"
-            }
-        ]
+            "ID": [
+                {
+                    "GND": "https://d-nb.info/gnd/119873419"
+                }
+            ]
         },
         "title": "Ilii Oppugnatio per Herculem facta, carmine Heroico descripta",
         "content": {
-            "met" : "hex",
-            "num_books" : "1",
-            "num_verses" : "280"
+            "met": "hex",
+            "num_books": "1",
+            "num_verses": "280"
         },
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "http://resolver.staatsbibliothek-berlin.de/SBB0001D4BA00000000",
-                "ID" : "VD16 W 4158",
-                "date" : "1567"
+                "url": "http://resolver.staatsbibliothek-berlin.de/SBB0001D4BA00000000",
+                "ID": "VD16 W 4158",
+                "date": "1567"
             }
         ]
     },
@@ -8958,7 +9445,7 @@
     },
     {
         "author": {
-            "name": "Andreas M\u00f6ller"
+            "name": "Andreas Möller"
         },
         "title": "Narratio de defensa Susannae pudicitia",
         "content": {
@@ -9045,7 +9532,12 @@
     },
     {
         "author": {
-            "name": "Johann Holtheuser"
+            "name": "Johann Holtheuser",
+            "ID": [
+                {
+                    "CERL": "cnp01124807"
+                }
+            ]
         },
         "title": "Joel propheta",
         "content": {
@@ -9104,7 +9596,12 @@
     },
     {
         "author": {
-            "name": "Theodor Reysmann"
+            "name": "Theodor Reysmann",
+            "ID": [
+                {
+                    "CERL": "cnp01021905"
+                }
+            ]
         },
         "title": "Amos propheta carmine translatus",
         "content": {
@@ -9249,7 +9746,12 @@
     },
     {
         "author": {
-            "name": "Benedictus Thaurerus"
+            "name": "Benedictus Thaurerus",
+            "ID": [
+                {
+                    "CERL": "cnp00426584"
+                }
+            ]
         },
         "title": "Historia prophetae Ionae",
         "content": {
@@ -9276,7 +9778,12 @@
     },
     {
         "author": {
-            "name": "Paulus Siberus"
+            "name": "Paulus Siberus",
+            "ID": [
+                {
+                    "CERL": "cnp01112486"
+                }
+            ]
         },
         "title": "Ionas Propheta",
         "content": {
@@ -9330,7 +9837,7 @@
     },
     {
         "author": {
-            "name": "Matth\u00e4us Hein"
+            "name": "Matthäus Hein"
         },
         "title": "Jonas",
         "content": {
@@ -9357,7 +9864,7 @@
     },
     {
         "author": {
-            "name": "Thomas Sch\u00f6nfeld"
+            "name": "Thomas Schönfeld"
         },
         "title": "Prophetia Jonae",
         "content": {
@@ -9443,7 +9950,12 @@
     },
     {
         "author": {
-            "name": "Isaak Gregorius"
+            "name": "Isaak Gregorius",
+            "ID": [
+                {
+                    "CERL": "cnp00518804"
+                }
+            ]
         },
         "title": "Ionae historia",
         "content": {
@@ -9648,7 +10160,12 @@
     },
     {
         "author": {
-            "name": "Hieronymus Osius"
+            "name": "Hieronymus Osius",
+            "ID": [
+                {
+                    "CERL": "cnp00961553"
+                }
+            ]
         },
         "title": "Malachias propheta",
         "content": {
@@ -9753,17 +10270,22 @@
     },
     {
         "author": {
-            "name": "Boninus Mombritius"
+            "name": "Boninus Mombritius",
+            "ID": [
+                {
+                    "CERL": "cnp01341315"
+                }
+            ]
         },
         "title": "De Dominica passione",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10040,7 +10562,12 @@
     },
     {
         "author": {
-            "name": "Caspar Engelheupt"
+            "name": "Caspar Engelheupt",
+            "ID": [
+                {
+                    "CERL": "cnp01120345"
+                }
+            ]
         },
         "title": "Historia de natali Domini",
         "content": {
@@ -10058,7 +10585,12 @@
     },
     {
         "author": {
-            "name": "Martin Hosemann"
+            "name": "Martin Hosemann",
+            "ID": [
+                {
+                    "CERL": "cnp01019389"
+                }
+            ]
         },
         "title": "De mundi consummatione et iuditio extremo",
         "content": {
@@ -10076,7 +10608,12 @@
     },
     {
         "author": {
-            "name": "Vitus Jacobaeus"
+            "name": "Vitus Jacobaeus",
+            "ID": [
+                {
+                    "CERL": "cnp00961533"
+                }
+            ]
         },
         "title": "Elegia de natali Christi scripta",
         "content": {
@@ -10112,7 +10649,12 @@
     },
     {
         "author": {
-            "name": "Adamus Closius"
+            "name": "Adamus Closius",
+            "ID": [
+                {
+                    "CERL": "cnp00291901"
+                }
+            ]
         },
         "title": "Hortus Josephi Arimathii",
         "content": {
@@ -10130,8 +10672,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "Pompa mortis",
         "content": {
             "metre": "hex"
@@ -10153,12 +10710,12 @@
         "title": "De Domini nostri Jesu Christi passione",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10185,12 +10742,12 @@
         "title": "De Dominicae passionis die",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10225,8 +10782,23 @@
     },
     {
         "author": {
-            "name": "Johannes Major"
+            "name": "Johannes Major",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/11668982X",
+                    "wikidata" : "Q102338"
+                }
+            ]
         },
+        "manifestations" :[
+            {
+                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn" : "urn:nbn:de:gbv:3:1-472460",
+                "ID" : "VD 16 M 291",
+                "date" : "1563",
+                "place" : "Wittenberg"
+            }
+        ],
         "title": "Carmen in ascensionem Christi",
         "content": {
             "metre": "hex"
@@ -10261,17 +10833,22 @@
     },
     {
         "author": {
-            "name": "Leopold Prey\u00df"
+            "name": "Leopold Preyß",
+            "ID": [
+                {
+                    "CERL": "cnp01109249"
+                }
+            ]
         },
         "title": "Historia passionis et mortis Domini",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10311,7 +10888,12 @@
     },
     {
         "author": {
-            "name": "Johannes Buntschen"
+            "name": "Johannes Buntschen",
+            "ID": [
+                {
+                    "CERL": "cnp01017648"
+                }
+            ]
         },
         "title": "De cymba Christi",
         "content": {
@@ -10383,7 +10965,7 @@
     },
     {
         "author": {
-            "name": "Conrad Schl\u00fcsselburg"
+            "name": "Conrad Schlüsselburg"
         },
         "title": "Genethlion",
         "content": {
@@ -10401,17 +10983,17 @@
     },
     {
         "author": {
-            "name": "Heinrich M\u00fcller"
+            "name": "Heinrich Müller"
         },
         "title": "Historia passionis Iesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10433,12 +11015,12 @@
         "title": "Staurosis",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10449,7 +11031,7 @@
                 "qualification ": ""
             }
         ],
-        "urls" : [
+        "urls": [
             "https://books.google.de/books?id=F8JCtwAACAAJ"
         ],
         "bibrefs": [
@@ -10503,7 +11085,12 @@
     },
     {
         "author": {
-            "name": "Iustus Gigantaeus"
+            "name": "Iustus Gigantaeus",
+            "ID": [
+                {
+                    "CERL": "cnp01009321"
+                }
+            ]
         },
         "title": "Historia de morte er cruce Iesu Christi",
         "content": {
@@ -10656,7 +11243,12 @@
     },
     {
         "author": {
-            "name": "Hieronymus Reusner"
+            "name": "Hieronymus Reusner",
+            "ID": [
+                {
+                    "CERL": "cnp00386361"
+                }
+            ]
         },
         "title": "Genethlia ad cunas Christi",
         "content": {
@@ -10679,12 +11271,12 @@
         "title": "Historia passionis domini",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10706,12 +11298,12 @@
         "title": "Passio et mors Domini",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10728,17 +11320,22 @@
     },
     {
         "author": {
-            "name": "Johannes Hecheler"
+            "name": "Johannes Hecheler",
+            "ID": [
+                {
+                    "CERL": "cnp00296096"
+                }
+            ]
         },
         "title": "Historia passionis et mortis Jesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10778,12 +11375,12 @@
         "title": "De passione, morte et resurrectione Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10837,9 +11434,9 @@
     {
         "author": {
             "name": "Nicodemus Frischlin",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q72975"
+                    "wikidata": "Q72975"
                 }
             ]
         },
@@ -10877,17 +11474,22 @@
     },
     {
         "author": {
-            "name": "Conradus Hoyerus"
+            "name": "Conradus Hoyerus",
+            "ID": [
+                {
+                    "CERL": "cnp00961522"
+                }
+            ]
         },
         "title": "Carmen de passione suis distincta horis, de resurrectione et ascensione Jesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -10927,7 +11529,12 @@
     },
     {
         "author": {
-            "name": "Hartwig Schrasdorf"
+            "name": "Hartwig Schrasdorf",
+            "ID": [
+                {
+                    "CERL": "cnp01111852"
+                }
+            ]
         },
         "title": "De salutifero partu Iesu",
         "content": {
@@ -10945,7 +11552,7 @@
     },
     {
         "author": {
-            "name": "Georg Sch\u00fcnemann"
+            "name": "Georg Schünemann"
         },
         "title": "De admiranda nativitate Christi",
         "content": {
@@ -10999,7 +11606,12 @@
     },
     {
         "author": {
-            "name": "Tobias Stegmann"
+            "name": "Tobias Stegmann",
+            "ID": [
+                {
+                    "CERL": "cnp01113082"
+                }
+            ]
         },
         "title": "Infanticidium Herodis",
         "content": {
@@ -11017,7 +11629,12 @@
     },
     {
         "author": {
-            "name": "Ezechias Fabricius"
+            "name": "Ezechias Fabricius",
+            "ID": [
+                {
+                    "CERL": "cnp01120742"
+                }
+            ]
         },
         "title": "Lacrymae et plausus Mariae Magdalenae",
         "content": {
@@ -11040,12 +11657,12 @@
         "title": "Historia passionis Jesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11067,12 +11684,12 @@
         "title": "Historia passionis Jesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11107,7 +11724,12 @@
     },
     {
         "author": {
-            "name": "Heinrich Isensee"
+            "name": "Heinrich Isensee",
+            "ID": [
+                {
+                    "CERL": "cnp01125366"
+                }
+            ]
         },
         "title": "Historia de cymba Christi",
         "content": {
@@ -11243,12 +11865,12 @@
         "title": "De amara Christi passione",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11265,7 +11887,12 @@
     },
     {
         "author": {
-            "name": "Johannes Rosacius"
+            "name": "Johannes Rosacius",
+            "ID": [
+                {
+                    "CERL": "cnp00461114"
+                }
+            ]
         },
         "title": "Apostasiae Iscariotarum Exitus",
         "content": {
@@ -11307,12 +11934,12 @@
         "title": "De passione Domini",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11365,7 +11992,7 @@
     },
     {
         "author": {
-            "name": "Elias K\u00fcchler"
+            "name": "Elias Küchler"
         },
         "title": "Jesus triumphator",
         "content": {
@@ -11419,7 +12046,12 @@
     },
     {
         "author": {
-            "name": "Johannes Falkenhan"
+            "name": "Johannes Falkenhan",
+            "ID": [
+                {
+                    "CERL": "cnp00443129"
+                }
+            ]
         },
         "title": "Alcyonia",
         "content": {
@@ -11455,7 +12087,12 @@
     },
     {
         "author": {
-            "name": "Andreas Knosp"
+            "name": "Andreas Knosp",
+            "ID": [
+                {
+                    "CERL": "cnp00505247"
+                }
+            ]
         },
         "title": "Cunabula Christi",
         "content": {
@@ -11550,12 +12187,12 @@
         "title": "De passione et morte Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11636,12 +12273,12 @@
         "title": "De passione et morte Iesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11663,12 +12300,12 @@
         "title": "Historia passionis",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11685,7 +12322,7 @@
     },
     {
         "author": {
-            "name": "Jo\u00e2o de Mello e Sousa"
+            "name": "Joâo de Mello e Sousa"
         },
         "title": "De reparatione humana",
         "content": {
@@ -11727,7 +12364,12 @@
     },
     {
         "author": {
-            "name": "Theodorus Berckelman"
+            "name": "Theodorus Berckelman",
+            "ID": [
+                {
+                    "CERL": "cnp00370774"
+                }
+            ]
         },
         "title": "Historia resurrectionis Jesu Christi",
         "content": {
@@ -11791,12 +12433,12 @@
         "title": "De Christi passione et morte",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11831,17 +12473,22 @@
     },
     {
         "author": {
-            "name": "Michael Preutzius"
+            "name": "Michael Preutzius",
+            "ID": [
+                {
+                    "CERL": "cnp01128321"
+                }
+            ]
         },
         "title": "De passione Jesu Christi",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -11881,12 +12528,12 @@
         "title": "Historia passionis et mortis Domini",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -12044,7 +12691,12 @@
     },
     {
         "author": {
-            "name": "Julius Hartwig Reichen"
+            "name": "Julius Hartwig Reichen",
+            "ID": [
+                {
+                    "CERL": "cnp00409242"
+                }
+            ]
         },
         "title": "Deus homo factus",
         "content": {
@@ -12067,12 +12719,12 @@
         "title": "Historia passionis Dominicae",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -12090,9 +12742,9 @@
     {
         "author": {
             "name": "Franciscus Vavasseur",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "GND": "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -12100,7 +12752,7 @@
         "title": "Theurgicon",
         "content": {
             "metre": "hex",
-            "num_books" : "4"
+            "num_books": "4"
         },
         "dates": [
             {
@@ -12111,14 +12763,14 @@
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "https://www.digitale-sammlungen.de/en/view/bsb11396101",
-                "description" :"BSB ID",
-                "ID" :"BSB-ID 14467107",
-                "urn" : "urn:nbn:de:bvb:12-bsb11396101-1",
-                "date" : "1676",
-                "place" : "Lyon"
+                "url": "https://www.digitale-sammlungen.de/en/view/bsb11396101",
+                "description": "BSB ID",
+                "ID": "BSB-ID 14467107",
+                "urn": "urn:nbn:de:bvb:12-bsb11396101-1",
+                "date": "1676",
+                "place": "Lyon"
             }
         ]
     },
@@ -12140,26 +12792,31 @@
             "czaplaBibeleposFruehenNeuzeit2013",
             "werleAndreasGryphiusOlivetum2020"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "description" : "modern edition",
-                "ref" : "gryphiusHerodesOlbergLateinische1999a"
+                "description": "modern edition",
+                "ref": "gryphiusHerodesOlbergLateinische1999a"
             }
         ]
     },
     {
         "author": {
-            "name": "Pietro Angelo Spera"
+            "name": "Pietro Angelo Spera",
+            "ID": [
+                {
+                    "CERL": "cnp02348615"
+                }
+            ]
         },
         "title": "De passione Domini",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -12275,7 +12932,7 @@
             "ID": [
                 {
                     "wikidata": "Q635581",
-                    "VIAF" : "http://viaf.org/viaf/39521157"
+                    "VIAF": "http://viaf.org/viaf/39521157"
                 }
             ]
         },
@@ -12300,12 +12957,12 @@
         "title": "Jesu Christi passio",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q623306",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Passion"
+                    "url": "Q623306",
+                    "label": {
+                        "label": "en",
+                        "value": "Passion"
                     }
                 }
             ]
@@ -12322,7 +12979,12 @@
     },
     {
         "author": {
-            "name": "Joachim Breithaupt"
+            "name": "Joachim Breithaupt",
+            "ID": [
+                {
+                    "CERL": "cnp00351455"
+                }
+            ]
         },
         "title": "Veritatis, seu sapientiae, nativitas, victoria, communio. Vanitatis, seu stultitiae expiatio",
         "content": {
@@ -12340,7 +13002,12 @@
     },
     {
         "author": {
-            "name": "Johann W. Petersen"
+            "name": "Johann W. Petersen",
+            "ID": [
+                {
+                    "CERL": "cnp00385172"
+                }
+            ]
         },
         "title": "Uranias seu opera Dei",
         "content": {
@@ -12466,7 +13133,12 @@
     },
     {
         "author": {
-            "name": "Abraham Kummer"
+            "name": "Abraham Kummer",
+            "ID": [
+                {
+                    "CERL": "cnp00956933"
+                }
+            ]
         },
         "title": "Historia conversionis Pauli",
         "content": {
@@ -12502,7 +13174,12 @@
     },
     {
         "author": {
-            "name": "Caspar Reppusius"
+            "name": "Caspar Reppusius",
+            "ID": [
+                {
+                    "CERL": "cnp00173169"
+                }
+            ]
         },
         "title": "Conversio Pauli Apostoli",
         "content": {
@@ -12555,7 +13232,12 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Bonade"
+            "name": "François Bonade",
+            "ID": [
+                {
+                    "CERL": "cnp01320947"
+                }
+            ]
         },
         "title": "Divi Pauli Apostoli epistolae divinae",
         "content": {
@@ -12573,7 +13255,12 @@
     },
     {
         "author": {
-            "name": "Theodor Reysmann"
+            "name": "Theodor Reysmann",
+            "ID": [
+                {
+                    "CERL": "cnp01021905"
+                }
+            ]
         },
         "title": "Divi Pauli Apostoli epistola ad Romanos",
         "content": {
@@ -12591,7 +13278,12 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Bonade"
+            "name": "François Bonade",
+            "ID": [
+                {
+                    "CERL": "cnp01320947"
+                }
+            ]
         },
         "title": "Divi Pauli Apostoli epistolae divinae",
         "content": {
@@ -12627,7 +13319,12 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Bonade"
+            "name": "François Bonade",
+            "ID": [
+                {
+                    "CERL": "cnp01320947"
+                }
+            ]
         },
         "title": "Divi Pauli Apostoli epistolae divinae",
         "content": {
@@ -12663,7 +13360,12 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Bonade"
+            "name": "François Bonade",
+            "ID": [
+                {
+                    "CERL": "cnp01320947"
+                }
+            ]
         },
         "title": "Divi Pauli Apostoli epistolae divinae",
         "content": {
@@ -12681,7 +13383,12 @@
     },
     {
         "author": {
-            "name": "Hieronymus Spartanus"
+            "name": "Hieronymus Spartanus",
+            "ID": [
+                {
+                    "CERL": "cnp00126545"
+                }
+            ]
         },
         "title": "Miles Christianus",
         "content": {
@@ -12699,7 +13406,12 @@
     },
     {
         "author": {
-            "name": "Fran\u00e7ois Bonade"
+            "name": "François Bonade",
+            "ID": [
+                {
+                    "CERL": "cnp01320947"
+                }
+            ]
         },
         "title": "Divi Pauli Apostoli epistolae divinae",
         "content": {
@@ -12753,7 +13465,7 @@
     },
     {
         "author": {
-            "name": "Caspar Sch\u00fctz"
+            "name": "Caspar Schütz"
         },
         "title": "De extremo iudicio",
         "content": {
@@ -12789,7 +13501,12 @@
     },
     {
         "author": {
-            "name": "Patrick Adamson"
+            "name": "Patrick Adamson",
+            "ID": [
+                {
+                    "CERL": "cnp02327060"
+                }
+            ]
         },
         "title": "Apocalypsis Ioannis",
         "content": {
@@ -12843,7 +13560,12 @@
     },
     {
         "author": {
-            "name": "Macarius Mutius"
+            "name": "Macarius Mutius",
+            "ID": [
+                {
+                    "CERL": "cnp01427678"
+                }
+            ]
         },
         "title": "De triumpho Christi",
         "content": {
@@ -12904,13 +13626,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -12931,13 +13653,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -12958,13 +13680,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -12985,13 +13707,20 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
+                },
+                {
+                    "url" : "Q1540642",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Harrowing of Hell"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -13005,20 +13734,25 @@
     },
     {
         "author": {
-            "name": "Reinholdus Dreierus"
+            "name": "Reinholdus Dreierus",
+            "ID": [
+                {
+                    "CERL": "cnp00992341"
+                }
+            ]
         },
         "title": "Triumphus Christi",
         "content": {
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -13039,13 +13773,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -13066,13 +13800,13 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -13086,20 +13820,25 @@
     },
     {
         "author": {
-            "name": "Andreas Knosp"
+            "name": "Andreas Knosp",
+            "ID": [
+                {
+                    "CERL": "cnp00505247"
+                }
+            ]
         },
         "title": "Triumphus Christi",
         "content": {
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -13113,20 +13852,25 @@
     },
     {
         "author": {
-            "name": "Georg Hauschburg"
+            "name": "Georg Hauschburg",
+            "ID": [
+                {
+                    "CERL": "cnp00604646"
+                }
+            ]
         },
         "title": "Triumphus Jesu Christi",
         "content": {
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q51624",
-                  "label": {
-                    "label": "en",
-                    "value": "Resurrection of Jesus"
-                  }
+                    "url": "Q51624",
+                    "label": {
+                        "label": "en",
+                        "value": "Resurrection of Jesus"
+                    }
                 }
-              ]
+            ]
         },
         "dates": [
             {
@@ -13152,27 +13896,27 @@
             "metre": "hex",
             "subject": [
                 {
-                  "url": "Q498046",
-                  "label": {
-                    "label": "en",
-                    "value": "Johan Banér"
-                  }
+                    "url": "Q498046",
+                    "label": {
+                        "label": "en",
+                        "value": "Johan Banér"
+                    }
                 },
                 {
-                  "url": "Q2079",
-                  "label": {
-                    "label": "en",
-                    "value": "Leipzig"
-                  }
+                    "url": "Q2079",
+                    "label": {
+                        "label": "en",
+                        "value": "Leipzig"
+                    }
                 },
                 {
-                  "url": "Q2487",
-                  "label": {
-                    "label": "en",
-                    "value": "Thirty Years' War"
-                  }
+                    "url": "Q2487",
+                    "label": {
+                        "label": "en",
+                        "value": "Thirty Years' War"
+                    }
                 }
-              ]
+            ]
         },
         "manifestations": [
             {
@@ -13231,7 +13975,7 @@
     },
     {
         "author": {
-            "name": "Dermot O\u2019Meara",
+            "name": "Dermot O’Meara",
             "ID": [
                 {
                     "wikidata": "Q20922132"
@@ -13273,7 +14017,7 @@
     },
     {
         "author": {
-            "name": "Jos\u00e9 Antonio de Viller\u00edas y Roelas",
+            "name": "José Antonio de Villerías y Roelas",
             "ID": [
                 {
                     "wikidata": "Q97352047"
@@ -13297,7 +14041,7 @@
     },
     {
         "author": {
-            "name": "Rafael Land\u00edvar",
+            "name": "Rafael Landívar",
             "ID": [
                 {
                     "wikidata": "Q1216154"
@@ -13323,7 +14067,12 @@
     },
     {
         "author": {
-            "name": "Jacob Kuchler"
+            "name": "Jacob Kuchler",
+            "ID": [
+                {
+                    "CERL": "cnp01103992"
+                }
+            ]
         },
         "title": "Historia Ionae prophetae carmine elegiaco tractata",
         "content": {
@@ -13377,7 +14126,7 @@
     },
     {
         "author": {
-            "name": "Hieronymus Rh\u00fcden"
+            "name": "Hieronymus Rhüden"
         },
         "title": "Historia Ionae prophetae heroico carmine descripta",
         "content": {
@@ -13395,7 +14144,12 @@
     },
     {
         "author": {
-            "name": "Nicolaus Lucke"
+            "name": "Nicolaus Lucke",
+            "ID": [
+                {
+                    "CERL": "cnp01105121"
+                }
+            ]
         },
         "title": "Paraphrasis poetica in historiam Ionae prophetae",
         "content": {
@@ -13431,7 +14185,7 @@
     },
     {
         "author": {
-            "name": "Francisco N\u00fa\u00f1ez de Oria",
+            "name": "Francisco Núñez de Oria",
             "ID": [
                 {
                     "wikidata": "Q5866924"
@@ -13455,7 +14209,12 @@
     },
     {
         "author": {
-            "name": "Jos\u00e9 Manuel Peram\u00e1s"
+            "name": "José Manuel Peramás",
+            "ID": [
+                {
+                    "CERL": "cnp01446442"
+                }
+            ]
         },
         "title": "De Invento Novo Orbe Inductoque Illuc Christi Sacrificio",
         "content": {
@@ -13553,18 +14312,25 @@
         "title": "Bellum Angelicum",
         "content": {
             "metre": "hex"
-        }
+        },
+        "manifestations" : [
+            {
+                "url" : "http://mateo.uni-mannheim.de/camena/taub1/books/taubmannmelodaesia_2.xml",
+                "description" : "digital edition"
+            }
+        ]
     },
     {
         "author": {
             "name": "Melchior Eccius",
             "ID": [
                 {
-                    "VIAF": "f"
+                    "VIAF": "http://viaf.org/viaf/37758480",
+                    "GND" : "https://d-nb.info/gnd/120852217"
                 }
             ]
         },
-        "title": "Michael bellator sive de pugna angelorum cum diabolis duce... Michaele Archangelo pugnata\u2026",
+        "title": "Michael bellator sive de pugna angelorum cum diabolis duce... Michaele Archangelo pugnata…",
         "content": {
             "metre": "hex"
         },
@@ -13573,11 +14339,22 @@
                 "value": "1610",
                 "qualification ": "published"
             }
+        ],
+        "manifestations" :[
+            {
+            "url" : "https://doi.org/10.5281/zenodo.5842452",
+            "date" : "1610"
+            }
         ]
     },
     {
         "author": {
-            "name": "Sebastiano Maccio"
+            "name": "Sebastiano Maccio",
+            "ID": [
+                {
+                    "CERL": "cnp01236623"
+                }
+            ]
         },
         "title": "Soteridos seu de redemptionis humanae mysterio: lib. XII.",
         "content": {
@@ -13698,9 +14475,9 @@
     {
         "author": {
             "name": "Nicodemus Frischlin",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q72975"
+                    "wikidata": "Q72975"
                 }
             ]
         },
@@ -13737,14 +14514,15 @@
         "title": "Baptista decollatus",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q2511873",
+                    "url": "Q2511873",
                     "label": {
                         "language": "en",
                         "value": "Decollation of John the Baptist"
                     }
-                }]
+                }
+            ]
         },
         "bibrefs": [
             "VL"
@@ -13793,7 +14571,9 @@
         "manifestations": [
             {
                 "description": "EDIT16",
-                "ID": "1786"
+                "ID": "1786",
+                "date" : "1566",
+                "url" : "https://books.google.it/books?id=WNVR3SWeEnAC"
             }
         ],
         "bibrefs": [
@@ -13832,7 +14612,7 @@
         "manifestations": [
             {
                 "description": "modern edition",
-                "ID": "Glei/K\u00f6hler 1998"
+                "ID": "Glei/Köhler 1998"
             }
         ],
         "bibrefs": [
@@ -13955,7 +14735,12 @@
     },
     {
         "author": {
-            "name": "Petrus du May"
+            "name": "Petrus du May",
+            "ID": [
+                {
+                    "CERL": "cnp01883571"
+                }
+            ]
         },
         "title": "Enguinneis",
         "content": {},
@@ -13983,7 +14768,12 @@
     },
     {
         "author": {
-            "name": "Jonas Radvanas"
+            "name": "Jonas Radvanas",
+            "ID": [
+                {
+                    "CERL": "cnp00566063"
+                }
+            ]
         },
         "title": "Radivilias",
         "content": {},
@@ -13993,7 +14783,7 @@
     },
     {
         "author": {
-            "name": "Klement V\u00e1clav"
+            "name": "Klement Václav"
         },
         "title": "Lechias",
         "content": {},
@@ -14003,7 +14793,7 @@
     },
     {
         "author": {
-            "name": "Klement V\u00e1clav"
+            "name": "Klement Václav"
         },
         "title": "Gustavis",
         "content": {},
@@ -14046,7 +14836,7 @@
         "author": {
             "name": "Christopher Ocland"
         },
-        "title": "\u0395\u1f30\u03c1\u03b7\u03bd\u03b1\u03c1\u03c7\u03af\u03b1 sive Elizabetha, de pacatissimo Angliae statu",
+        "title": "Εἰρηναρχία sive Elizabetha, de pacatissimo Angliae statu",
         "content": {
             "subject": [
                 {
@@ -14137,7 +14927,12 @@
     },
     {
         "author": {
-            "name": "Ivan Polikarp Severitan"
+            "name": "Ivan Polikarp Severitan",
+            "ID": [
+                {
+                    "CERL": "cnp01311502"
+                }
+            ]
         },
         "title": "Solimaidos libri III",
         "content": {},
@@ -14153,7 +14948,12 @@
     },
     {
         "author": {
-            "name": "Ignjat \u0110ur\u0111evi\u0107"
+            "name": "Ignjat Đurđević",
+            "ID": [
+                {
+                    "CERL": "cnp01355685"
+                }
+            ]
         },
         "title": "Magdalis",
         "content": {},
@@ -14169,7 +14969,13 @@
     },
     {
         "author": {
-            "name": "Josip \u010cobarni\u0107"
+            "name": "Josip Čobarnić",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/304911963",
+                    "wikidata" : "Q102306765"
+                }
+            ]
         },
         "title": "Dioclias",
         "content": {
@@ -14187,7 +14993,12 @@
     },
     {
         "author": {
-            "name": "Damjan Bene\u0161a"
+            "name": "Damjan Beneša",
+            "ID": [
+                {
+                    "CERL": "cnp02176494"
+                }
+            ]
         },
         "title": "De morte Christi",
         "content": {},
@@ -14212,7 +15023,7 @@
                     "url": "Q436753",
                     "label": {
                         "language": "en",
-                        "value": "Alfonso\u00a0II of Naples"
+                        "value": "Alfonso II of Naples"
                     }
                 }
             ]
@@ -14244,7 +15055,7 @@
         "author": {
             "name": "Johann Engerd"
         },
-        "title": "Vita reverendi [\u2026] Gabrielis Dorneri, abbatis Aspacensis",
+        "title": "Vita reverendi […] Gabrielis Dorneri, abbatis Aspacensis",
         "content": {},
         "dates": [
             {
@@ -14260,7 +15071,7 @@
         "author": {
             "name": "Johann Engerd"
         },
-        "title": "Epaenesis duarum illustrium Germaniae familiarum [\u2026]",
+        "title": "Epaenesis duarum illustrium Germaniae familiarum […]",
         "content": {},
         "dates": [
             {
@@ -14291,9 +15102,9 @@
     {
         "author": {
             "name": "Nicodemus Frischlin",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q72975"
+                    "wikidata": "Q72975"
                 }
             ]
         },
@@ -14329,7 +15140,7 @@
         "author": {
             "name": "Caspar Ens"
         },
-        "title": "Rerum Danicarum Friderico II. Inclitae Memoriae, Rerum potiente, Terra marique Gestarum Historica: Bella Dithmarsicum et Suecicum maxime memorabilia complectens [\u2026]",
+        "title": "Rerum Danicarum Friderico II. Inclitae Memoriae, Rerum potiente, Terra marique Gestarum Historica: Bella Dithmarsicum et Suecicum maxime memorabilia complectens […]",
         "content": {},
         "dates": [
             {
@@ -14359,18 +15170,25 @@
     },
     {
         "author": {
-            "name": "Ulrich Bollinger"
+            "name": "Ulrich Bollinger",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/250971169",
+                    "GND" : "http://d-nb.info/gnd/116236574",
+                    "wikidata" : "Q55911458"
+                }
+            ]
         },
         "title": "Moseis sive carmen heroicum de rebus gestis Mosis",
         "content": {
-            "num_books" : "4",
-            "metre" : "hex",
-            "subject" : [
-                { 
-                    "url" : "Q9077",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Moses"
+            "num_books": "4",
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q9077",
+                    "label": {
+                        "label": "en",
+                        "value": "Moses"
                     }
                 }
             ]
@@ -14390,11 +15208,11 @@
                 "ID": "VD16 ZV 2234"
             },
             {
-                "description" : "URN",
-                "ID" : "urn:nbn:de:gbv:3:1-165763"
+                "description": "URN",
+                "ID": "urn:nbn:de:gbv:3:1-165763"
             }
         ],
-        "urls" : [
+        "urls": [
             "http://dx.doi.org/10.25673/opendata2-5395"
         ]
     },
@@ -14442,7 +15260,12 @@
     },
     {
         "author": {
-            "name": "Caspar Br\u00fclow"
+            "name": "Caspar Brülow",
+            "ID": [
+                {
+                    "CERL": "cnp00159694"
+                }
+            ]
         },
         "title": "Carmen heroicum, de vita rebusque gestis B. Martini Lutheri",
         "content": {
@@ -14501,7 +15324,12 @@
     },
     {
         "author": {
-            "name": "Johannes Nikolaus Furichius"
+            "name": "Johannes Nikolaus Furichius",
+            "ID": [
+                {
+                    "CERL": "cnp01012071"
+                }
+            ]
         },
         "title": "Chryseidos Libri IV",
         "content": {},
@@ -14519,7 +15347,7 @@
         "author": {
             "name": "Johannes Opsopaeus"
         },
-        "title": "Carmen theologicum de salute generis humani [\u2026]",
+        "title": "Carmen theologicum de salute generis humani […]",
         "content": {},
         "dates": [
             {
@@ -14533,7 +15361,13 @@
     },
     {
         "author": {
-            "name": "Martin Opitz"
+            "name": "Martin Opitz",
+            "ID" : [
+                {
+                    "wikidata" : "Q60946",
+                    "VIAF" : "https://viaf.org/viaf/22167909/"
+                }
+            ]
         },
         "title": "Ratispona in libertatem vindicata",
         "content": {},
@@ -14565,7 +15399,12 @@
     },
     {
         "author": {
-            "name": "Wolf Helmhardt von Hohberg"
+            "name": "Wolf Helmhardt von Hohberg",
+            "ID": [
+                {
+                    "CERL": "cnp00399876"
+                }
+            ]
         },
         "title": "Georgica Curiosa",
         "content": {},
@@ -14581,7 +15420,12 @@
     },
     {
         "author": {
-            "name": "Johannes Nicolaus Selle"
+            "name": "Johannes Nicolaus Selle",
+            "ID": [
+                {
+                    "CERL": "cnp00961295"
+                }
+            ]
         },
         "title": "Cedrus Brandenburgica",
         "content": {},
@@ -14720,7 +15564,7 @@
     },
     {
         "author": {
-            "name": "Kajetan Vi\u010di\u0107"
+            "name": "Kajetan Vičić"
         },
         "title": "Jesseis",
         "content": {},
@@ -14740,7 +15584,12 @@
     },
     {
         "author": {
-            "name": "Lars Fornelius"
+            "name": "Lars Fornelius",
+            "ID": [
+                {
+                    "CERL": "cnp00448993"
+                }
+            ]
         },
         "title": "Gustavus Sago-Togatus",
         "content": {},
@@ -14750,7 +15599,12 @@
     },
     {
         "author": {
-            "name": "Bartholomaeus Pereira"
+            "name": "Bartholomaeus Pereira",
+            "ID" : [
+                {
+                    "wikidata" : "Q94685448"
+                }
+            ]
         },
         "title": "Paciecis",
         "content": {
@@ -14782,7 +15636,12 @@
     },
     {
         "author": {
-            "name": "Antonio Figueira Dur\u00e3o"
+            "name": "Antonio Figueira Durão",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/99155925"
+                }
+            ]
         },
         "title": "Ignatias",
         "content": {},
@@ -14796,7 +15655,17 @@
             "name": "Nikodemus Musnicki"
         },
         "title": "De Christi ab inferis reditu",
-        "content": {},
+        "content": {
+            "subject" : [
+                {
+                    "url" : "Q1540642",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Harrowing of Hell"
+                    }
+                }
+            ]
+        },
         "dates": [
             {
                 "value": "1805",
@@ -14804,7 +15673,8 @@
             }
         ],
         "bibrefs": [
-            "haskellTearsThingsHow2020:75"
+            "haskellTearsThingsHow2020:75",
+            "schaffenrathHollenfahrtseposChristiInferis2012"
         ]
     },
     {
@@ -15108,10 +15978,27 @@
     },
     {
         "author": {
-            "name": "Abraham Hartwell"
+            "name": "Abraham Hartwell",
+            "ID" : [
+                {
+                    "wikidata" : "Q4668896"
+                }
+            ]
         },
         "title": "Regina Literata",
-        "content": {},
+        "content": {
+            "met" : "dist",
+            "num_books" : "1",
+            "subject" : [
+                {
+                    "url" : "Q7207",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Elizabeth I of England"
+                    }
+                }
+            ]
+        },
         "dates": [
             {
                 "value": "1565",
@@ -15236,7 +16123,12 @@
     },
     {
         "author": {
-            "name": "Giano Pirro Pincio"
+            "name": "Giano Pirro Pincio",
+            "ID": [
+                {
+                    "CERL": "cnp01238649"
+                }
+            ]
         },
         "title": "Clesias",
         "content": {
@@ -15274,7 +16166,12 @@
     },
     {
         "author": {
-            "name": "Simon Lemnius"
+            "name": "Simon Lemnius",
+            "ID": [
+                {
+                    "CERL": "cnp01345177"
+                }
+            ]
         },
         "title": "Raeteis",
         "content": {},
@@ -15286,7 +16183,7 @@
     },
     {
         "author": {
-            "name": "Jos\u00e9 Anchieta"
+            "name": "José Anchieta"
         },
         "title": "De gestis Mendi de Saa",
         "content": {},
@@ -15328,10 +16225,12 @@
     {
         "author": {
             "name": "Petrus Rossetus",
-            "ID" : [{
-                "VIAF" : "http://viaf.org/viaf/122362619",
-                "GND" : "http://d-nb.info/gnd/104290986"
-            }]
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/122362619",
+                    "GND": "http://d-nb.info/gnd/104290986"
+                }
+            ]
         },
         "title": "Stephanis sive epos de beatissimi protomartyris Stephani Agone",
         "content": {},
@@ -15418,7 +16317,12 @@
     },
     {
         "author": {
-            "name": "Alexander Yule"
+            "name": "Alexander Yule",
+            "ID": [
+                {
+                    "CERL": "cni00056515"
+                }
+            ]
         },
         "title": "Descriptio Horrendi Paricidii",
         "content": {},
@@ -15434,9 +16338,14 @@
     },
     {
         "author": {
-            "name": "Michael Wallace"
+            "name": "Michael Wallace",
+            "ID": [
+                {
+                    "CERL": "cnp01399752"
+                }
+            ]
         },
-        "title": "In Serenissimi regis Iacobi \u2026 Liberationem",
+        "title": "In Serenissimi regis Iacobi … Liberationem",
         "content": {},
         "dates": [
             {
@@ -15483,9 +16392,9 @@
     {
         "author": {
             "name": "Matthias Casimirus Sarbievius",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q471723"
+                    "wikidata": "Q471723"
                 }
             ]
         },
@@ -15588,17 +16497,17 @@
         },
         "title": "Bellum Ottomanicorum",
         "content": {
-            "num_verses" : "320",
-            "num_books" : "1"
+            "num_verses": "320",
+            "num_books": "1"
         },
         "bibrefs": [
             "braunPedisequaCamenaeMinoris2021"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "description" : "EDIT16",
-                "ID" : "CNCE 003989",
-                "date" : "1572"
+                "description": "EDIT16",
+                "ID": "CNCE 003989",
+                "date": "1572"
             }
         ]
     },
@@ -15655,7 +16564,7 @@
     },
     {
         "author": {
-            "name": "D\u00f2ria, Miquel",
+            "name": "Dòria, Miquel",
             "ID": [
                 {
                     "VIAF": "http://viaf.org/viaf/2618160245387252640003"
@@ -15680,9 +16589,14 @@
     },
     {
         "author": {
-            "name": "Addisson"
+            "name": "Addisson",
+            "ID": [
+                {
+                    "CERL": "cnp01324412"
+                }
+            ]
         },
-        "title": "Pygm\u00e9og\u00e9ranomachie",
+        "title": "Pygméogéranomachie",
         "content": {
             "num_books": "1",
             "subject": [
@@ -15726,14 +16640,14 @@
     },
     {
         "author": {
-            "name": "Carlo d\u2019Aquino",
+            "name": "Carlo d’Aquino",
             "ID": [
                 {
                     "GND": "http://d-nb.info/gnd/100015670"
                 }
             ]
         },
-        "title": "Le similitudini della Commedia di Dante Alighieri trasportate verso per verso in lingua latina da Carlo D'Aquino della Compagnia di Ges\u00f9",
+        "title": "Le similitudini della Commedia di Dante Alighieri trasportate verso per verso in lingua latina da Carlo D'Aquino della Compagnia di Gesù",
         "content": {
             "metre": "hex",
             "subject": [
@@ -15758,7 +16672,7 @@
     },
     {
         "author": {
-            "name": "Carlo d\u2019Aquino",
+            "name": "Carlo d’Aquino",
             "ID": [
                 {
                     "wikidata": "Q21543924"
@@ -15768,7 +16682,7 @@
                 }
             ]
         },
-        "title": "Della Commedia di Dante Alighieri trasportata in verso latino eroico da Carlo d'Aquino della Compagnia di Ges\u00f9",
+        "title": "Della Commedia di Dante Alighieri trasportata in verso latino eroico da Carlo d'Aquino della Compagnia di Gesù",
         "content": {
             "metre": "hex",
             "subject": [
@@ -15905,70 +16819,80 @@
         ]
     },
     {
-        "author" : {
-            "name" : "Priamus Capotius",
-            "ID" : [
+        "author": {
+            "name": "Priamus Capotius",
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/119636891",
-                    "VIAF" : "http://viaf.org/viaf/77129340" 
+                    "GND": "https://d-nb.info/gnd/119636891",
+                    "VIAF": "http://viaf.org/viaf/77129340"
                 }
             ]
         },
-        "title" : "Fridericeis",
-        "content" : {
-            "metre" : "hex",
-            "num_books" : "1",
-            "subject" :[
+        "title": "Fridericeis",
+        "content": {
+            "metre": "hex",
+            "num_books": "1",
+            "subject": [
                 {
-                    "url" : "Q694358",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Frederick I, Margrave of Meissen"
+                    "url": "Q694358",
+                    "label": {
+                        "language": "en",
+                        "value": "Frederick I, Margrave of Meissen"
                     }
                 },
                 {
-                    "url" : "Q160101",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Adolf, King of the Romans"
+                    "url": "Q160101",
+                    "label": {
+                        "language": "en",
+                        "value": "Adolf, King of the Romans"
                     }
                 }
             ]
         },
-        "bibrefs" :[
+        "bibrefs": [
             "ellingerItalienUndDeutsche1929a:349"
         ],
         "manifestations": [
             {
                 "description": "GW",
                 "ID": "GW 06026",
-                "url" : "https://www.digitale-sammlungen.de/en/view/bsb00041719"
+                "url": "https://www.digitale-sammlungen.de/en/view/bsb00041719"
             }
         ]
     },
     {
         "author": {
-          "name": "Herd, John",
-          "ID": [
-            {
-              "wikidata": "Q18546578",
-              "VIAF": "http://viaf.org/viaf/91196122"
-            }
-          ]
+            "name": "Herd, John",
+            "ID": [
+                {
+                    "wikidata": "Q18546578",
+                    "VIAF": "http://viaf.org/viaf/91196122"
+                }
+            ]
         },
         "title": "Historia quatuor regum Angliae. Heroico carmine conclusa",
         "content": {
-          "num_books": "4",
-          "num_verses": "",
-          "metre": "hex",
-          "subject": []
+            "num_books": "4",
+            "num_verses": "",
+            "metre": "hex",
+            "subject": []
         },
         "manifestations": [
-          {
-            "description": "",
-            "ID": "",
-            "url": "https://wellcomecollection.org/works/k5rjc2sc"
-          }
+            {
+                "description": "",
+                "ID": "",
+                "url": "https://wellcomecollection.org/works/k5rjc2sc"
+            }
         ]
-      }
+    },
+    {
+        "author" : 
+        {
+            "name" : "Friedrich Taubmann",
+            "ID" : [
+                {"wikidata" : "Q1462474"}
+            ]
+        },
+        "title" : "Bellum Angelicum"
+    }
 ]

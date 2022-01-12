@@ -37,6 +37,10 @@ for (var i = 0; i < data.length; i++) {
                 authCellText += ` <a href="${entry[KEY]}"><img src="img/DNB.png"></img></a>`
             }
 
+            if (KEY === "CERL") {
+                authCellText += ` <a href="https://data.cerl.org/thesaurus/${entry[KEY]}"><img src="img/cerl.png"></img></a>`
+            }
+
             if (KEY === "VIAF") {
                 authCellText += ` <a href="${entry[KEY]}"><img src="img/Viaf_icon.png"></img></a>`
             }
