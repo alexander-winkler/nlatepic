@@ -33,6 +33,10 @@
                         "type" : "string",
                         "enum" : ["hex", "dist", "polym"]
                     },
+                    "Goetterapparat" : {
+                        "type" : "string",
+                        "enum" : ["pagan","Christian","None"]
+                    },
                     "subject" : {
                         "type" : "array",
                         "items" : {
@@ -73,10 +77,13 @@
                     "type" : "object",
                     "properties": {
                         "description" : {"type": "string" },
-                        "ID" : {"type" : "string"}
+                        "ID" : {"type" : "string"},
+                        "url" : {
+                            "type" : "string"
+                        }
+                        }
                     }
                 }
             }
         }
     }
-}

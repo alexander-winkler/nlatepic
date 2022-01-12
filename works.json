@@ -2715,11 +2715,29 @@
     },
     {
         "author": {
-            "name": "de Machault"
+            "name": "de Machault",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/74201857"},
+                {    
+                    "wikidata" : "Q70505765"
+                }
+            ]
         },
         "title": "Lodoici expeditio in Italiam",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "4",
+            "num_verses" : "1440",
+            "subject" : [
+                {
+                    "url" : "Q1527665",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "War of the Mantuan Succession"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -2733,17 +2751,37 @@
     },
     {
         "author": {
-            "name": "Berthault"
+            "name": "Pierre Berthault",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/59169208",
+                    "GND" : "http://d-nb.info/gnd/128765976",
+                    "wikidata" : "Q3383950"
+                }
+            ]
         },
         "title": "Casallum bis liberatum",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "Goetterapparat" : "None",
+            "subject" : [
+                {
+                    "url" : "Q1527665",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "War of the Mantuan Succession"
+                    }
+                }
+            ]
         },
         "dates": [
             {
                 "value": "1631",
                 "qualification ": ""
             }
+        ],
+        "urls" : [
+            "http://hdl.handle.net/2268.1/7805"
         ],
         "bibrefs": [
             "Braun 2007: 712"
@@ -4363,7 +4401,16 @@
         "content": {
             "num_books": "6",
             "num_verses": "5400",
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                { 
+                    "url" : "Q80516",
+                    "label" : {
+                        "value" : "Julius II",
+                        "language" : "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -4372,7 +4419,8 @@
             }
         ],
         "bibrefs": [
-            "braunPedisequaCamenaeZur2020: 16*"
+            "braunPedisequaCamenaeZur2020: 16*",
+            "vidaFelsinais2020a"
         ]
     },
     {
@@ -15722,6 +15770,44 @@
         ],
         "bibrefs": [
             "lenihanPoemaHiberniaJacobite2018"
+        ]
+    },
+    {
+        "author" : {
+            "name" : "Priamus Capotius",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/119636891",
+                    "VIAF" : "http://viaf.org/viaf/77129340" 
+                }
+            ]
+        },
+        "content" : {
+            "metre" : "hex",
+            "num_books" : "1",
+            "subject" :[
+                {
+                    "url" : "Q694358",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Frederick I, Margrave of Meissen"
+                    }
+                },
+                {
+                    "url" : "Q160101",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Adolf, King of the Romans"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "description": "GW",
+                "ID": "GW 06026",
+                "url" : "https://www.digitale-sammlungen.de/en/view/bsb00041719"
+            }
         ]
     }
 ]

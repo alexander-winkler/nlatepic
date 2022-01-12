@@ -17,7 +17,7 @@ Ludwig Braun's (2007: 1) definition:
 
 
 
-Currently, the data is stored in a simple `csv` file (`works.csv`) that can be viewed on github or downloaded and viewed in libreoffice Calc or Excel. I am still trying to find out which categories are useful in order to efficiently describe the texts in the corpus. I try to add authority file ids to the authors and bibliographic ids to the prints in order to make them more easily retrievable.
+Currently, the data is stored and maintained in a simple `json` file (`works.json`). I am still working on a viable JSON Schema to describe the data with a sufficient degree of complexity. I try to add authority file ids to the authors and bibliographic ids to the prints in order to make them more easily retrievable.
 
 The bibliographic references use the Zotero citation keys from the collection mentioned above.
 
@@ -31,7 +31,9 @@ If you want to contribute, [create an issue on github](https://docs.github.com/e
 
 * Look through IJsewijn/Sacré 1998 and other overviews and add data.
 * Look through Jensen, Minna Skafte. 1995. A History of Nordic Neo-Latin Literature. University Press of Southern Denmark.
-* Create frontend (maybe similar to [Catalogue of Critical Editions](https://dig-ed-cat.acdh.oeaw.ac.at/browsing/editions/), open source on [github](https://github.com/acdh-oeaw/dig_ed_cat)). Maybe the [json-editor](https://github.com/json-editor/json-editor) can be adapted.
+* Develop decent frontend (maybe similar to [Catalogue of Critical Editions](https://dig-ed-cat.acdh.oeaw.ac.at/browsing/editions/), open source on [github](https://github.com/acdh-oeaw/dig_ed_cat)). Maybe the [json-editor](https://github.com/json-editor/json-editor) can be adapted.
+* Enrich (meta-)data both manually and semi-automatically.
+
 
 # Licence
 
