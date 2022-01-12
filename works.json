@@ -2507,11 +2507,18 @@
     },
     {
         "author": {
-            "name": "Masurius"
+            "name": "Masurius",
+            "ID" : [
+                {
+                    "wikidata" : "Q3261709"
+                }
+            ]
         },
         "title": "Babylon",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "1",
+            "num_verses" : "792"
         },
         "dates": [
             {
@@ -2521,6 +2528,15 @@
         ],
         "bibrefs": [
             "Braun 2007: 700"
+        ],
+        "manifestations" : [
+            {
+                "date" : "1574",
+                "place" : "Bale",
+                "url" : "http://data.onb.ac.at/rep/10A73633",
+                "description" : "VD 16",
+                "ID" : "VD16 D 607"
+            }
         ]
     },
     {
@@ -2561,11 +2577,16 @@
     },
     {
         "author": {
-            "name": "Clutin"
+            "name": "Clutin",
+            "ID" : {
+                "wikidata" : "Q110535434"
+            }
         },
         "title": "Pugna navalis",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "1",
+            "num_verses" : "378"
         },
         "dates": [
             {
@@ -2575,7 +2596,13 @@
         ],
         "bibrefs": [
             "Braun 2007: 703"
-        ]
+        ],
+        "manifestations" :[
+            {
+                "ID" : "823315",
+                "description" : "USTC"
+            }
+                ]
     },
     {
         "author": {
@@ -8852,11 +8879,23 @@
     },
     {
         "author": {
-            "name": "Jeremias Woinovius"
+            "name": "Jeremias Woinovius",
+            "ID" : [
+            { "GND" : "https://d-nb.info/gnd/119873419"
+            }
+        ]
         },
         "title": "Historia Susannae",
         "content": {
-            "metre": "hex"
+            "subject": [
+                {
+                    "url": "Q16930210",
+                    "label": {
+                        "language": "en",
+                        "value": "Susanna and the Elders"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -8866,6 +8905,35 @@
         ],
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
+        ],
+        "manifestations" :[
+            {
+                "date" : "1567",
+                "ID" : "VD16 W 4157",
+                "url" : "http://resolver.staatsbibliothek-berlin.de/SBB000159E200000000"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Jeremias Woinovius",
+            "ID" : [
+            { "GND" : "https://d-nb.info/gnd/119873419"
+            }
+        ]
+        },
+        "title": "Ilii Oppugnatio per Herculem facta, carmine Heroico descripta",
+        "content": {
+            "met" : "hex",
+            "num_books" : "1",
+            "num_verses" : "280"
+        },
+        "manifestations" : [
+            {
+                "url" : "http://resolver.staatsbibliothek-berlin.de/SBB0001D4BA00000000",
+                "ID" : "VD16 W 4158",
+                "date" : "1567"
+            }
         ]
     },
     {
@@ -15634,7 +15702,7 @@
             "name": "Matteo Ronto",
             "ID": [
                 {
-                    "GND": "http://d-nb.info/gnd/102195439X\u200f"
+                    "GND": "http://d-nb.info/gnd/102195439X"
                 }
             ]
         },
