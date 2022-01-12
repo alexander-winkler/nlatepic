@@ -1228,7 +1228,7 @@
             "name": "Petrus Rossetus",
             "ID" : [{
                 "VIAF" : "http://viaf.org/viaf/122362619",
-                "DNB" : "http://d-nb.info/gnd/104290986"
+                "GND" : "http://d-nb.info/gnd/104290986"
             }]
         },
         "title": "Laurentias",
@@ -1250,7 +1250,7 @@
             "name": "Petrus Rossetus",
             "ID" : [{
                 "VIAF" : "http://viaf.org/viaf/122362619",
-                "DNB" : "http://d-nb.info/gnd/104290986"
+                "GND" : "http://d-nb.info/gnd/104290986"
             }]
         },
         "title": "Paulus",
@@ -1273,7 +1273,7 @@
             "name": "Petrus Rossetus",
             "ID" : [{
                 "VIAF" : "http://viaf.org/viaf/122362619",
-                "DNB" : "http://d-nb.info/gnd/104290986"
+                "GND" : "http://d-nb.info/gnd/104290986"
             }]
         },
         "title": "Christus",
@@ -1962,8 +1962,19 @@
         },
         "title": "Eustachius",
         "content": {
-            "metre": "hex"
-        },
+            "metre": "hex",
+            "num_books" : "6",
+            "num_verses" : "4340",
+            "subject" : [
+                {
+                    "url" : "Q218921",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Saint Eustace"
+                    }
+                }
+            ]
+                },
         "dates": [
             {
                 "value": "1672",
@@ -1985,7 +1996,9 @@
         },
         "title": "Christus Patiens",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "1",
+            "num_verses" : "828"
         },
         "dates": [
             {
@@ -1995,6 +2008,15 @@
         ],
         "bibrefs": [
             "Braun 2007: 587"
+        ],
+        "manifestations" :[
+            {
+                "url" : "https://books.google.de/books?id=HOVbAAAAQAAJ",
+                "description" : "Google ID",
+                "ID" : "HOVbAAAAQAAJ",
+                "date" : "1713",
+                "place" : "London"
+            }
         ]
     },
     {
@@ -2794,8 +2816,9 @@
     {
         "author": {
             "name": "Fran\u00e7ois Vavasseur",
-            "ID": [
+            "ID" : [
                 {
+                    "GND" : "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -2820,8 +2843,9 @@
     {
         "author": {
             "name": "Fran\u00e7ois Vavasseur",
-            "ID": [
+            "ID" : [
                 {
+                    "GND" : "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -2843,8 +2867,9 @@
     {
         "author": {
             "name": "Fran\u00e7ois Vavasseur",
-            "ID": [
+            "ID" : [
                 {
+                    "GND" : "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -2861,8 +2886,9 @@
     {
         "author": {
             "name": "Fran\u00e7ois Vavasseur",
-            "ID": [
+            "ID" : [
                 {
+                    "GND" : "http://d-nb.info/gnd/128929944",
                     "wikidata": "Q15458991"
                 }
             ]
@@ -7291,24 +7317,6 @@
     },
     {
         "author": {
-            "name": "George Buchanan"
-        },
-        "title": "Paraphrasis psalmorum",
-        "content": {
-            "metre": "hex"
-        },
-        "dates": [
-            {
-                "value": "1566",
-                "qualification ": ""
-            }
-        ],
-        "bibrefs": [
-            "czaplaBibeleposFruehenNeuzeit2013"
-        ]
-    },
-    {
-        "author": {
             "name": "Johannes Major"
         },
         "title": "Specimen versionis psalmorum Davidis",
@@ -7741,7 +7749,13 @@
     },
     {
         "author": {
-            "name": "Franziskus Vavasseur"
+            "name": "Franziskus Vavasseur",
+            "ID" : [
+                {
+                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "wikidata": "Q15458991"
+                }
+            ]
         },
         "title": "Jobus",
         "content": {
@@ -7755,6 +7769,16 @@
         ],
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
+        ],
+        "manifestations" : [
+            {
+            "url" : "https://www.digitale-sammlungen.de/en/view/bsb10609621",
+            "description" : "BSB ID",
+            "ID" : "BSB-ID 1085557",
+            "date" : "1638",
+            "place" : "Paris",
+            "urn" : "urn:nbn:de:bvb:12-bsb10609621-7"
+            }
         ]
     },
     {
@@ -11995,11 +12019,18 @@
     },
     {
         "author": {
-            "name": "Franciscus Vavasseur"
+            "name": "Franciscus Vavasseur",
+            "ID" : [
+                {
+                    "GND" : "http://d-nb.info/gnd/128929944",
+                    "wikidata": "Q15458991"
+                }
+            ]
         },
         "title": "Theurgicon",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "4"
         },
         "dates": [
             {
@@ -12009,6 +12040,16 @@
         ],
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
+        ],
+        "manifestations" : [
+            {
+                "url" : "https://www.digitale-sammlungen.de/en/view/bsb11396101",
+                "description" :"BSB ID",
+                "ID" :"BSB-ID 14467107",
+                "urn" : "urn:nbn:de:bvb:12-bsb11396101-1",
+                "date" : "1676",
+                "place" : "Lyon"
+            }
         ]
     },
     {
@@ -12026,7 +12067,14 @@
             }
         ],
         "bibrefs": [
-            "czaplaBibeleposFruehenNeuzeit2013"
+            "czaplaBibeleposFruehenNeuzeit2013",
+            "werleAndreasGryphiusOlivetum2020"
+        ],
+        "manifestations" : [
+            {
+                "description" : "modern edition",
+                "ref" : "gryphiusHerodesOlbergLateinische1999a"
+            }
         ]
     },
     {
@@ -15212,7 +15260,7 @@
             "name": "Petrus Rossetus",
             "ID" : [{
                 "VIAF" : "http://viaf.org/viaf/122362619",
-                "DNB" : "http://d-nb.info/gnd/104290986"
+                "GND" : "http://d-nb.info/gnd/104290986"
             }]
         },
         "title": "Stephanis sive epos de beatissimi protomartyris Stephani Agone",
