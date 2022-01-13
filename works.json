@@ -2331,7 +2331,14 @@
     },
     {
         "author": {
-            "name": "de Vintimille"
+            "name": "de Vintimille",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/51797951",
+                    "wikidata" : "Q98970735",
+                    "GND" : "http://d-nb.info/gnd/1055384839‏"
+                }
+            ]
         },
         "title": "De bello Rhodio",
         "content": {
@@ -2349,7 +2356,14 @@
     },
     {
         "author": {
-            "name": "de Vintimille"
+            "name": "de Vintimille",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/51797951",
+                    "wikidata" : "Q98970735",
+                    "GND" : "http://d-nb.info/gnd/1055384839‏"
+                }
+            ]
         },
         "title": "De victoria adversus Turcas",
         "content": {
@@ -2662,7 +2676,13 @@
     },
     {
         "author": {
-            "name": "Rougeart"
+            "name": "Jucquel Rougeart",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/36950730",
+                    "GND" : "http://d-nb.info/gnd/1089139667"
+                }
+            ]
         },
         "title": "Curiosolitarum triumphus",
         "content": {
@@ -2680,11 +2700,17 @@
     },
     {
         "author": {
-            "name": "Carpenteius"
+            "name": "Joannes Carpenteius",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/12644395"
+                }
+            ]
         },
         "title": "Vaticinia Jesaiae",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_verses" : "10700"
         },
         "dates": [
             {
@@ -2698,11 +2724,51 @@
     },
     {
         "author": {
-            "name": "Filhol"
+            "name": "Joannes Carpenteius",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/12644395"
+                }
+            ]
+        },
+        "title": "Sanctissimi Patris Benedicti Vita heroicis tetrastichis expressa",
+        "content": {
+            "metre": "hex",
+            "num_books" : "1",
+            "subject" : [
+                {
+                    "url" : "Q44265",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Benedict of Nursia"
+                    }
+                }
+            ]
+        },
+        "manifestations" : [
+            {
+                "url" : "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10169107-9",
+                "ID" : "BSB-ID 842186",
+                "date" : "1588",
+                "place" : "Antwerp"
+            }
+        ]
+    },
+
+    {
+        "author": {
+            "name": "Gilbert Filhol",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/39718322"
+                }
+            ]
         },
         "title": "Sacra regum historia",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "12",
+            "num_verses" : "14570"
         },
         "dates": [
             {
@@ -3163,6 +3229,7 @@
         "title": "Franciscias",
         "content": {
             "metre": "hex",
+            "num_books" : "13",
             "subject": [
                 {
                     "url": "Q676555",
@@ -15958,12 +16025,38 @@
     },
     {
         "author": {
-            "name": "Henrik Harders"
+            "name": "Henrik Harders",
+            "ID" : [
+                {
+                    "wikidata" : "Q107481812",
+                    "VIAF" : "https://viaf.org/viaf/47834426/",
+                    "GND" : "https://d-nb.info/gnd/129191531"
+                }
+            ]
         },
-        "title": "Hafnia liberata",
-        "content": {},
+        "title": "Hafnia arctiore obsidione liberata",
+        "content": {
+            "num_books" : "1",
+            "num_verses" : "1300",
+            "subject" : [
+                {
+                    "url" : "Q2567011",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Assault on Copenhagen"
+                    }
+                }
+                    ]
+        },
         "bibrefs": [
             "https://dansklitteraturshistorie.lex.dk/K%C3%B8benhavns_belejring_-_Borchs_og_Harders_eposer"
+        ],
+        "manifestations" : [
+            {
+                "url" : "https://books.google.de/books?id=4Cv7DKpj110C",
+                "date" : "1693",
+                "pages" : "305-346"
+            }
         ]
     },
     {
@@ -16546,7 +16639,13 @@
     },
     {
         "author": {
-            "name": "Mutius Sfortia"
+            "name": "Mutius Sfortia",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/46351943",
+                    "GND" : "http://d-nb.info/gnd/142518441"
+                }
+            ]
         },
         "title": "Clementiados libri II.",
         "content": {
@@ -16558,8 +16657,12 @@
                 "qualification ": ""
             }
         ],
-        "urls": [
-            "https://books.google.de/books?id=q2BjAAAAcAAJ"
+        "manifestations" : [
+            {
+                "ID" : "EDTI16 078144",
+                "date" : "1593",
+                "url" : "https://books.google.de/books?id=q2BjAAAAcAAJ"
+            }
         ]
     },
     {
