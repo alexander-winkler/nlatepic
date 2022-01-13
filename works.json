@@ -170,7 +170,16 @@
         "content": {
             "num_books": "12",
             "num_verses": "13950",
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q41370",
+                    "label" : {
+                        "value" : "David",
+                        "language" : "en"
+                    }
+                }
+            ]
         },
         "manifestations": [
             {
@@ -183,7 +192,8 @@
             "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11270773-6 "
         ],
         "bibrefs": [
-            "braunPedisequaCamenaeZur2020: 77"
+            "braunPedisequaCamenaeZur2020: 77",
+            "czaplaBibeleposFruehenNeuzeit2013"
         ]
     },
     {
@@ -1005,10 +1015,9 @@
             "name": "Publius Faustus Andrelinus",
             "ID": [
                 {
-                    "VIAF": "http://viaf.org/viaf/32016421"
-                },
-                {
-                    "GND": "http://d-nb.info/gnd/104213639"
+                    "VIAF": "http://viaf.org/viaf/32016421",
+                    "GND": "http://d-nb.info/gnd/104213639",
+                    "wikidata" : "Q3067464"
                 }
             ]
         },
@@ -2218,11 +2227,19 @@
     },
     {
         "author": {
-            "name": "Andrelinus"
+            "name": "Andrelinus",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/32016421",
+                    "GND": "http://d-nb.info/gnd/104213639",
+                    "wikidata" : "Q3067464"
+                }
+            ]
         },
         "title": "De in Genuenses victoria",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "3"
         },
         "dates": [
             {
@@ -2232,6 +2249,13 @@
         ],
         "bibrefs": [
             "Braun 2007: 690"
+        ],
+        "manifestations" : [
+            {
+                "date" : "1509",
+                "ID" : "USTC 182905",
+                "url" : "http://data.onb.ac.at/rep/109C1E65"
+            }
         ]
     },
     {
@@ -6002,7 +6026,16 @@
         "content": {
             "num_books": "5",
             "num_verses": "2500",
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q1135949",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "fall of man"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -6214,13 +6247,25 @@
             "name": "Marcus Marulić",
             "ID": [
                 {
-                    "wikidata": "Q336571"
+                    "wikidata": "Q336571",
+                    "CERL": "cnp01880368"
                 }
             ]
         },
         "title": "Davidias",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_verses" : "6765",
+            "num_books" : "14",
+            "subject" : [
+                {
+                    "url" : "Q41370",
+                    "label" : {
+                        "value" : "David",
+                        "language" : "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -6235,7 +6280,9 @@
             }
         ],
         "bibrefs": [
-            "Hofmann 2001: 170*"
+            "Hofmann 2001: 170*",
+            "baumannDavidiasMarkoMarulic",
+            "czaplaBibeleposFruehenNeuzeit2013"
         ]
     },
     {
@@ -6305,7 +6352,16 @@
         },
         "title": "De lapsu primorum parentum",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q1135949",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "fall of man"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -6323,7 +6379,16 @@
         },
         "title": "De lapsu primorum parentum",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q1135949",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "fall of man"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -6382,7 +6447,16 @@
         },
         "title": "Colloquium Dei et primorum parentum post lapsum",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q1135949",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "fall of man"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -6563,7 +6637,16 @@
         },
         "title": "Historia lapsus et reparationis primorum parentum",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q1135949",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "fall of man"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -6656,7 +6739,16 @@
         },
         "title": "De statu et lapsu primorum parentum",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q1135949",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "fall of man"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -7211,29 +7303,6 @@
     },
     {
         "author": {
-            "name": "Marcus Marulus",
-            "ID": [
-                {
-                    "CERL": "cnp01880368"
-                }
-            ]
-        },
-        "title": "Davidias",
-        "content": {
-            "metre": "hex"
-        },
-        "dates": [
-            {
-                "value": "1504",
-                "qualification ": ""
-            }
-        ],
-        "bibrefs": [
-            "czaplaBibeleposFruehenNeuzeit2013"
-        ]
-    },
-    {
-        "author": {
             "name": "Rudolf Gwalther"
         },
         "title": "Monomachia Davidis et Goliae",
@@ -7325,24 +7394,6 @@
         "dates": [
             {
                 "value": "1561",
-                "qualification ": ""
-            }
-        ],
-        "bibrefs": [
-            "czaplaBibeleposFruehenNeuzeit2013"
-        ]
-    },
-    {
-        "author": {
-            "name": "Bartholomaeus Botta"
-        },
-        "title": "Davidias",
-        "content": {
-            "metre": "hex"
-        },
-        "dates": [
-            {
-                "value": "1573",
                 "qualification ": ""
             }
         ],
@@ -7456,7 +7507,16 @@
         },
         "title": "David assumptus in regem",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q41370",
+                    "label" : {
+                        "value" : "David",
+                        "language" : "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -7515,7 +7575,16 @@
         },
         "title": "Davideis",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q41370",
+                    "label" : {
+                        "value" : "David",
+                        "language" : "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -7544,7 +7613,16 @@
         },
         "title": "Davideis",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q41370",
+                    "label" : {
+                        "value" : "David",
+                        "language" : "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -16991,11 +17069,56 @@
     {
         "author" : 
         {
-            "name" : "Friedrich Taubmann",
-            "ID" : [
-                {"wikidata" : "Q1462474"}
+            "name" : "Iosephus Cossonius",
+            "ID" :
+            [
+                {
+                    "GND" : "https://d-nb.info/gnd/1157644953",
+                    "VIAF" : "http://viaf.org/viaf/63152636060020050681"
+                }
             ]
         },
-        "title" : "Bellum Angelicum"
+        "content" :{
+            "num_books" : "6",
+            "subject" : [
+                {
+                    "url" : "Q74623",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Great Turkish War"
+                    }
+                }
+            ]
+        },
+        "title" : "Paeonnasteis sive carmen heroicum de bellis in Pannonia a. 1683 et seqq. gestis",
+        "manifestations" : [
+            {
+                "url" : "http://data.onb.ac.at/dtl/3102572",
+                "description" : "manuscript"
+            }
+        ]
+    },
+    {
+        "author" : {
+            "name" : "Balthasar Crusius",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/7776005",
+                    "wikidata" : "Q103526"
+                }
+            ]
+        },
+        "title" : "Jesu Christi Veri Dei, Verique Hominis, Regis Regum Et Vindicis Nostri Triumphus Carmine Heroico descriptus",
+        "content" :{
+            "num_books" : "1"
+        },
+        "manifestations" : [
+            {
+                "date" : "1601",
+                "place" : "Leipzig",
+                "ID" : "VD17 125:022223U"
+            }
+        ]
+
     }
 ]
