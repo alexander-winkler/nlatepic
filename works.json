@@ -60,6 +60,13 @@
         },
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 29"
+        ],
+        "manifestations" : [
+            {
+                "ID" : "EDIT16 047688",
+                "url" : "https://digital.onb.ac.at/rep/access/open/10A61A22",
+                "date" : "1559"
+            }
         ]
     },
     {
@@ -3329,6 +3336,12 @@
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 12*",
             "KorenjakTyrolisLatina2012:920-922"
+        ],
+        "manifestations" : [
+            {
+                "url" : "https://digital.onb.ac.at/rep/access/open/10A2A984",
+                "date" : "1828"
+            }
         ]
     },
     {
@@ -4027,6 +4040,13 @@
         ],
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 12*"
+        ],
+        "manifestations" : [
+            {
+                "ID" : "EDIT16 047688",
+                "url" : "https://digital.onb.ac.at/rep/access/open/10A61A22",
+                "date" : "1559"
+            }
         ]
     },
     {
@@ -17146,6 +17166,10 @@
                 "wikidata" : "Q55194429"
             }]
         },
+        "content" :{
+            "num_books" : "1",
+            "met" : "hex"
+        },
         "title" : "Quatuor bella Wirtenbergensia ... heroico Carmine descripta",
         "manifestations" : [
             {
@@ -17154,5 +17178,71 @@
                 "ID": "VD16 T 601"
             }
         ]
+    },
+    {
+        "author" : 
+        {
+            "name" : "Plachy, Andreas",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/2434163274267712440002",
+                    "wikidata" : "Q94527224"
+                }
+            ]
+        },
+        "content" :{
+            "met" : "hex"
+        },
+        "title" : "Fidelitas Hungarorum erga regem, carmen epicum",
+        "manifestations" : [
+            {
+                "url" : "http://data.onb.ac.at/ABO/%2BZ224279707",
+                "date" : "1791",
+                "place" : "Neosolii"
+            }
+        ]
+    },
+    {
+        "author" : 
+        {
+            "name" : "Sommer, Friedrich Wilhelm "
+        },
+        "title" : "Silesia ante Piastum. Carmen epicum",
+        "content" :{
+            "met" : "hex"
+        },
+        "manifestations" : [
+            {
+                "url" : "https://digital.onb.ac.at/rep/access/open/105928EC",
+                "date" : "1720",
+                "place" : "Bratislava"
+            }
+        ]
+    },
+    {
+        "author" : 
+        {
+            "name" : "Wegh, Emerich"
+        },
+        "title" : "Pugna ad moenia Novarae die 23 martii 1849. Carmen epicum",
+        "manifestations" : [
+            {
+                "place" : "Vicenza",
+                "date" : "1856",
+                "url" : "https://digital.onb.ac.at/rep/access/open/1073DA9D"
+            }
+        ],
+        "content" :{
+            "met" : "hex",
+            "subject" : [
+                {
+                    "url" : "Q837787",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "battle of Novara"
+                    }
+                }
+            ]
+        }
     }
 ]
