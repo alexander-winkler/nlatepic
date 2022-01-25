@@ -5686,7 +5686,8 @@
         "manifestations": [
             {
                 "description": "modern edition",
-                "ID": "micklUltraLateinischesEpisches1902"
+                "ID": "micklUltraLateinischesEpisches1902",
+                "url" : "https://archive.org/details/plusultraeinlat00mickgoog"
             },
             {
                 "description": "modern edition",
@@ -6093,12 +6094,19 @@
         "title": "Theotokon seu de vita et obitu beatae Virgines Mariae",
         "content": {
             "num_books": "4",
-            "metre": "hex"
+            "metre": "dist",
+            "num_verses" : "3972"
         },
         "dates": [
             {
                 "value": "1468",
                 "qualification ": ""
+            }
+        ],
+        "manifestations" : [
+            {
+                "description" : "critical edition",
+                "ID" : "ISBN 978-88-6372-262-8"
             }
         ],
         "bibrefs": [
@@ -16047,9 +16055,24 @@
             ]
         },
         "title": "Carolomachia",
-        "content": {},
+        "content": {
+            "subject" : [
+                {
+                    "url": "https://www.wikidata.org/wiki/Q52939",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Charles IX of Sweden"
+                    }
+                }
+            ]
+        },
         "bibrefs": [
             "ijsewijnDidacticHeroicPoetry1990"
+        ],
+        "manifestations" : [
+            {
+                "date" : "1606"
+            }
         ]
     },
     {

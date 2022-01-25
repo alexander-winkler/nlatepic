@@ -29,6 +29,15 @@ If you want to contribute, [create an issue on github](https://docs.github.com/e
 
 # Todo
 
+## Technical
+
+* Revise Schema:
+  + allow for more than one author
+  + add contributor/publisher/translator
+  + convert author > ID type from array to object with list of properties (wikidata, DNB, BNF, VIAF)
+
+## Research
+
 * Look through IJsewijn/Sacré 1998 and other overviews and add data.
 * Look through Jensen, Minna Skafte. 1995. A History of Nordic Neo-Latin Literature. University Press of Southern Denmark.
 * Develop decent frontend (maybe similar to [Catalogue of Critical Editions](https://dig-ed-cat.acdh.oeaw.ac.at/browsing/editions/), open source on [github](https://github.com/acdh-oeaw/dig_ed_cat)). Maybe the [json-editor](https://github.com/json-editor/json-editor) can be adapted.
