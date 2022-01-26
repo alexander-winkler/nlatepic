@@ -61,11 +61,11 @@
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 29"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "ID" : "EDIT16 047688",
-                "url" : "https://digital.onb.ac.at/rep/access/open/10A61A22",
-                "date" : "1559"
+                "ID": "EDIT16 047688",
+                "url": "https://digital.onb.ac.at/rep/access/open/10A61A22",
+                "date": "1559"
             }
         ]
     },
@@ -178,12 +178,12 @@
             "num_books": "12",
             "num_verses": "13950",
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q41370",
-                    "label" : {
-                        "value" : "David",
-                        "language" : "en"
+                    "url": "Q41370",
+                    "label": {
+                        "value": "David",
+                        "language": "en"
                     }
                 }
             ]
@@ -1024,7 +1024,7 @@
                 {
                     "VIAF": "http://viaf.org/viaf/32016421",
                     "GND": "http://d-nb.info/gnd/104213639",
-                    "wikidata" : "Q3067464"
+                    "wikidata": "Q3067464"
                 }
             ]
         },
@@ -1113,7 +1113,16 @@
         "content": {
             "num_books": "4",
             "num_verses": "3100",
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q7226",
+                    "label": {
+                        "language": "en",
+                        "value": "Joan of Arc"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -2239,14 +2248,14 @@
                 {
                     "VIAF": "http://viaf.org/viaf/32016421",
                     "GND": "http://d-nb.info/gnd/104213639",
-                    "wikidata" : "Q3067464"
+                    "wikidata": "Q3067464"
                 }
             ]
         },
         "title": "De in Genuenses victoria",
         "content": {
             "metre": "hex",
-            "num_books" : "3"
+            "num_books": "3"
         },
         "dates": [
             {
@@ -2257,11 +2266,11 @@
         "bibrefs": [
             "Braun 2007: 690"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "date" : "1509",
-                "ID" : "USTC 182905",
-                "url" : "http://data.onb.ac.at/rep/109C1E65"
+                "date": "1509",
+                "ID": "USTC 182905",
+                "url": "http://data.onb.ac.at/rep/109C1E65"
             }
         ]
     },
@@ -2363,11 +2372,11 @@
     {
         "author": {
             "name": "de Vintimille",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/51797951",
-                    "wikidata" : "Q98970735",
-                    "GND" : "http://d-nb.info/gnd/1055384839‏"
+                    "VIAF": "http://viaf.org/viaf/51797951",
+                    "wikidata": "Q98970735",
+                    "GND": "http://d-nb.info/gnd/1055384839‏"
                 }
             ]
         },
@@ -2388,11 +2397,11 @@
     {
         "author": {
             "name": "de Vintimille",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/51797951",
-                    "wikidata" : "Q98970735",
-                    "GND" : "http://d-nb.info/gnd/1055384839‏"
+                    "VIAF": "http://viaf.org/viaf/51797951",
+                    "wikidata": "Q98970735",
+                    "GND": "http://d-nb.info/gnd/1055384839‏"
                 }
             ]
         },
@@ -2708,10 +2717,10 @@
     {
         "author": {
             "name": "Jucquel Rougeart",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/36950730",
-                    "GND" : "http://d-nb.info/gnd/1089139667"
+                    "VIAF": "http://viaf.org/viaf/36950730",
+                    "GND": "http://d-nb.info/gnd/1089139667"
                 }
             ]
         },
@@ -2732,16 +2741,16 @@
     {
         "author": {
             "name": "Joannes Carpenteius",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/12644395"
+                    "VIAF": "http://viaf.org/viaf/12644395"
                 }
             ]
         },
         "title": "Vaticinia Jesaiae",
         "content": {
             "metre": "hex",
-            "num_verses" : "10700"
+            "num_verses": "10700"
         },
         "dates": [
             {
@@ -2756,50 +2765,49 @@
     {
         "author": {
             "name": "Joannes Carpenteius",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/12644395"
+                    "VIAF": "http://viaf.org/viaf/12644395"
                 }
             ]
         },
         "title": "Sanctissimi Patris Benedicti Vita heroicis tetrastichis expressa",
         "content": {
             "metre": "hex",
-            "num_books" : "1",
-            "subject" : [
+            "num_books": "1",
+            "subject": [
                 {
-                    "url" : "Q44265",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Benedict of Nursia"
+                    "url": "Q44265",
+                    "label": {
+                        "language": "en",
+                        "value": "Benedict of Nursia"
                     }
                 }
             ]
         },
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10169107-9",
-                "ID" : "BSB-ID 842186",
-                "date" : "1588",
-                "place" : "Antwerp"
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10169107-9",
+                "ID": "BSB-ID 842186",
+                "date": "1588",
+                "place": "Antwerp"
             }
         ]
     },
-
     {
         "author": {
             "name": "Gilbert Filhol",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/39718322"
+                    "VIAF": "http://viaf.org/viaf/39718322"
                 }
             ]
         },
         "title": "Sacra regum historia",
         "content": {
             "metre": "hex",
-            "num_books" : "12",
-            "num_verses" : "14570"
+            "num_books": "12",
+            "num_verses": "14570"
         },
         "dates": [
             {
@@ -3260,7 +3268,7 @@
         "title": "Franciscias",
         "content": {
             "metre": "hex",
-            "num_books" : "13",
+            "num_books": "13",
             "subject": [
                 {
                     "url": "Q676555",
@@ -3337,10 +3345,10 @@
             "braunPedisequaCamenaeZur2020: 12*",
             "KorenjakTyrolisLatina2012:920-922"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "https://digital.onb.ac.at/rep/access/open/10A2A984",
-                "date" : "1828"
+                "url": "https://digital.onb.ac.at/rep/access/open/10A2A984",
+                "date": "1828"
             }
         ]
     },
@@ -4041,36 +4049,35 @@
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 12*"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "ID" : "EDIT16 047688",
-                "url" : "https://digital.onb.ac.at/rep/access/open/10A61A22",
-                "date" : "1559"
+                "ID": "EDIT16 047688",
+                "url": "https://digital.onb.ac.at/rep/access/open/10A61A22",
+                "date": "1559"
             }
         ]
     },
     {
         "author": {
             "name": "Augustinus Terzagus",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/1530145856955422920540",
-                    "GND" : "http://d-nb.info/gnd/1089633890"
-            }
+                    "VIAF": "http://viaf.org/viaf/1530145856955422920540",
+                    "GND": "http://d-nb.info/gnd/1089633890"
+                }
             ]
         },
         "title": "Maphaeis",
         "content": {
             "metre": "hex",
-            "num_books" : "5",
-            "num_verses" : "2300",
-            "subject" :[
+            "num_books": "5",
+            "num_verses": "2300",
+            "subject": [
                 {
-                    "url" : "Q131579",
-                    "label" : 
-                    { 
-                        "language" : "en",
-                        "value" : "Urban VIII"
+                    "url": "Q131579",
+                    "label": {
+                        "language": "en",
+                        "value": "Urban VIII"
                     }
                 }
             ]
@@ -4629,9 +4636,9 @@
     {
         "author": {
             "name": "Giovanni Battista Cantalicio",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q3655640"
+                    "wikidata": "Q3655640"
                 }
             ]
         },
@@ -4984,18 +4991,18 @@
     {
         "author": {
             "name": "Giulio Cesare Stella",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/66810606", 
-                    "wikidata" : "Q106784883",
-                    "GND" : "http://d-nb.info/gnd/1016678681"
+                    "VIAF": "http://viaf.org/viaf/66810606",
+                    "wikidata": "Q106784883",
+                    "GND": "http://d-nb.info/gnd/1016678681"
                 }
             ]
         },
         "title": "Columbeidos libri priores duo",
         "content": {
             "metre": "hex",
-            "num_books" : "2",
+            "num_books": "2",
             "subject": [
                 {
                     "url": "Q7322",
@@ -5015,10 +5022,10 @@
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 18*"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:hbz:6:1-327499",
-                "date" : "1585"
+                "url": "https://nbn-resolving.de/urn:nbn:de:hbz:6:1-327499",
+                "date": "1585"
             }
         ]
     },
@@ -5085,7 +5092,7 @@
         "title": "Californias",
         "content": {
             "metre": "hex",
-            "num_verses" : "800"
+            "num_verses": "800"
         },
         "manifestations": [
             {
@@ -5093,8 +5100,8 @@
                 "ID": "Castro Pallares 1979"
             },
             {
-                "description" : "critical edition",
-                "ID" : "iturriagaCaliforniadaEpicaSagrada2019"
+                "description": "critical edition",
+                "ID": "iturriagaCaliforniadaEpicaSagrada2019"
             }
         ],
         "bibrefs": [
@@ -5104,9 +5111,9 @@
     {
         "author": {
             "name": "Francisco Jávrier Alegre",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q2060582"
+                    "wikidata": "Q2060582"
                 }
             ]
         },
@@ -5123,11 +5130,11 @@
         "bibrefs": [
             "Schaffenrath 2015: 60"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "https://archive.org/details/bub_gb_WgKSzzMlay8C",
-                "data" : "1773",
-                "place" : "Forli"
+                "url": "https://archive.org/details/bub_gb_WgKSzzMlay8C",
+                "data": "1773",
+                "place": "Forli"
             }
         ]
     },
@@ -5687,7 +5694,7 @@
             {
                 "description": "modern edition",
                 "ID": "micklUltraLateinischesEpisches1902",
-                "url" : "https://archive.org/details/plusultraeinlat00mickgoog"
+                "url": "https://archive.org/details/plusultraeinlat00mickgoog"
             },
             {
                 "description": "modern edition",
@@ -5994,17 +6001,17 @@
     {
         "author": {
             "name": "Robert Clarke",
-            "ID" : [
+            "ID": [
                 {
                     "VIAF": "http://viaf.org/viaf/42180569",
-                    "wikidata" : "Q18527157"
-                 }
-                ]
+                    "wikidata": "Q18527157"
+                }
+            ]
         },
         "title": "Christiados sive de passione Domini et Salvatoris nostri Jesu Christi libri XVII",
         "content": {
             "metre": "hex",
-            "num_books" : "17",
+            "num_books": "17",
             "subject": [
                 {
                     "url": "Q623306",
@@ -6024,22 +6031,22 @@
         "bibrefs": [
             "Hofmann 2001: 168*"
         ],
-        "manifestations":[
+        "manifestations": [
             {
-                "url" : "https://books.google.de/books?id=aRBQEExSitgC",
-                "date" : "1670",
-                "place" : "Bruge"
+                "url": "https://books.google.de/books?id=aRBQEExSitgC",
+                "date": "1670",
+                "place": "Bruge"
             }
         ]
     },
     {
         "author": {
             "name": "Jacobus Masenius",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/10061069",
-                    "wikidata" : "7CQ97336",
-                    "GND" : "http://d-nb.info/gnd/118782444"
+                    "VIAF": "http://viaf.org/viaf/10061069",
+                    "wikidata": "7CQ97336",
+                    "GND": "http://d-nb.info/gnd/118782444"
                 }
             ]
         },
@@ -6048,12 +6055,12 @@
             "num_books": "5",
             "num_verses": "2500",
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q1135949",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "fall of man"
+                    "url": "Q1135949",
+                    "label": {
+                        "language": "en",
+                        "value": "fall of man"
                     }
                 }
             ]
@@ -6067,27 +6074,27 @@
         "bibrefs": [
             "Hofmann 2001: 168*"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "http://diglib.hab.de/drucke/li-5931/start.htm",
-                "date" : "1780",
-                "place" : "Bale"
+                "url": "http://diglib.hab.de/drucke/li-5931/start.htm",
+                "date": "1780",
+                "place": "Bale"
             },
             {
-                "url" : "http://mateo.uni-mannheim.de/camena/masen2/te05.html",
-                "date" : "1682-1683",
-                "place" : "Cologne",
-                "description" : "machine-readable text"
+                "url": "http://mateo.uni-mannheim.de/camena/masen2/te05.html",
+                "date": "1682-1683",
+                "place": "Cologne",
+                "description": "machine-readable text"
             }
         ]
     },
     {
         "author": {
             "name": "Giovanni da Corella",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/305401754",
-                    "wikidata" : "Q3749180"
+                    "VIAF": "http://viaf.org/viaf/305401754",
+                    "wikidata": "Q3749180"
                 }
             ]
         },
@@ -6095,7 +6102,7 @@
         "content": {
             "num_books": "4",
             "metre": "dist",
-            "num_verses" : "3972"
+            "num_verses": "3972"
         },
         "dates": [
             {
@@ -6103,10 +6110,10 @@
                 "qualification ": ""
             }
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "description" : "critical edition",
-                "ID" : "ISBN 978-88-6372-262-8"
+                "description": "critical edition",
+                "ID": "ISBN 978-88-6372-262-8"
             }
         ],
         "bibrefs": [
@@ -6200,20 +6207,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "Samson",
@@ -6283,14 +6290,14 @@
         "title": "Davidias",
         "content": {
             "metre": "hex",
-            "num_verses" : "6765",
-            "num_books" : "14",
-            "subject" : [
+            "num_verses": "6765",
+            "num_books": "14",
+            "subject": [
                 {
-                    "url" : "Q41370",
-                    "label" : {
-                        "value" : "David",
-                        "language" : "en"
+                    "url": "Q41370",
+                    "label": {
+                        "value": "David",
+                        "language": "en"
                     }
                 }
             ]
@@ -6339,20 +6346,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "Paradisus seu hortus Adami",
@@ -6381,12 +6388,12 @@
         "title": "De lapsu primorum parentum",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q1135949",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "fall of man"
+                    "url": "Q1135949",
+                    "label": {
+                        "language": "en",
+                        "value": "fall of man"
                     }
                 }
             ]
@@ -6408,12 +6415,12 @@
         "title": "De lapsu primorum parentum",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q1135949",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "fall of man"
+                    "url": "Q1135949",
+                    "label": {
+                        "language": "en",
+                        "value": "fall of man"
                     }
                 }
             ]
@@ -6476,12 +6483,12 @@
         "title": "Colloquium Dei et primorum parentum post lapsum",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q1135949",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "fall of man"
+                    "url": "Q1135949",
+                    "label": {
+                        "language": "en",
+                        "value": "fall of man"
                     }
                 }
             ]
@@ -6666,12 +6673,12 @@
         "title": "Historia lapsus et reparationis primorum parentum",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q1135949",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "fall of man"
+                    "url": "Q1135949",
+                    "label": {
+                        "language": "en",
+                        "value": "fall of man"
                     }
                 }
             ]
@@ -6689,20 +6696,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "Rubus Mosis",
@@ -6768,12 +6775,12 @@
         "title": "De statu et lapsu primorum parentum",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q1135949",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "fall of man"
+                    "url": "Q1135949",
+                    "label": {
+                        "language": "en",
+                        "value": "fall of man"
                     }
                 }
             ]
@@ -6957,7 +6964,13 @@
     },
     {
         "author": {
-            "name": "William Hog"
+            "name": "William Hog",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/34805754",
+                    "GND": "https://d-nb.info/gnd/1089439830"
+                }
+            ]
         },
         "title": "Paraphrasis poetica im Miltoni poemata",
         "content": {
@@ -7217,20 +7230,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "Simson",
@@ -7453,7 +7466,16 @@
         },
         "title": "Cento vergilianus de Monomachia Davidis et Goliathi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q192785",
+                    "label": {
+                        "value": "Goliath",
+                        "language": "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -7476,7 +7498,16 @@
         },
         "title": "Monomachia Davidis et Goliathi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q192785",
+                    "label": {
+                        "value": "Goliath",
+                        "language": "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -7536,12 +7567,12 @@
         "title": "David assumptus in regem",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q41370",
-                    "label" : {
-                        "value" : "David",
-                        "language" : "en"
+                    "url": "Q41370",
+                    "label": {
+                        "value": "David",
+                        "language": "en"
                     }
                 }
             ]
@@ -7562,7 +7593,16 @@
         },
         "title": "Monomachia Davidis cum Goliathe",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q192785",
+                    "label": {
+                        "value": "Goliath",
+                        "language": "en"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -7604,12 +7644,12 @@
         "title": "Davideis",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q41370",
-                    "label" : {
-                        "value" : "David",
-                        "language" : "en"
+                    "url": "Q41370",
+                    "label": {
+                        "value": "David",
+                        "language": "en"
                     }
                 }
             ]
@@ -7642,12 +7682,12 @@
         "title": "Davideis",
         "content": {
             "metre": "hex",
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q41370",
-                    "label" : {
-                        "value" : "David",
-                        "language" : "en"
+                    "url": "Q41370",
+                    "label": {
+                        "value": "David",
+                        "language": "en"
                     }
                 }
             ]
@@ -7929,20 +7969,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "Specimen versionis psalmorum Davidis",
@@ -8057,20 +8097,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "In Psalmos Davidis paraphrasis",
@@ -8429,7 +8469,13 @@
     },
     {
         "author": {
-            "name": "William Hog"
+            "name": "William Hog",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/34805754",
+                    "GND": "https://d-nb.info/gnd/1089439830"
+                }
+            ]
         },
         "title": "Paraphrasis poetica in Iobum",
         "content": {
@@ -8823,7 +8869,14 @@
     },
     {
         "author": {
-            "name": "Johannes Maurus"
+            "name": "Johannes Maurus",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/59091545",
+                    "GND" : "https://d-nb.info/gnd/10414081X"
+
+                }
+            ]
         },
         "title": "Theatrum vanitatis",
         "content": {
@@ -8841,7 +8894,13 @@
     },
     {
         "author": {
-            "name": "William Hog"
+            "name": "William Hog",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/34805754",
+                    "GND": "https://d-nb.info/gnd/1089439830"
+                }
+            ]
         },
         "title": "Satyra sacra in vanitatem mundi",
         "content": {
@@ -10846,20 +10905,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "Pompa mortis",
@@ -10956,20 +11015,20 @@
     {
         "author": {
             "name": "Johannes Major",
-            "ID" : [
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/11668982X",
-                    "wikidata" : "Q102338"
+                    "GND": "https://d-nb.info/gnd/11668982X",
+                    "wikidata": "Q102338"
                 }
             ]
         },
-        "manifestations" :[
+        "manifestations": [
             {
-                "url" : "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
-                "urn" : "urn:nbn:de:gbv:3:1-472460",
-                "ID" : "VD 16 M 291",
-                "date" : "1563",
-                "place" : "Wittenberg"
+                "url": "https://nbn-resolving.de/urn:nbn:de:gbv:3:1-472460",
+                "urn": "urn:nbn:de:gbv:3:1-472460",
+                "ID": "VD 16 M 291",
+                "date": "1563",
+                "place": "Wittenberg"
             }
         ],
         "title": "Carmen in ascensionem Christi",
@@ -13887,10 +13946,10 @@
                     }
                 },
                 {
-                    "url" : "Q1540642",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Harrowing of Hell"
+                    "url": "Q1540642",
+                    "label": {
+                        "language": "en",
+                        "value": "Harrowing of Hell"
                     }
                 }
             ]
@@ -14486,10 +14545,10 @@
         "content": {
             "metre": "hex"
         },
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "http://mateo.uni-mannheim.de/camena/taub1/books/taubmannmelodaesia_2.xml",
-                "description" : "digital edition"
+                "url": "http://mateo.uni-mannheim.de/camena/taub1/books/taubmannmelodaesia_2.xml",
+                "description": "digital edition"
             }
         ]
     },
@@ -14499,7 +14558,7 @@
             "ID": [
                 {
                     "VIAF": "http://viaf.org/viaf/37758480",
-                    "GND" : "https://d-nb.info/gnd/120852217"
+                    "GND": "https://d-nb.info/gnd/120852217"
                 }
             ]
         },
@@ -14513,10 +14572,10 @@
                 "qualification ": "published"
             }
         ],
-        "manifestations" :[
+        "manifestations": [
             {
-            "url" : "https://doi.org/10.5281/zenodo.5842452",
-            "date" : "1610"
+                "url": "https://doi.org/10.5281/zenodo.5842452",
+                "date": "1610"
             }
         ]
     },
@@ -14639,7 +14698,7 @@
             {
                 "description": "VD16",
                 "ID": "C 5069",
-                "url" : "https://nbn-resolving.de/urn:nbn:de:hbz:6:1-24611"
+                "url": "https://nbn-resolving.de/urn:nbn:de:hbz:6:1-24611"
             }
         ],
         "bibrefs": [
@@ -14685,10 +14744,10 @@
     {
         "author": {
             "name": "Johann Lange",
-            "ID" : [
+            "ID": [
                 {
-                    "CERL" : "cnp01439430",
-                    "wikidata" : "Q55193193"
+                    "CERL": "cnp01439430",
+                    "wikidata": "Q55193193"
                 }
             ]
         },
@@ -14705,10 +14764,10 @@
                 }
             ]
         },
-        "manifestations" : [
+        "manifestations": [
             {
-                "ID" : "VD16 L 324",
-                "url" : "https://doi.org/10.3931/e-rara-1857"
+                "ID": "VD16 L 324",
+                "url": "https://doi.org/10.3931/e-rara-1857"
             }
         ],
         "bibrefs": [
@@ -14759,8 +14818,8 @@
             {
                 "description": "EDIT16",
                 "ID": "1786",
-                "date" : "1566",
-                "url" : "https://books.google.it/books?id=WNVR3SWeEnAC"
+                "date": "1566",
+                "url": "https://books.google.it/books?id=WNVR3SWeEnAC"
             }
         ],
         "bibrefs": [
@@ -15157,10 +15216,10 @@
     {
         "author": {
             "name": "Josip Čobarnić",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/304911963",
-                    "wikidata" : "Q102306765"
+                    "VIAF": "http://viaf.org/viaf/304911963",
+                    "wikidata": "Q102306765"
                 }
             ]
         },
@@ -15358,11 +15417,11 @@
     {
         "author": {
             "name": "Ulrich Bollinger",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/250971169",
-                    "GND" : "http://d-nb.info/gnd/116236574",
-                    "wikidata" : "Q55911458"
+                    "VIAF": "http://viaf.org/viaf/250971169",
+                    "GND": "http://d-nb.info/gnd/116236574",
+                    "wikidata": "Q55911458"
                 }
             ]
         },
@@ -15549,10 +15608,10 @@
     {
         "author": {
             "name": "Martin Opitz",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q60946",
-                    "VIAF" : "https://viaf.org/viaf/22167909/"
+                    "wikidata": "Q60946",
+                    "VIAF": "https://viaf.org/viaf/22167909/"
                 }
             ]
         },
@@ -15787,9 +15846,9 @@
     {
         "author": {
             "name": "Bartholomaeus Pereira",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q94685448"
+                    "wikidata": "Q94685448"
                 }
             ]
         },
@@ -15824,9 +15883,9 @@
     {
         "author": {
             "name": "Antonio Figueira Durão",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/99155925"
+                    "VIAF": "http://viaf.org/viaf/99155925"
                 }
             ]
         },
@@ -15843,12 +15902,12 @@
         },
         "title": "De Christi ab inferis reditu",
         "content": {
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q1540642",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Harrowing of Hell"
+                    "url": "Q1540642",
+                    "label": {
+                        "language": "en",
+                        "value": "Harrowing of Hell"
                     }
                 }
             ]
@@ -16056,12 +16115,12 @@
         },
         "title": "Carolomachia",
         "content": {
-            "subject" : [
+            "subject": [
                 {
                     "url": "https://www.wikidata.org/wiki/Q52939",
-                    "label" : {
-                        "label" : "en",
-                        "value" : "Charles IX of Sweden"
+                    "label": {
+                        "label": "en",
+                        "value": "Charles IX of Sweden"
                     }
                 }
             ]
@@ -16069,9 +16128,9 @@
         "bibrefs": [
             "ijsewijnDidacticHeroicPoetry1990"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "date" : "1606"
+                "date": "1606"
             }
         ]
     },
@@ -16161,36 +16220,36 @@
     {
         "author": {
             "name": "Henrik Harders",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q107481812",
-                    "VIAF" : "https://viaf.org/viaf/47834426/",
-                    "GND" : "https://d-nb.info/gnd/129191531"
+                    "wikidata": "Q107481812",
+                    "VIAF": "https://viaf.org/viaf/47834426/",
+                    "GND": "https://d-nb.info/gnd/129191531"
                 }
             ]
         },
         "title": "Hafnia arctiore obsidione liberata",
         "content": {
-            "num_books" : "1",
-            "num_verses" : "1300",
-            "subject" : [
+            "num_books": "1",
+            "num_verses": "1300",
+            "subject": [
                 {
-                    "url" : "Q2567011",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Assault on Copenhagen"
+                    "url": "Q2567011",
+                    "label": {
+                        "language": "en",
+                        "value": "Assault on Copenhagen"
                     }
                 }
-                    ]
+            ]
         },
         "bibrefs": [
             "https://dansklitteraturshistorie.lex.dk/K%C3%B8benhavns_belejring_-_Borchs_og_Harders_eposer"
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "https://books.google.de/books?id=4Cv7DKpj110C",
-                "date" : "1693",
-                "pages" : "305-346"
+                "url": "https://books.google.de/books?id=4Cv7DKpj110C",
+                "date": "1693",
+                "pages": "305-346"
             }
         ]
     },
@@ -16207,22 +16266,22 @@
     {
         "author": {
             "name": "Abraham Hartwell",
-            "ID" : [
+            "ID": [
                 {
-                    "wikidata" : "Q4668896"
+                    "wikidata": "Q4668896"
                 }
             ]
         },
         "title": "Regina Literata",
         "content": {
-            "met" : "dist",
-            "num_books" : "1",
-            "subject" : [
+            "met": "dist",
+            "num_books": "1",
+            "subject": [
                 {
-                    "url" : "Q7207",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Elizabeth I of England"
+                    "url": "Q7207",
+                    "label": {
+                        "language": "en",
+                        "value": "Elizabeth I of England"
                     }
                 }
             ]
@@ -16775,10 +16834,10 @@
     {
         "author": {
             "name": "Mutius Sfortia",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/46351943",
-                    "GND" : "http://d-nb.info/gnd/142518441"
+                    "VIAF": "http://viaf.org/viaf/46351943",
+                    "GND": "http://d-nb.info/gnd/142518441"
                 }
             ]
         },
@@ -16792,11 +16851,11 @@
                 "qualification ": ""
             }
         ],
-        "manifestations" : [
+        "manifestations": [
             {
-                "ID" : "EDTI16 078144",
-                "date" : "1593",
-                "url" : "https://books.google.de/books?id=q2BjAAAAcAAJ"
+                "ID": "EDTI16 078144",
+                "date": "1593",
+                "url": "https://books.google.de/books?id=q2BjAAAAcAAJ"
             }
         ]
     },
@@ -17124,148 +17183,941 @@
         ]
     },
     {
-        "author" : 
-        {
-            "name" : "Iosephus Cossonius",
-            "ID" :
-            [
+        "author": {
+            "name": "Iosephus Cossonius",
+            "ID": [
                 {
-                    "GND" : "https://d-nb.info/gnd/1157644953",
-                    "VIAF" : "http://viaf.org/viaf/63152636060020050681"
+                    "GND": "https://d-nb.info/gnd/1157644953",
+                    "VIAF": "http://viaf.org/viaf/63152636060020050681"
                 }
             ]
         },
-        "content" :{
-            "num_books" : "6",
-            "subject" : [
+        "content": {
+            "num_books": "6",
+            "subject": [
                 {
-                    "url" : "Q74623",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Great Turkish War"
+                    "url": "Q74623",
+                    "label": {
+                        "language": "en",
+                        "value": "Great Turkish War"
                     }
                 }
             ]
         },
-        "title" : "Paeonnasteis sive carmen heroicum de bellis in Pannonia a. 1683 et seqq. gestis",
-        "manifestations" : [
+        "title": "Paeonnasteis sive carmen heroicum de bellis in Pannonia a. 1683 et seqq. gestis",
+        "manifestations": [
             {
-                "url" : "http://data.onb.ac.at/dtl/3102572",
-                "description" : "manuscript"
+                "url": "http://data.onb.ac.at/dtl/3102572",
+                "description": "manuscript"
             }
         ]
     },
     {
-        "author" : {
-            "name" : "Balthasar Crusius",
-            "ID" : [
+        "author": {
+            "name": "Balthasar Crusius",
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/7776005",
-                    "wikidata" : "Q103526"
+                    "VIAF": "http://viaf.org/viaf/7776005",
+                    "wikidata": "Q103526"
                 }
             ]
         },
-        "title" : "Jesu Christi Veri Dei, Verique Hominis, Regis Regum Et Vindicis Nostri Triumphus Carmine Heroico descriptus",
-        "content" :{
-            "num_books" : "1"
+        "title": "Jesu Christi Veri Dei, Verique Hominis, Regis Regum Et Vindicis Nostri Triumphus Carmine Heroico descriptus",
+        "content": {
+            "num_books": "1"
         },
-        "manifestations" : [
+        "manifestations": [
             {
-                "date" : "1601",
-                "place" : "Leipzig",
-                "ID" : "VD17 125:022223U"
+                "date": "1601",
+                "place": "Leipzig",
+                "ID": "VD17 125:022223U"
             }
         ]
-
     },
     {
-        "author" : 
-        { 
-            "name" : "Johann Pedius Tethinger",
-            "ID" : [
+        "author": {
+            "name": "Johann Pedius Tethinger",
+            "ID": [
                 {
-                "VIAF" : "http://viaf.org/viaf/281681151",
-                "GND" : "http://d-nb.info/gnd/100628095",
-                "wikidata" : "Q55194429"
-            }]
+                    "VIAF": "http://viaf.org/viaf/281681151",
+                    "GND": "http://d-nb.info/gnd/100628095",
+                    "wikidata": "Q55194429"
+                }
+            ]
         },
-        "content" :{
-            "num_books" : "1",
-            "met" : "hex"
+        "content": {
+            "num_books": "1",
+            "met": "hex"
         },
-        "title" : "Quatuor bella Wirtenbergensia ... heroico Carmine descripta",
-        "manifestations" : [
+        "title": "Quatuor bella Wirtenbergensia ... heroico Carmine descripta",
+        "manifestations": [
             {
-                "url" : "http://data.onb.ac.at/rep/10AA1F9D",
-                "date" : "1534",
+                "url": "http://data.onb.ac.at/rep/10AA1F9D",
+                "date": "1534",
                 "ID": "VD16 T 601"
             }
         ]
     },
     {
-        "author" : 
-        {
-            "name" : "Plachy, Andreas",
-            "ID" : [
+        "author": {
+            "name": "Plachy, Andreas",
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/2434163274267712440002",
-                    "wikidata" : "Q94527224"
+                    "VIAF": "http://viaf.org/viaf/2434163274267712440002",
+                    "wikidata": "Q94527224"
                 }
             ]
         },
-        "content" :{
-            "met" : "hex"
+        "content": {
+            "met": "hex"
         },
-        "title" : "Fidelitas Hungarorum erga regem, carmen epicum",
-        "manifestations" : [
+        "title": "Fidelitas Hungarorum erga regem, carmen epicum",
+        "manifestations": [
             {
-                "url" : "http://data.onb.ac.at/ABO/%2BZ224279707",
-                "date" : "1791",
-                "place" : "Neosolii"
+                "url": "http://data.onb.ac.at/ABO/%2BZ224279707",
+                "date": "1791",
+                "place": "Neosolii"
             }
         ]
     },
     {
-        "author" : 
-        {
-            "name" : "Sommer, Friedrich Wilhelm "
+        "author": {
+            "name": "Sommer, Friedrich Wilhelm "
         },
-        "title" : "Silesia ante Piastum. Carmen epicum",
-        "content" :{
-            "met" : "hex"
+        "title": "Silesia ante Piastum. Carmen epicum",
+        "content": {
+            "met": "hex"
         },
-        "manifestations" : [
+        "manifestations": [
             {
-                "url" : "https://digital.onb.ac.at/rep/access/open/105928EC",
-                "date" : "1720",
-                "place" : "Bratislava"
+                "url": "https://digital.onb.ac.at/rep/access/open/105928EC",
+                "date": "1720",
+                "place": "Bratislava"
             }
         ]
     },
     {
-        "author" : 
-        {
-            "name" : "Wegh, Emerich"
+        "author": {
+            "name": "Wegh, Emerich"
         },
-        "title" : "Pugna ad moenia Novarae die 23 martii 1849. Carmen epicum",
-        "manifestations" : [
+        "title": "Pugna ad moenia Novarae die 23 martii 1849. Carmen epicum",
+        "manifestations": [
             {
-                "place" : "Vicenza",
-                "date" : "1856",
-                "url" : "https://digital.onb.ac.at/rep/access/open/1073DA9D"
+                "place": "Vicenza",
+                "date": "1856",
+                "url": "https://digital.onb.ac.at/rep/access/open/1073DA9D"
             }
         ],
-        "content" :{
-            "met" : "hex",
-            "subject" : [
+        "content": {
+            "met": "hex",
+            "subject": [
                 {
-                    "url" : "Q837787",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "battle of Novara"
+                    "url": "Q837787",
+                    "label": {
+                        "language": "en",
+                        "value": "battle of Novara"
                     }
                 }
             ]
         }
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Nabochodonosoris in bovem metamorphosis",
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ],
+        "content": {
+            "met": "hex"
+        }
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Alphonsi Regis Hispaniarum arrogantia a Caelo correcta",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Balthasaris Regis sacrilege convivantis interitus",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Milesius à conviva osseo raptus ad inferos",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Monomachia Davidis cum Goliatho",
+        "content": {
+            "subject": [
+                {
+                    "url": "Q192785",
+                    "label": {
+                        "value": "Goliath",
+                        "language": "en"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Guilielmus Aquitaniae Dux ad praesentiam SS. Eucharistiae ferociam ponit.",
+        "content": {
+            "met": "hex",
+            "subject": [
+                {
+                    "url": "Q714931",
+                    "label": {
+                        "language": "en",
+                        "value": "William of Gellone"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Cain truculentus parricidio Abelis",
+        "content": {
+            "met": "hex",
+            "subject": [
+                {
+                    "url": "Q313421",
+                    "label": {
+                        "language": "en",
+                        "value": "Abel"
+                    }
+                },
+                {
+                    "url": "Q717996",
+                    "label": {
+                        "language": "en",
+                        "value": "Cain and Abel"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Italus Mediolanensis odii inveterati horridum exemplar",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Davidis poenitentia ab iniqua Uriae internecione",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Sigismundus Burgundiae Dux a parricidio filii poenitens",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Daniel superstitioso Dracone occiso, ad leones damnatur",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Dracontomachia Deodati de Gozon",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Absolonis Patri perduellis interitus",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Chramnus Clotharii Regis filius, perduellonis poenas luit",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Sidrach, Misach, Abdenago in flammante clibano illaesi",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Castitas ephebi Reginae Isabellae illaesa ab ignibus",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Jonas naufragus in ventre ceti servatus",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Phidus Diaconus ope Divi Euthymii Abbatis a naufragio liberatus",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Jephtes unigenam filiam sacrificat",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Ramirez filias ad aram Marianam detruncat",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Abneris belli Ducis fidelitas",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Marcus Gutterius rarum fidei, & constantiae militaris exemplar",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Septem Fratrum Machabaeorum illustre martyrium",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Septem Fratrum dormientium prodigiosus somnus",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Judicium Salomonis",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Liderici rigor justitiae",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Manasses resipiscens",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Eulogii de bono in malum, & vicissim metamorphosis",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Elisaeus thaumaturgus",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Divus Stanislaus prodigiosus veritatis testis",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Judas Machabaeus de pluribus hostibus victor, ope Caelitum, ac manibus Defunctorum",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Animae Defunctorum opitulatori suo reciprocum praestant auxilium",
+        "content": {
+            "met": "hex"
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Judith de Holopherne victrix",
+        "content": {
+            "met": "hex"
+        },
+        "content": {
+            "subject": [
+                {
+                    "url": "Q28532552",
+                    "label": {
+                        "language": "en",
+                        "value": "Judith"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Joanna Aurelianensis Galliae Amazon",
+        "content": {
+            "met": "hex"
+        },
+        "content": {
+            "subject": [
+                {
+                    "url": "Q7226",
+                    "label": {
+                        "language": "en",
+                        "value": "Joan of Arc"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Kolczawa, Carolus",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/122985737"
+                }
+            ]
+        },
+        "title": "Bella Amazonum Bohemicarum",
+        "content": {
+            "met": "hex",
+            "subject": [
+                {
+                    "url": "Q1957212",
+                    "label": {
+                        "language": "en",
+                        "value": "The Maidens' War"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Maastricht",
+                "date": "1743",
+                "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
+            }
+        ]
     }
 ]
