@@ -1,0 +1,89 @@
+{
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "title" : "Database of Neo-Latin Epic Poems",
+    "type" : "array",
+    "items" : {
+        "type" : "object",
+        "properties": {
+            "author" : {
+                "type" : "object",
+                "properties": {
+                    "name" : { "type" : "string"},
+                    "ID" : {
+                        "type" : "array",
+                        "items" : {
+                            "type" : "object",
+                            "properties" : {
+                                "wikidata" :  { "type" : "string"},
+                                "DNB" :  { "type" : "string"},
+                                "BNF" :  { "type" : "string"},
+                                "VIAF" :  { "type" : "string"}
+                            }
+                        }
+                    }
+                }
+            },
+            "title" : {"type" : "string"},
+            "content" : {
+                "type" : "object",
+                "properties": {
+                    "num_books" : {"type" : "string"},
+                    "num_verses" : {"type" : "string"},
+                    "metre" : {
+                        "type" : "string",
+                        "enum" : ["hex", "dist", "polym"]
+                    },
+                    "Goetterapparat" : {
+                        "type" : "string",
+                        "enum" : ["pagan","Christian","None"]
+                    },
+                    "subject" : {
+                        "type" : "array",
+                        "items" : {
+                            "type" : "object",
+                            "properties" : {
+                                "url" : {
+                                    "type" : "string",
+                                    "format" : "uri",
+                                    "description": "So far this field is for the wikidata ID."
+                                },
+                                "label" : {
+                                    "type" : "object",
+                                    "properties" : {
+                                        "label" : {
+                                            "type" : "string",
+                                            "enum" : ["en", "de", "it", "fr", "la"]
+                                        },
+                                        "value" : {
+                                            "type" : "string"
+                                        }
+                                }
+                            }
+                        }
+                    }
+                }
+            },
+            "urls" : {
+                "type" : "array",
+                "items" : {
+                    "type" : "string",
+                    "format" : "uri"
+            }},
+            "bibrefs" : {"type" : "array"}
+            },
+            "manifestations" : {
+                "type" : "array",
+                "items" : {
+                    "type" : "object",
+                    "properties": {
+                        "description" : {"type": "string" },
+                        "ID" : {"type" : "string"},
+                        "url" : {
+                            "type" : "string"
+                        }
+                        }
+                    }
+                }
+            }
+        }
+    }

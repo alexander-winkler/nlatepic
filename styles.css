@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+#database {
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #database td, #database th {
+    border: 1px solid;
+    padding: 8px;
+  }
+  
+ /*
+  #database tr:nth-child(even){background-color: #F4DEC9;}
+  
+  #database tr:hover {background-color: #F2858B;}
+  
+  #database th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #7BBDD5;
+    color: #054FAE;
+  }
+ */
