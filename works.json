@@ -18037,9 +18037,7 @@
         },
         "title": "Judith de Holopherne victrix",
         "content": {
-            "met": "hex"
-        },
-        "content": {
+            "met": "hex",
             "subject": [
                 {
                     "url": "Q28532552",
@@ -18069,9 +18067,7 @@
         },
         "title": "Joanna Aurelianensis Galliae Amazon",
         "content": {
-            "met": "hex"
-        },
-        "content": {
+            "met": "hex",
             "subject": [
                 {
                     "url": "Q7226",
@@ -18119,5 +18115,53 @@
                 "url": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11104036-7"
             }
         ]
-    }
+    },
+    {
+        
+            "author": {
+                "name": "Gabelmann, Nicolaus",
+                "ID": [
+                    {
+                        "GND": "http://d-nb.info/gnd/119680319",
+                        "VIAF" : "http://viaf.org/viaf/236168493"
+                    }
+                ]
+            },
+            "title": "Monomachiae Hvngarotvrcicae Carminum Libri Duo",
+            "content": {
+                "met": "hex",
+                "num_books" : "2",
+                "subject" : [
+                    {
+                        "url": "Q964147",
+                        "label": {
+                            "language": "en",
+                            "value": "Ferenc Nádasdy"
+                        }
+                    },
+                    {
+                        "url": "Q698985",
+                        "label": {
+                            "language": "en",
+                            "value": "Ottoman wars in Europe"
+                        }
+                    },
+                    {
+                        "url": "Q110821129",
+                        "label": {
+                            "language": "en",
+                            "value": "Léva castle's duel"
+                        }
+                    }
+                ]
+            },
+            "manifestations": [
+                {
+                    "place": "Padua",
+                    "date": "1590",
+                    "url": "http://data.onb.ac.at/rep/10AAB7CB"
+                }
+            ]
+        }
+    
 ]
