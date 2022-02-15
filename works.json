@@ -3110,24 +3110,6 @@
     },
     {
         "author": {
-            "name": "Morus"
-        },
-        "title": "Laus Christi nascentis",
-        "content": {
-            "metre": "hex"
-        },
-        "dates": [
-            {
-                "value": "1669",
-                "qualification ": ""
-            }
-        ],
-        "bibrefs": [
-            "Braun 2007: 719"
-        ]
-    },
-    {
-        "author": {
             "name": "Frizon"
         },
         "title": "Xaverius thaumaturgus",
@@ -8870,11 +8852,10 @@
     {
         "author": {
             "name": "Johannes Maurus",
-            "ID" : [
+            "ID": [
                 {
-                    "VIAF" : "http://viaf.org/viaf/59091545",
-                    "GND" : "https://d-nb.info/gnd/10414081X"
-
+                    "VIAF": "http://viaf.org/viaf/59091545",
+                    "GND": "https://d-nb.info/gnd/10414081X"
                 }
             ]
         },
@@ -11033,7 +11014,16 @@
         ],
         "title": "Carmen in ascensionem Christi",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q5686605",
+                    "label": {
+                        "language": "en",
+                        "value": "ascension of Jesus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11344,7 +11334,16 @@
         },
         "title": "De gloriosa Christi in coelos ascensione",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q5686605",
+                    "label": {
+                        "language": "en",
+                        "value": "ascension of Jesus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -11723,6 +11722,13 @@
                         "label": "en",
                         "value": "Passion"
                     }
+                },
+                {
+                    "url": "Q5686605",
+                    "label": {
+                        "language": "en",
+                        "value": "ascension of Jesus"
+                    }
                 }
             ]
         },
@@ -12078,7 +12084,16 @@
         },
         "title": "De Jesu Christi ascensione",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q5686605",
+                    "label": {
+                        "language": "en",
+                        "value": "ascension of Jesus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -13101,11 +13116,26 @@
     },
     {
         "author": {
-            "name": "Alexander Morus"
+            "name": "Alexander Morus",
+            "ID": [
+                {
+                    "wikidata": "http://www.wikidata.org/entity/Q13360050",
+                    "GND": "http://d-nb.info/gnd/130232343"
+                }
+            ]
         },
-        "title": "Soteria",
+        "title": "Soteria. Laus Christi Nascentis",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject": [
+                {
+                    "url": "Q51628",
+                    "label": {
+                        "language": "en",
+                        "value": "Nativity of Jesus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -13114,7 +13144,14 @@
             }
         ],
         "bibrefs": [
-            "czaplaBibeleposFruehenNeuzeit2013"
+            "czaplaBibeleposFruehenNeuzeit2013",
+            "Braun 2007: 719"
+        ],
+        "manifestations": [
+            {
+                "date": "1669",
+                "url": "https://books.google.de/books?id=nN1FAAAAcAAJ&pg=PA3"
+            }
         ]
     },
     {
@@ -13156,6 +13193,14 @@
         ],
         "bibrefs": [
             "czaplaBibeleposFruehenNeuzeit2013"
+        ],
+        "manifestations": [
+            {
+                "url": "https://books.google.de/books?id=W9SAJHViLc0C"
+            },
+            {
+                "url": "https://books.google.de/books?id=HOVbAAAAQAAJ"
+            }
         ]
     },
     {
@@ -14444,13 +14489,26 @@
             "name": "José Manuel Peramás",
             "ID": [
                 {
-                    "CERL": "cnp01446442"
+                    "CERL": "cnp01446442",
+                    "VIAF": "http://viaf.org/viaf/17275020",
+                    "GND": "http://d-nb.info/gnd/103123350",
+                    "wikidata": "http://www.wikidata.org/entity/Q55836304"
                 }
             ]
         },
         "title": "De Invento Novo Orbe Inductoque Illuc Christi Sacrificio",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books": "3",
+            "subject": [
+                {
+                    "url": "Q7322",
+                    "label": {
+                        "language": "en",
+                        "value": "Christopher Columbus"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -14460,6 +14518,13 @@
         ],
         "bibrefs": [
             "tomesNeoLatinAmericaPoetics2018"
+        ],
+        "manifestations": [
+            {
+                "url": "https://books.google.de/books?id=JnvUqP-3GxQC",
+                "date": "1777",
+                "place": "Faventiae"
+            }
         ]
     },
     {
@@ -15001,9 +15066,9 @@
         "title": "Margaretica",
         "content": {
             "metre": "hex",
-            "num_books" : "10",
-            "num_verses" : "6666",
-            "subject" : [
+            "num_books": "10",
+            "num_verses": "6666",
+            "subject": [
                 {
                     "url": "Q202266",
                     "label": {
@@ -15342,10 +15407,17 @@
     },
     {
         "author": {
-            "name": "Peter Creisbach"
+            "name": "Peter Creisbach",
+            "ID": [
+                {
+                    "GND": "http://d-nb.info/gnd/119647796"
+                }
+            ]
         },
         "title": "Libri duo Christiadum",
-        "content": {},
+        "content": {
+            "num_books": "2"
+        },
         "dates": [
             {
                 "value": "1575",
@@ -15354,6 +15426,12 @@
         ],
         "bibrefs": [
             "Rep_Heidelberg"
+        ],
+        "manifestations": [
+            {
+                "url": "http://purl.uni-rostock.de/rosdok/ppn1733599592",
+                "date": "1575"
+            }
         ]
     },
     {
@@ -15366,7 +15444,17 @@
             ]
         },
         "title": "Carmen de Astronomico Horologio Argentoratensi",
-        "content": {},
+        "content": {
+            "subject": [
+                {
+                    "url": "Q2716513",
+                    "label": {
+                        "language": "en",
+                        "value": "Strasbourg astronomical clock"
+                    }
+                }
+            ]
+        },
         "dates": [
             {
                 "value": "1575",
@@ -15423,6 +15511,12 @@
         ],
         "bibrefs": [
             "Rep_Heidelberg"
+        ],
+        "manifestations": [
+            {
+                "url": "https://doi.org/10.11588/diglit.30296",
+                "date": "1594"
+            }
         ]
     },
     {
@@ -16087,6 +16181,11 @@
                 "value": "1516",
                 "qualification ": ""
             }
+        ],
+        "manifestations": [
+            {
+                "ID": "ISBN 5-417-00753-6"
+            }
         ]
     },
     {
@@ -16215,20 +16314,22 @@
     {
         "author": {
             "name": "Daniel Hermann",
-            "ID" : {
-                "VIAF" : "http://viaf.org/viaf/62684684",
-                "GND" : "http://d-nb.info/gnd/131562738",
-                "wikidata" : "Q1161105"
-            }
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/62684684",
+                    "GND": "http://d-nb.info/gnd/131562738",
+                    "wikidata": "Q1161105"
+                }
+            ]
         },
         "title": "Stephaneis Moschovitica",
         "content": {
-            "subject" : [
+            "subject": [
                 {
-                    "url" : "Q582613",
-                    "label" : {
-                        "language" : "en",
-                        "value" : "Livonian campaign of Stephen Báthory"
+                    "url": "Q582613",
+                    "label": {
+                        "language": "en",
+                        "value": "Livonian campaign of Stephen Báthory"
                     }
                 }
             ]
@@ -16283,15 +16384,17 @@
     {
         "author": {
             "name": "Ole Borch",
-            "ID" : {
-                "VIAF" : "https://viaf.org/viaf/34451445",
-                "GND" : "https://d-nb.info/gnd/117621455"
-            }
+            "ID": [
+                {
+                    "VIAF": "https://viaf.org/viaf/34451445",
+                    "GND": "https://d-nb.info/gnd/117621455"
+                }
+            ]
         },
         "title": "Amagria vindicata",
         "content": {
-            "num_books" : "1",
-            "num_verses" : "926"
+            "num_books": "1",
+            "num_verses": "926"
         },
         "bibrefs": [
             "https://dansklitteraturshistorie.lex.dk/K%C3%B8benhavns_belejring_-_Borchs_og_Harders_eposer",
@@ -16399,7 +16502,17 @@
             "name": "Curtius Arcionus"
         },
         "title": "Heroicum poema de sublimi ascensione Domini nostri Iesu Christi",
-        "content": {},
+        "content": {
+            "subject": [
+                {
+                    "url": "Q5686605",
+                    "label": {
+                        "language": "en",
+                        "value": "ascension of Jesus"
+                    }
+                }
+            ]
+        },
         "dates": [
             {
                 "value": "1634",
@@ -16508,7 +16621,17 @@
             "name": "José Anchieta"
         },
         "title": "De gestis Mendi de Saa",
-        "content": {},
+        "content": {
+            "subject": [
+                {
+                    "ID": "Q2734857",
+                    "label": {
+                        "language": "en",
+                        "value": "Mem de Sá"
+                    }
+                }
+            ]
+        },
         "dates": [
             {
                 "value": "1563",
@@ -16517,7 +16640,20 @@
         ],
         "bibrefs": [
             "kreuzBibliographieNachlebenAntiken2019:85",
-            "wallischKlassizismusUndExotik2007"
+            "wallischKlassizismusUndExotik2007",
+            "https://de.wikipedia.org/wiki/De_gestis_Mendi_de_Saa"
+        ],
+        "manifestations": [
+            {
+                "date": "1562",
+                "place": "Coimbra"
+            },
+            {
+                "ID": "[ISBN] 8471701162"
+            },
+            {
+                "ID": "SBN IT\\ICCU\\PUV\\0248309"
+            }
         ]
     },
     {
@@ -16533,7 +16669,17 @@
             ]
         },
         "title": "Cortesias",
-        "content": {},
+        "content": {
+            "subject" : [
+                {
+                "url" : "Q7326",
+                "label" : {
+                    "value" : "Hernán Cortés",
+                    "language" : "en"
+                }
+                }
+            ]
+        },
         "manifestations": [
             {
                 "description": "modern edition",
@@ -16555,7 +16701,17 @@
             ]
         },
         "title": "Stephanis sive epos de beatissimi protomartyris Stephani Agone",
-        "content": {},
+        "content": {
+            "subject": [
+                {
+                    "url": "Q161775",
+                    "label": {
+                        "language": "en",
+                        "value": "Stephen"
+                    }
+                }
+            ]
+        },
         "urls": [
             "https://books.google.de/books?id=SoNCAAAAcAAJ"
         ]
@@ -16681,7 +16837,12 @@
     },
     {
         "author": {
-            "name": "John Milton"
+            "name": "John Milton",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/17226855"
+                }
+            ]
         },
         "title": "In Quintum Novembris",
         "content": {},
@@ -16697,7 +16858,12 @@
     },
     {
         "author": {
-            "name": "Henricus Chifellius"
+            "name": "Henricus Chifellius",
+            "ID": [
+                {
+                    "VIAF": "http://viaf.org/viaf/311275341"
+                }
+            ]
         },
         "title": "Lacippias",
         "content": {},
@@ -18152,50 +18318,49 @@
         ]
     },
     {
-        
-            "author": {
-                "name": "Gabelmann, Nicolaus",
-                "ID": [
-                    {
-                        "GND": "http://d-nb.info/gnd/119680319",
-                        "VIAF" : "http://viaf.org/viaf/236168493"
-                    }
-                ]
-            },
-            "title": "Monomachiae Hvngarotvrcicae Carminum Libri Duo",
-            "content": {
-                "met": "hex",
-                "num_books" : "2",
-                "subject" : [
-                    {
-                        "url": "Q964147",
-                        "label": {
-                            "language": "en",
-                            "value": "Ferenc Nádasdy"
-                        }
-                    },
-                    {
-                        "url": "Q698985",
-                        "label": {
-                            "language": "en",
-                            "value": "Ottoman wars in Europe"
-                        }
-                    },
-                    {
-                        "url": "Q110821129",
-                        "label": {
-                            "language": "en",
-                            "value": "Léva castle's duel"
-                        }
-                    }
-                ]
-            },
-            "manifestations": [
+        "author": {
+            "name": "Gabelmann, Nicolaus",
+            "ID": [
                 {
-                    "place": "Padua",
-                    "date": "1590",
-                    "url": "http://data.onb.ac.at/rep/10AAB7CB"
+                    "GND": "http://d-nb.info/gnd/119680319",
+                    "VIAF": "http://viaf.org/viaf/236168493"
                 }
             ]
-        }   
+        },
+        "title": "Monomachiae Hvngarotvrcicae Carminum Libri Duo",
+        "content": {
+            "met": "hex",
+            "num_books": "2",
+            "subject": [
+                {
+                    "url": "Q964147",
+                    "label": {
+                        "language": "en",
+                        "value": "Ferenc Nádasdy"
+                    }
+                },
+                {
+                    "url": "Q698985",
+                    "label": {
+                        "language": "en",
+                        "value": "Ottoman wars in Europe"
+                    }
+                },
+                {
+                    "url": "Q110821129",
+                    "label": {
+                        "language": "en",
+                        "value": "Léva castle's duel"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Padua",
+                "date": "1590",
+                "url": "http://data.onb.ac.at/rep/10AAB7CB"
+            }
+        ]
+    }
 ]
