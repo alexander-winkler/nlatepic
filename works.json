@@ -15995,7 +15995,17 @@
             ]
         },
         "title": "Ignatias",
-        "content": {},
+        "content": {
+            "subject": [
+                {
+                    "url": "Q44281",
+                    "label": {
+                        "language": "en",
+                        "value": "Ignatius of Loyola"
+                    }
+                }
+            ]
+        },
         "bibrefs": [
             "haskellPracticingWhatThey2010",
             "kleckerImperiumMinervaeJesuitische2003"
@@ -16609,11 +16619,29 @@
             ]
         },
         "title": "Raeteis",
-        "content": {},
+        "content": {
+            "subject" : [
+                {
+                    "url" : "Q150726",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Maximilian I"
+                    }
+                },
+                {
+                    "url" : "Q165136",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Swabian War"
+                    }
+                }
+            ]
+        },
         "bibrefs": [
             "kreuzBibliographieNachlebenAntiken2019:85",
             "michelQuellenZurRaeteis1914",
-            "ganssRaeteisLemniusEpos1955"
+            "ganssRaeteisLemniusEpos1955",
+            "https://doi.org/10.30986/2021.185"
         ]
     },
     {
@@ -18360,6 +18388,38 @@
                 "place": "Padua",
                 "date": "1590",
                 "url": "http://data.onb.ac.at/rep/10AAB7CB"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Cornelius Aurelius",
+            "ID": [
+                {
+                    "wikidata": "https://www.wikidata.org/wiki/Q2620215",
+                    "VIAF": "https://viaf.org/viaf/56666862/",
+                    "GND" : "https://d-nb.info/gnd/118848380"
+                }
+            ]
+        },
+        "title": "Marias",
+        "content": {
+            "num_books": "9",
+            "subject": [
+                {
+                    "url": "Q345",
+                    "label": {
+                        "language": "en",
+                        "value": "Virgin Mary"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Leuven",
+                "date": "2006",
+                "url": "https://lup.be/products/99777"
             }
         ]
     }
