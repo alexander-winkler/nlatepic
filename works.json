@@ -18422,5 +18422,66 @@
                 "url": "https://lup.be/products/99777"
             }
         ]
+    },
+    {
+        "author": {
+            "name": "Cornelius Aurelius",
+            "ID": [
+                {
+                    "wikidata": "https://www.wikidata.org/wiki/Q2620215",
+                    "VIAF": "https://viaf.org/viaf/56666862/",
+                    "GND" : "https://d-nb.info/gnd/118848380"
+                }
+            ]
+        },
+        "title": "Marias",
+        "content": {
+            "num_books": "9",
+            "subject": [
+                {
+                    "url": "Q345",
+                    "label": {
+                        "language": "en",
+                        "value": "Virgin Mary"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "place": "Leuven",
+                "date": "2006",
+                "url": "https://lup.be/products/99777"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Ilarion Jaroševyc’kyj",
+            "ID": [
+                {
+                    "wikidata": "https://www.wikidata.org/wiki/Q111426899"
+                }
+            ]
+        },
+        "title": "Carmina heroica",
+        "content": {
+            "num_books": "1",
+            "num_verses" : "241",
+            "subject": [
+                {
+                    "url": "Q165419",
+                    "label": {
+                        "language": "en",
+                        "value": "Ivan Mazepa"
+                    }
+                }
+            ]
+        },
+        "manifestations": [
+            {
+                "url": "https://doi.org/10.13128/Studi_Slavis-2123"
+            }
+        ]
     }
 ]
