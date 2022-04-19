@@ -8222,10 +8222,10 @@
     {
         "author": {
             "name": "Petrus Bellaeus",
-            "ID" : {
+            "ID" : [{
                 "VIAF" : "http://viaf.org/viaf/35269582",
                 "wikidata" : "Q3387454"
-            }
+            }]
         },
         "title": "Psalmus Davidis CXIX. hexametro paraphrasticôs expressus",
         "content": {
@@ -8954,10 +8954,10 @@
     {
         "author": {
             "name": "Petrus Bellaeus",
-            "ID" : {
+            "ID" : [{
                 "VIAF" : "http://viaf.org/viaf/35269582",
                 "wikidata" : "Q3387454"
-            }
+            }]
         },
         "title": "Poetica paraphrasis Cantici canticorum",
         "content": {
@@ -9224,10 +9224,10 @@
     {
         "author": {
             "name": "Petrus Bellaeus",
-            "ID" : {
+            "ID" : [{
                 "VIAF" : "http://viaf.org/viaf/35269582",
                 "wikidata" : "Q3387454"
-            }
+            }]
         },
         "title": "Caput Isaiae LIII.",
         "content": {
