@@ -7288,7 +7288,8 @@
             "name": "Johann Aahl",
             "ID": [
                 {
-                    "CERL": "cnp01875965"
+                    "CERL": "cnp01875965",
+                    "GND" : "121715612"
                 }
             ]
         },
@@ -7300,6 +7301,12 @@
             {
                 "value": "1578",
                 "qualification ": ""
+            }
+        ],
+        "manifestations" : [
+            {
+                "ID" : "VD16 ZV 618",
+                "description" : "H: P 1525.8° Helmst. (4), not yet digitized"
             }
         ],
         "bibrefs": [
@@ -8214,7 +8221,11 @@
     },
     {
         "author": {
-            "name": "Petrus Bellaeus"
+            "name": "Petrus Bellaeus",
+            "ID" : {
+                "VIAF" : "http://viaf.org/viaf/35269582",
+                "wikidata" : "Q3387454"
+            }
         },
         "title": "Psalmus Davidis CXIX. hexametro paraphrasticôs expressus",
         "content": {
@@ -8224,6 +8235,13 @@
             {
                 "value": "1590",
                 "qualification ": ""
+            }
+        ],
+        "manifestations" : [
+            {
+                "description" : "1590",
+                "ID" : "GB: 2HUTAAAAQAAJ",
+                "url" : "https://books.google.com.ar/books?id=2HUTAAAAQAAJ"
             }
         ],
         "bibrefs": [
@@ -8935,7 +8953,11 @@
     },
     {
         "author": {
-            "name": "Petrus Bellaeus"
+            "name": "Petrus Bellaeus",
+            "ID" : {
+                "VIAF" : "http://viaf.org/viaf/35269582",
+                "wikidata" : "Q3387454"
+            }
         },
         "title": "Poetica paraphrasis Cantici canticorum",
         "content": {
@@ -8945,6 +8967,13 @@
             {
                 "value": "1590",
                 "qualification ": ""
+            }
+        ],
+        "manifestations" : [
+            {
+                "description" : "1590",
+                "ID" : "GB: 2HUTAAAAQAAJ",
+                "url" : "https://books.google.com.ar/books?id=2HUTAAAAQAAJ"
             }
         ],
         "bibrefs": [
@@ -9194,7 +9223,11 @@
     },
     {
         "author": {
-            "name": "Petrus Bellaeus"
+            "name": "Petrus Bellaeus",
+            "ID" : {
+                "VIAF" : "http://viaf.org/viaf/35269582",
+                "wikidata" : "Q3387454"
+            }
         },
         "title": "Caput Isaiae LIII.",
         "content": {
@@ -9204,6 +9237,13 @@
             {
                 "value": "1590",
                 "qualification ": ""
+            }
+        ],
+        "manifestations" : [
+            {
+                "description" : "1590",
+                "ID" : "GB: 2HUTAAAAQAAJ",
+                "url" : "https://books.google.com.ar/books?id=2HUTAAAAQAAJ"
             }
         ],
         "bibrefs": [
@@ -15283,6 +15323,12 @@
             {
                 "value": "1728",
                 "qualification ": ""
+            }
+        ],
+        "manifestations" :[
+            {
+                "url" : "http://solr.ffzg.hr/cgi-bin/philologic/navigate.pl?croala.352",
+                "description" : "electronic edition of book 1"
             }
         ],
         "bibrefs": [
