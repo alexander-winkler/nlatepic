@@ -3642,6 +3642,11 @@
                 "qualification ": ""
             }
         ],
+        "manifestations": [
+            {
+                "url" : "https://n2t.net/ark:/65666/v1/15139"
+            }
+        ],
         "bibrefs": [
             "braunPedisequaCamenaeZur2020: 12*"
         ]
