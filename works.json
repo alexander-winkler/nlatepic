@@ -18534,5 +18534,21 @@
                 "url": "https://doi.org/10.13128/Studi_Slavis-2123"
             }
         ]
+    },
+    {
+        "author": {
+            "name": "Nori, Giulio"
+        },
+        "title": "Bellum Geminianense",
+        "content": {
+            "num_books": "1"
+        },
+        "manifestations": [
+            {
+                "url": "https://www.ustc.ac.uk/editions/844903",
+                "date" : "1584",
+                "place" : "Siena"
+            }
+        ]
     }
 ]
