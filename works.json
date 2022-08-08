@@ -1584,7 +1584,16 @@
         },
         "title": "Caroli Borromaei Hagiopoea",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "subject" : [
+                {
+                    "url" : "Q216946",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Charles Borromeo"
+                }
+            }
+            ]
         },
         "dates": [
             {
@@ -1732,7 +1741,44 @@
         "title": "Fulmen in Aquilam",
         "content": {
             "metre": "hex",
-            "ordo": "naturalis"
+            "ordo": "naturalis",
+            "subject" : [
+                {
+                    "url": "Q51649",
+                    "label": {
+                        "language": "en",
+                        "value": "First Crusade"
+                    }
+                }
+                {
+                    "url" : "Q936976",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Henry IV of France"
+                    }
+                 },
+                 {
+                     "url" : "Q205379",
+                     "label" : {
+                         "language" : "en",
+                         "value" : "Battle of Breitenfeld"
+                     }
+                 },
+                 {
+                     "url" : "Q7510280",
+                     "label" : {
+                         "language" : "en",
+                         "value" : "Siege of Nuremberg"
+                     }
+                 },
+                 {
+                     "url" : "Q167259",
+                     "label" : {
+                         "language" : "en",
+                         "value" : "Battle of Lützen (1632)"
+                     }
+                 }
+                ]
         },
         "dates": [
             {
@@ -3343,9 +3389,26 @@
                 }
             ]
         },
-        "title": "Christinas, sive Christina lustrata",
+        "title": "Christinais, sive Christina lustrata",
         "content": {
-            "metre": "hex"
+            "metre": "hex",
+            "num_books" : "12",
+            "subject" : [
+                {
+                    "url" : "Q52937",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Kristina I of Sweden"
+                    }
+                },
+                {
+                    "url" : "Q3494380",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "Battle of Prague"
+                    }
+                }
+            ]
         },
         "dates": [
             {
@@ -18548,6 +18611,61 @@
                 "url": "https://www.ustc.ac.uk/editions/844903",
                 "date" : "1584",
                 "place" : "Siena"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Scotti, Cesare Gregorio",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/324159474048127660381"
+                }
+            ]
+        },
+        "title": "Cassianeidos carmen",
+        "manifestations": [
+            {
+                "url": "https://opac.vatlib.it/stp/detail/10602130",
+                "date" : "1704",
+                "place" : "Romae"
+            }
+        ]
+    },
+    {
+        "author": {
+            "name": "Bricus, Petrus"
+        },
+        "title": "Cosmiados liber primus",
+        "manifestations": [
+            {
+                "url": "http://mss.bmlonline.it/s.aspx?Id=AWOIfQvVI1A4r7GxMIQk",
+                "collocation" : "BML, Plut.37.22"
+            }
+        ]
+    },
+    {
+        "author" : {
+            "name" : "Corsini, Amerigo"
+        },
+            "title" : "De Vita Cosmi Medices Patris Patriae libri II. carmine heroico ad Laurentium Medicem virum magnanimum",
+            "manifestations" : [
+                {
+                    "collocation" : "BML, Stroz. 145"
+                }
+            ]
+    },
+    {
+        "author" : {
+            "name" : "Gabriello Zacchi da Volterra"
+        },
+        "title" : "De profectione Magorum adorare Christum et de innocentibus interfectis ab Herode",
+        "manifestations" : [
+            {
+                "url" : "https://archive.org/details/1460departureofthemagi1460"
+            },
+            {
+                "url" : "https://bds.comune.siena.it/it/29/ricerca/detail/9917415061003300/"
             }
         ]
     }
