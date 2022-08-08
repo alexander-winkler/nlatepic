@@ -18624,6 +18624,7 @@
             ]
         },
         "title": "Cassianeidos carmen",
+        "content" : {},
         "manifestations": [
             {
                 "url": "https://opac.vatlib.it/stp/detail/10602130",
@@ -18637,6 +18638,7 @@
             "name": "Bricus, Petrus"
         },
         "title": "Cosmiados liber primus",
+        "content" : {},
         "manifestations": [
             {
                 "url": "http://mss.bmlonline.it/s.aspx?Id=AWOIfQvVI1A4r7GxMIQk",
@@ -18649,6 +18651,7 @@
             "name" : "Corsini, Amerigo"
         },
             "title" : "De Vita Cosmi Medices Patris Patriae libri II. carmine heroico ad Laurentium Medicem virum magnanimum",
+            "content" : {},
             "manifestations" : [
                 {
                     "collocation" : "BML, Stroz. 145"
@@ -18660,6 +18663,17 @@
             "name" : "Gabriello Zacchi da Volterra"
         },
         "title" : "De profectione Magorum adorare Christum et de innocentibus interfectis ab Herode",
+        "content" : {
+            "subject" : [
+                { 
+                    "url" : "Q51671",
+                    "label" : {
+                        "language" : "en",
+                        "value" : "biblical Magi"
+                    }
+                }
+            ]
+        },
         "manifestations" : [
             {
                 "url" : "https://archive.org/details/1460departureofthemagi1460"
