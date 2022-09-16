@@ -18682,5 +18682,52 @@
                 "url" : "https://bds.comune.siena.it/it/29/ricerca/detail/9917415061003300/"
             }
         ]
+    },
+    {
+        "author" : {
+            "name" : "King, William",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/119512661"
+                }
+            ]
+        },
+        "title" : "Templum libertatis",
+        "content" : {
+            "num_books" : "2",
+            "metre" : "hex"
+        },
+        "dates": [
+            {
+                "value": "1742"
+            }
+        ],
+        "bibrefs": [
+            "moulLiteraryHistoryLatin2022"
+        ]
+    },
+    {
+        "author" : {
+            "name" : "Chaloner, Thomas",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/1037193601"
+                }
+            ]
+        },
+        "title" : "De Republica Instauranda",
+        "content" : {
+            "num_books" : "10",
+            "metre" : "hex"
+        },
+        "dates": [
+            {
+                "value": "1579",
+                "qualification" : "published"
+            }
+        ],
+        "bibrefs": [
+            "moulLiteraryHistoryLatin2022"
+        ]
     }
 ]
