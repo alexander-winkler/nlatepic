@@ -18729,5 +18729,36 @@
         "bibrefs": [
             "moulLiteraryHistoryLatin2022"
         ]
+    },
+    {
+        "author" : {
+            "name" : "Liefer, Jakob",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/100190472"
+                }
+            ]
+        },
+        "title" : "Bellum Sundense",
+        "content" : {
+            "num_books" : "1",
+            "metre" : "hex",
+            "num_verses" : "1495"
+        },
+        "manifestations" : [
+            {
+                "url" : "http://digital.slub-dresden.de/id453931510"
+            }
+        ],
+        "dates": [
+            {
+                "value": "1639",
+                "qualification" : "published"
+            }
+        ],
+        "bibrefs": [
+            "lobckePraisingIntertextJakob2019",
+            "lieferBellumSundenseZweisprachige2004"
+        ]
     }
 ]
