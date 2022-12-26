@@ -18760,5 +18760,37 @@
             "lobckePraisingIntertextJakob2019",
             "lieferBellumSundenseZweisprachige2004"
         ]
+    },
+    {
+        "author" : {
+            "name" : "Lebel, Johannes",
+            "ID" : [
+                {
+                    "GND" : "https://d-nb.info/gnd/1157693008"
+                }
+            ]
+        },
+        "title" : "De oppido Thalmus",
+        "content" : {
+            "subject": [
+                {
+                    "url": "Q679428",
+                    "label": {
+                        "label": "en",
+                        "value": "Tălmaciu"
+                    }
+                }
+            ]
+        },
+        "dates": [
+            {
+                "value": "1779",
+                "qualification" : "printed"
+            }
+        ],
+        "bibrefs": [
+            "lobckePraisingIntertextJakob2019",
+            "lieferBellumSundenseZweisprachige2004"
+        ]
     }
 ]
