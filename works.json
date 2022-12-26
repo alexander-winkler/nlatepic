@@ -18792,5 +18792,37 @@
             "lobckePraisingIntertextJakob2019",
             "lieferBellumSundenseZweisprachige2004"
         ]
+    },
+    {
+        "author" :{
+            "name" : "Anechinus, Gerardus",
+            "ID" : [
+                {
+                    "VIAF" : "http://viaf.org/viaf/42274580",
+                    "wikidata" : "Q89580677"
+                }
+            ]
+        },
+        "title" : "Carmen heroico metro in tres libros divisum de quibusdam miraculis Virginis Mariae occursis Mutinae",
+        "content" : {
+            "subject" : [
+                {
+                    "url" : "Q345",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Virgin Mary"
+                    }
+                }
+            ]
+        },
+        "dates" : [
+            {
+                "value" : "1399",
+                "qualification" : "written"
+            }
+        ],
+        "bibrefs" : [
+            "schaffenrathTitleBasinioParma2022"
+        ]
     }
 ]
