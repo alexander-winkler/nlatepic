@@ -18822,7 +18822,13 @@
             }
         ],
         "bibrefs" : [
-            "schaffenrathTitleBasinioParma2022"
-        ]
+            "schaffenrathTitleBasinioParma2022",
+            "hofmannLiteraryCultureCourt2008"
+        ],
+        "manifestations" : [
+            {
+            "collocation" : "Urb. Lat. 377",
+            "url" : "https://digi.vatlib.it/mss/detail/Urb.lat.377"
+        }]
     }
 ]
