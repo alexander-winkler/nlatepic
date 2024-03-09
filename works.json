@@ -18889,5 +18889,47 @@
         ],
         "bibrefs" : [
             "sacreAliBabaeFabula2023"]
+    },
+    {
+        "author" :{
+            "name" : "Antoni Brenac",
+            "ID" : [
+                {
+                    "wikidata" : "Q21923202"
+                }
+            ]
+        },
+        "title" : "Saxia",
+        "content" : {
+            "subject" : [
+                {
+                    "url" : "Q10337620",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Our Lady of Monserrate"
+                    }
+                }
+            ],
+            "metre" : "hex"
+        },
+        "bibrefs" : [
+            "brenachSaxiaPoemaHeroicdescriptiu1927"]
+    },
+    {
+        "title" : "Barcino a Carolo III, Hispaniarum rege, feliciter propugnata",
+        "content" : {
+            "subject" : [
+                {
+                    "url" : "Q3272485",
+                    "label" : {
+                        "label" : "en",
+                        "value" : "Siege of Barcelona"
+                    }
+                }
+            ],
+            "metre" : "hex"
+        },
+        "bibrefs" : [
+            "coroleuBarcelonaAtacadaPels2014"]
     }
 ]
