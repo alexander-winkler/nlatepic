@@ -18931,5 +18931,33 @@
         },
         "bibrefs" : [
             "coroleuBarcelonaAtacadaPels2014"]
-    }
+    },
+{
+"title": "Triumphus Marianus",
+"author" :{
+    "name" : "Joseph Wolff",
+    "ID" : [
+        {
+            "wikidata" : "Q130426661"
+        }
+    ]
+},
+"content" : {
+    "subject" : [
+        {
+            "url" : "Q1533009",
+            "label" : {
+                "label" : "en",
+                "value" : "Maria Hilf"
+            }
+        }
+    ],
+    "metre" : "hex",
+    "num_verses" : "862",
+    "num_books" : "1"
+},
+"bibrefs" : [
+    "978-3-85093-426-8"
+]
+}
 ]
