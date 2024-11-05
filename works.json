@@ -18960,5 +18960,32 @@
         "bibrefs" : [
                 "978-3-85093-426-8"
             ]
+},
+{
+    "title": "Iosaphatidos sive de nece B. Iosaphat Kuncewicz",
+    "author" : {
+            "name" : "Jozafat‏ Isakowicz",
+                "ID" : [
+        {
+            "wikidata" : "Q117805391"
+        }
+    ]
+    },
+    "content" : {
+            "subject" : [
+                        {
+            "url" : "Q355884",
+            "label" : {
+                "label" : "en",
+                "value" : "Josaphat Kuntsevych"
+            }
+        }
+        ],
+            "metre" : "hex",
+            "num_books" : "3"
+        },
+        "bibrefs" : [
+                "https://archive.org/details/rcin.org.pl.WA248_82393_XVIII-2-139_iosaphatidos-five_o_64431/page/n3/mode/2up"
+            ]
 }
 ]
